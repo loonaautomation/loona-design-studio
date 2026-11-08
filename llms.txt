@@ -1,20 +1,110 @@
 # Loona Design Studio
 
-> Free online design tools by Loona Automation. Every tool runs 100% in the visitor's browser: no sign-up, no uploads, no watermarks.
+> Free online design tools by Loona Automation. Every tool runs 100% in the visitor’s browser: no sign-up, no uploads, no watermarks.
 
-## Tools
+## Start Here — The Studio Core
 
-- [Chart Maker](https://loonaautomation.github.io/loona-design-studio/chart-maker/): Turn a table or pasted CSV into bar, line, pie and doughnut charts — custom colours, legend and PNG export.
-- [Photo Collage Maker](https://loonaautomation.github.io/loona-design-studio/photo-collage-maker/): Combine 2–9 photos into polished grid, hero and mosaic collages with gaps, rounded corners and PNG/JPG export.
-- [Logo Maker](https://loonaautomation.github.io/loona-design-studio/logo-maker/): Design a clean logo with your brand name, tagline, fonts, colour schemes and built-in icons — transparent PNG export.
-- [Poster / Flyer Maker](https://loonaautomation.github.io/loona-design-studio/poster-maker/): Build posters and flyers on ready sizes (A4, square, story) with movable text and shapes, templates and PNG export.
-- [Mind Map Maker](https://loonaautomation.github.io/loona-design-studio/mind-map-maker/): Grow ideas from a central node with tidy auto-layout, colour themes, pan and zoom — export PNG or save as JSON.
-- [Drawing Whiteboard](https://loonaautomation.github.io/loona-design-studio/drawing-whiteboard/): Sketch, annotate and brainstorm with pen, shapes and eraser — undo/redo and PNG export, touch friendly.
-- [Flowchart Maker](https://loonaautomation.github.io/loona-design-studio/flowchart-maker/): Build flowcharts with process, decision, start/end and document shapes, smart connectors and PNG export.
-- [Business Card Maker](https://loonaautomation.github.io/loona-design-studio/business-card-maker/): Design a print-ready business card (3.5 × 2 in at 300 DPI) with your details, colours and logo icon — PNG export.
-- [Screenshot Beautifier](https://loonaautomation.github.io/loona-design-studio/screenshot-beautifier/): Drop a screenshot onto a beautiful gradient backdrop with padding, rounded corners and shadow — share-ready PNG.
-- [Image Annotation Editor](https://loonaautomation.github.io/loona-design-studio/image-annotation-editor/): Mark up screenshots and images with arrows, text labels, boxes and privacy blur — then export a clean PNG.
-- [Favicon Generator](https://loonaautomation.github.io/loona-design-studio/favicon-generator/): Turn a letter, emoji or initials into a full favicon set — PNG sizes plus a real .ICO file, generated on your device.
+- [Chart Maker](https://loonaautomation.github.io/loona-design-studio/chart-maker/): All-in-one chart maker: bar, line, pie, doughnut and more from one table.
+- [Photo Collage Maker](https://loonaautomation.github.io/loona-design-studio/photo-collage-maker/): 2–9 photos into grid, hero and mosaic collages.
+- [Logo Maker](https://loonaautomation.github.io/loona-design-studio/logo-maker/): Brand logos with icons, fonts, schemes and transparent PNG.
+- [Poster / Flyer Maker](https://loonaautomation.github.io/loona-design-studio/poster-maker/): Posters and flyers on A4, square, story and more sizes.
+- [Mind Map Maker](https://loonaautomation.github.io/loona-design-studio/mind-map-maker/): Branching mind maps with tidy auto-layout and JSON save.
+- [Drawing Whiteboard](https://loonaautomation.github.io/loona-design-studio/drawing-whiteboard/): Sketch pad with pen, shapes, eraser and undo/redo.
+- [Flowchart Maker](https://loonaautomation.github.io/loona-design-studio/flowchart-maker/): Flowcharts with smart elbow connectors.
+- [Business Card Maker](https://loonaautomation.github.io/loona-design-studio/business-card-maker/): Print-ready 3.5 × 2 in cards at 300 DPI.
+- [Screenshot Beautifier](https://loonaautomation.github.io/loona-design-studio/screenshot-beautifier/): Screenshots on gradient backdrops, share-ready.
+- [Image Annotation Editor](https://loonaautomation.github.io/loona-design-studio/image-annotation-editor/): Arrows, labels and privacy blur for screenshots.
+- [Favicon Generator](https://loonaautomation.github.io/loona-design-studio/favicon-generator/): Full favicon pack: ICO + PNGs + manifest in a ZIP.
+
+## Charts & Data Visualisation
+
+- [Bar Chart Maker](https://loonaautomation.github.io/loona-design-studio/bar-chart-maker/): Grouped bar charts from a table or CSV.
+- [Column Chart Maker](https://loonaautomation.github.io/loona-design-studio/column-chart-maker/): Vertical column charts for reports and slides.
+- [Line Chart Maker](https://loonaautomation.github.io/loona-design-studio/line-chart-maker/): Multi-series trend lines over time.
+- [Area Chart Maker](https://loonaautomation.github.io/loona-design-studio/area-chart-maker/): Filled area charts that show volume.
+- [Pie Chart Maker](https://loonaautomation.github.io/loona-design-studio/pie-chart-maker/): Exact-proportion pies with percentages.
+- [Doughnut Chart Maker](https://loonaautomation.github.io/loona-design-studio/doughnut-chart-maker/): Ring charts with the total in the centre.
+- [Horizontal Bar Chart Maker](https://loonaautomation.github.io/loona-design-studio/horizontal-bar-chart-maker/): Ranked sideways bars for long labels.
+- [Stacked Bar Chart Maker](https://loonaautomation.github.io/loona-design-studio/stacked-bar-chart-maker/): Totals built from coloured parts.
+- [Scatter Plot Maker](https://loonaautomation.github.io/loona-design-studio/scatter-plot-maker/): X vs Y points with a least-squares trend line.
+- [Bubble Chart Maker](https://loonaautomation.github.io/loona-design-studio/bubble-chart-maker/): Lively bubble version of the scatter plot.
+- [Radar Chart Maker](https://loonaautomation.github.io/loona-design-studio/radar-chart-maker/): Spider charts for profile comparison.
+- [Histogram Maker](https://loonaautomation.github.io/loona-design-studio/histogram-maker/): Distributions from raw numbers, auto-binned.
+- [Box Plot Maker](https://loonaautomation.github.io/loona-design-studio/box-plot-maker/): Box-and-whisker plots from real quartiles.
+- [Funnel Chart Maker](https://loonaautomation.github.io/loona-design-studio/funnel-chart-maker/): Conversion funnels with stage percentages.
+- [Gauge Chart Maker](https://loonaautomation.github.io/loona-design-studio/gauge-chart-maker/): Speedometer gauges for KPIs and goals.
+- [Waffle Chart Maker](https://loonaautomation.github.io/loona-design-studio/waffle-chart-maker/): 10×10 grids where each square is 1%.
+- [Polar Area Chart Maker](https://loonaautomation.github.io/loona-design-studio/polar-area-chart-maker/): Nightingale coxcomb charts for cycles.
+- [Pictogram Maker](https://loonaautomation.github.io/loona-design-studio/pictogram-maker/): Isotype dot charts anyone can count.
+- [Venn Diagram Maker](https://loonaautomation.github.io/loona-design-studio/venn-diagram-maker/): Two- and three-circle Venn diagrams.
+- [Treemap Maker](https://loonaautomation.github.io/loona-design-studio/treemap-maker/): Squarified treemaps with exact areas.
+- [CSV to Chart](https://loonaautomation.github.io/loona-design-studio/csv-to-chart/): Paste CSV, pick from 16 chart types.
+
+## Diagrams & Maps
+
+- [Concept Map Maker](https://loonaautomation.github.io/loona-design-studio/concept-map-maker/): Concepts joined by labelled, meaningful links.
+- [Org Chart Maker](https://loonaautomation.github.io/loona-design-studio/org-chart-maker/): Org charts from simple indented text.
+- [Family Tree Maker](https://loonaautomation.github.io/loona-design-studio/family-tree-maker/): Clean three-generation family trees.
+- [Timeline Maker](https://loonaautomation.github.io/loona-design-studio/timeline-maker/): Events on an axis, sorted by year.
+- [Mermaid Diagram Maker](https://loonaautomation.github.io/loona-design-studio/mermaid-diagram-maker/): Paste Mermaid code, get a diagram PNG.
+
+## Templates — Posters, Cards, Covers & More
+
+- [Flyer Maker](https://loonaautomation.github.io/loona-design-studio/flyer-maker/): Print-ready A4 and Letter flyers.
+- [Banner Maker](https://loonaautomation.github.io/loona-design-studio/banner-maker/): Web banners, covers and headers at exact sizes.
+- [Infographic Maker](https://loonaautomation.github.io/loona-design-studio/infographic-maker/): Tall step and statistics infographics.
+- [Letterhead Maker](https://loonaautomation.github.io/loona-design-studio/letterhead-maker/): A4 business letterheads, print or PDF.
+- [Menu Maker](https://loonaautomation.github.io/loona-design-studio/menu-maker/): Café and restaurant menus with prices.
+- [Book Cover Maker](https://loonaautomation.github.io/loona-design-studio/book-cover-maker/): 6×9 and Kindle-ratio book covers.
+- [Album Cover Maker](https://loonaautomation.github.io/loona-design-studio/album-cover-maker/): Square music and podcast cover art.
+- [YouTube Thumbnail Maker](https://loonaautomation.github.io/loona-design-studio/youtube-thumbnail-maker/): Exact 1280 × 720 thumbnails that earn clicks.
+- [YouTube Banner Maker](https://loonaautomation.github.io/loona-design-studio/youtube-banner-maker/): Channel art with the safe area built in.
+- [Quote Maker](https://loonaautomation.github.io/loona-design-studio/quote-maker/): Quote images over photos or colours.
+- [Invitation Maker](https://loonaautomation.github.io/loona-design-studio/invitation-maker/): Birthday, wedding and event invitations.
+- [Greeting Card Maker](https://loonaautomation.github.io/loona-design-studio/greeting-card-maker/): Eid, birthday and thank-you cards.
+- [Ticket Maker](https://loonaautomation.github.io/loona-design-studio/ticket-maker/): Event tickets with a tear-off stub.
+- [ID Card Maker](https://loonaautomation.github.io/loona-design-studio/id-card-maker/): CR80 staff and student ID cards.
+- [Calendar Maker](https://loonaautomation.github.io/loona-design-studio/calendar-maker/): Correct printable month calendars.
+- [Announcement / Sign Maker](https://loonaautomation.github.io/loona-design-studio/announcement-maker/): Open/Closed, sale, notice and welcome signs.
+
+## Photo Boards & Splitters
+
+- [Moodboard Maker](https://loonaautomation.github.io/loona-design-studio/moodboard-maker/): Free-arrange photos, swatches and notes.
+- [Vision Board Maker](https://loonaautomation.github.io/loona-design-studio/vision-board-maker/): Goal photos + affirmations, poster & wallpaper sizes.
+- [Instagram Grid Splitter](https://loonaautomation.github.io/loona-design-studio/instagram-grid-splitter/): One photo into a 3×N profile grid (ZIP).
+- [Carousel Splitter](https://loonaautomation.github.io/loona-design-studio/carousel-splitter/): Wide images into swipeable panels (ZIP).
+- [Image Grid Splitter](https://loonaautomation.github.io/loona-design-studio/image-grid-splitter/): Any image into an exact N×M tile grid (ZIP).
+
+## Avatars & Icons
+
+- [Initials Avatar Maker](https://loonaautomation.github.io/loona-design-studio/initials-avatar-maker/): Name avatars with a colour from the name.
+- [Pixel Avatar Maker](https://loonaautomation.github.io/loona-design-studio/pixel-avatar-maker/): Seeded identicons + custom 5×5 pixel avatars.
+
+## Words & Pixels
+
+- [Word Cloud Generator](https://loonaautomation.github.io/loona-design-studio/word-cloud-generator/): Weighted word clouds from any text.
+- [Pixel Art Editor](https://loonaautomation.github.io/loona-design-studio/pixel-art-editor/): Sprite grids with pen, fill and crisp export.
+
+## Colour & CSS Generators for Developers
+
+- [Colour Shades Generator](https://loonaautomation.github.io/loona-design-studio/color-shades-generator/): Full 50–950 tonal scale from one colour.
+- [Colour Harmony Generator](https://loonaautomation.github.io/loona-design-studio/color-harmony-generator/): Six colour-wheel harmony schemes.
+- [Colour Converter](https://loonaautomation.github.io/loona-design-studio/color-converter/): HEX, RGB, HSL, HSV and CMYK in one view.
+- [Colour Mixer](https://loonaautomation.github.io/loona-design-studio/color-mixer/): Blend two colours in even steps.
+- [Random Colour Generator](https://loonaautomation.github.io/loona-design-studio/random-color-generator/): Six fresh random colours per roll.
+- [CSS Gradient Generator](https://loonaautomation.github.io/loona-design-studio/css-gradient-generator/): Multi-stop linear, radial and conic CSS.
+- [Text Gradient Generator](https://loonaautomation.github.io/loona-design-studio/text-gradient-generator/): Gradient headline text in CSS.
+- [Mesh Gradient Generator](https://loonaautomation.github.io/loona-design-studio/mesh-gradient-generator/): Aurora mesh gradients in pure CSS.
+- [Box Shadow Generator](https://loonaautomation.github.io/loona-design-studio/box-shadow-generator/): Visual CSS shadow designer with presets.
+- [Text Shadow Generator](https://loonaautomation.github.io/loona-design-studio/text-shadow-generator/): CSS text shadows with live preview.
+- [Border Radius / Blob Generator](https://loonaautomation.github.io/loona-design-studio/border-radius-generator/): Organic blob shapes via border-radius.
+- [Clip Path Generator](https://loonaautomation.github.io/loona-design-studio/clip-path-generator/): CSS clip-path shapes and polygons.
+- [CSS Button Generator](https://loonaautomation.github.io/loona-design-studio/css-button-generator/): Design buttons, get production CSS.
+- [CSS Spinner Generator](https://loonaautomation.github.io/loona-design-studio/css-spinner-generator/): Pure-CSS loading spinners with keyframes.
+- [Glassmorphism Generator](https://loonaautomation.github.io/loona-design-studio/glassmorphism-generator/): Frosted-glass cards in CSS.
+- [Neumorphism Generator](https://loonaautomation.github.io/loona-design-studio/neumorphism-generator/): Soft-UI neumorphic shadows.
+- [Cubic Bezier Generator](https://loonaautomation.github.io/loona-design-studio/cubic-bezier-generator/): Visual CSS easing-curve designer.
+- [CSS Triangle Generator](https://loonaautomation.github.io/loona-design-studio/css-triangle-generator/): Border-trick triangles in four directions.
 
 ## About
 
