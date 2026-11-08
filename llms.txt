@@ -1,0 +1,25 @@
+# Loona Design Studio
+
+> Free online design tools by Loona Automation. Every tool runs 100% in the visitor's browser: no sign-up, no uploads, no watermarks.
+
+## Tools
+
+- [Chart Maker](https://loonaautomation.github.io/loona-design-studio/chart-maker/): Turn a table or pasted CSV into bar, line, pie and doughnut charts — custom colours, legend and PNG export.
+- [Photo Collage Maker](https://loonaautomation.github.io/loona-design-studio/photo-collage-maker/): Combine 2–9 photos into polished grid, hero and mosaic collages with gaps, rounded corners and PNG/JPG export.
+- [Logo Maker](https://loonaautomation.github.io/loona-design-studio/logo-maker/): Design a clean logo with your brand name, tagline, fonts, colour schemes and built-in icons — transparent PNG export.
+- [Poster / Flyer Maker](https://loonaautomation.github.io/loona-design-studio/poster-maker/): Build posters and flyers on ready sizes (A4, square, story) with movable text and shapes, templates and PNG export.
+- [Mind Map Maker](https://loonaautomation.github.io/loona-design-studio/mind-map-maker/): Grow ideas from a central node with tidy auto-layout, colour themes, pan and zoom — export PNG or save as JSON.
+- [Drawing Whiteboard](https://loonaautomation.github.io/loona-design-studio/drawing-whiteboard/): Sketch, annotate and brainstorm with pen, shapes and eraser — undo/redo and PNG export, touch friendly.
+- [Flowchart Maker](https://loonaautomation.github.io/loona-design-studio/flowchart-maker/): Build flowcharts with process, decision, start/end and document shapes, smart connectors and PNG export.
+- [Business Card Maker](https://loonaautomation.github.io/loona-design-studio/business-card-maker/): Design a print-ready business card (3.5 × 2 in at 300 DPI) with your details, colours and logo icon — PNG export.
+- [Screenshot Beautifier](https://loonaautomation.github.io/loona-design-studio/screenshot-beautifier/): Drop a screenshot onto a beautiful gradient backdrop with padding, rounded corners and shadow — share-ready PNG.
+- [Image Annotation Editor](https://loonaautomation.github.io/loona-design-studio/image-annotation-editor/): Mark up screenshots and images with arrows, text labels, boxes and privacy blur — then export a clean PNG.
+- [Favicon Generator](https://loonaautomation.github.io/loona-design-studio/favicon-generator/): Turn a letter, emoji or initials into a full favicon set — PNG sizes plus a real .ICO file, generated on your device.
+
+## About
+
+- [About Us](https://loonaautomation.github.io/loona-design-studio/about.html)
+- [Contact](https://loonaautomation.github.io/loona-design-studio/contact.html)
+- [Privacy Policy](https://loonaautomation.github.io/loona-design-studio/privacy.html)
+- [Terms of Use](https://loonaautomation.github.io/loona-design-studio/terms.html)
+- [All Loona Automation tools](https://loonaautomation.github.io/)
