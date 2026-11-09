@@ -1,0 +1,29 @@
+{
+  "name": "Loona Doughnut Chart Maker",
+  "short_name": "Doughnut Chart Maker",
+  "description": "Free doughnut chart maker: a modern ring chart with the total in the centre, percentage slices and legend. No sign-up, runs in your browser.",
+  "id": "/loona-design-studio/doughnut-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

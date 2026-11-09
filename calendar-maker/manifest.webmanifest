@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calendar Maker",
+  "short_name": "Calendar Maker",
+  "description": "Free calendar maker: printable month calendars for any month and year, Sunday or Monday start, portrait or landscape. PNG export. No sign-up.",
+  "id": "/loona-design-studio/calendar-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona YouTube Banner Maker",
+  "short_name": "YouTube Banner Maker",
+  "description": "Free YouTube banner (channel art) maker: full 2560×1440 canvas with the TV/mobile safe area marked by the template. No sign-up.",
+  "id": "/loona-design-studio/youtube-banner-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vision Board Maker",
+  "short_name": "Vision Board Maker",
+  "description": "Free vision board maker: goal photos plus affirmation text cards on poster and wallpaper sizes. Make the board you will actually look at. No sign-up.",
+  "id": "/loona-design-studio/vision-board-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

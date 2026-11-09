@@ -1,0 +1,29 @@
+{
+  "name": "Loona 20 Curated Colour Palettes",
+  "short_name": "20 Curated Colour Palettes",
+  "description": "Twenty ready-to-use colour palettes with roles, HEX codes and copy-ready CSS variables — for brands, weddings, tech, food and more.",
+  "id": "/loona-design-studio/palettes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

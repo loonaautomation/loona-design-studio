@@ -1,0 +1,29 @@
+{
+  "name": "Loona Photo Collage Maker",
+  "short_name": "Photo Collage Maker",
+  "description": "Free online photo collage maker: combine 2–9 photos into grid, hero and mosaic layouts with gap, corner and background controls. PNG/JPG export, no sign-up.",
+  "id": "/loona-design-studio/photo-collage-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

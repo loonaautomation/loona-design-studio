@@ -1,0 +1,29 @@
+{
+  "name": "Loona Radar Chart Maker",
+  "short_name": "Radar Chart Maker",
+  "description": "Free radar (spider) chart maker: compare profiles across many attributes on one web chart, multi-series with PNG export. No sign-up.",
+  "id": "/loona-design-studio/radar-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

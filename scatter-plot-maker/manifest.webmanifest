@@ -1,0 +1,29 @@
+{
+  "name": "Loona Scatter Plot Maker",
+  "short_name": "Scatter Plot Maker",
+  "description": "Free scatter plot maker: plot X against Y from two series, with an optional least-squares trend line. Type a table or paste CSV. No sign-up.",
+  "id": "/loona-design-studio/scatter-plot-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

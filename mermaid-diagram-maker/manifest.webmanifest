@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mermaid Diagram Maker",
+  "short_name": "Mermaid Diagram Maker",
+  "description": "Free Mermaid flowchart renderer: paste Mermaid code and get a clean diagram PNG. Hand-rolled parser for the flowchart subset — honest scope, no uploads.",
+  "id": "/loona-design-studio/mermaid-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

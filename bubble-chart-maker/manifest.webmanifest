@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bubble Chart Maker",
+  "short_name": "Bubble Chart Maker",
+  "description": "Free bubble chart maker: scatter points with varied bubble sizes for a lively third-dimension feel. X and Y from two series. No sign-up.",
+  "id": "/loona-design-studio/bubble-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona A0 Paper Size",
+  "short_name": "A0 Paper Size",
+  "description": "A0 Paper dimensions: 841 × 1189 mm (841 × 1189 mm), 9933 × 14043 px at 300 DPI for print, 4967 × 7022 px at 150 DPI. With bleed and usage guide.",
+  "id": "/loona-design-studio/a0-paper-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

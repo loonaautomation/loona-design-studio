@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS Loading Spinner Generator",
+  "short_name": "CSS Loading Spinner Generator",
+  "description": "Free CSS spinner generator: ring, arc and bouncing-dots loading animations in pure CSS — size, thickness, colour and speed controls with full keyframes code.",
+  "id": "/loona-design-studio/css-spinner-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

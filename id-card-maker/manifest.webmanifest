@@ -1,0 +1,29 @@
+{
+  "name": "Loona ID Card Maker",
+  "short_name": "ID Card Maker",
+  "description": "Free ID card maker: CR80-size staff and student ID cards with photo, name, role and ID number. Portrait and landscape. No sign-up.",
+  "id": "/loona-design-studio/id-card-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

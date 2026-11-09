@@ -1,0 +1,29 @@
+{
+  "name": "Loona Forest & Campfire Colour Palette",
+  "short_name": "Forest & Campfire Colour Palette",
+  "description": "The Forest & Campfire palette: 5 coordinated colours with HEX codes, roles and copy-ready CSS variables. Woodland warmth — pine shade lit by ember orange.",
+  "id": "/loona-design-studio/palette-forest-campfire/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sign Maker",
+  "short_name": "Sign Maker",
+  "description": "Free sign maker: Open/Closed, Welcome, Sale, Warning and custom announcement signs — A4 landscape and wide sizes, print-ready. No sign-up.",
+  "id": "/loona-design-studio/announcement-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Polar Area Chart Maker",
+  "short_name": "Polar Area Chart Maker",
+  "description": "Free polar area chart maker: equal-angle segments whose radius grows with value — the Florence Nightingale coxcomb style. No sign-up.",
+  "id": "/loona-design-studio/polar-area-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

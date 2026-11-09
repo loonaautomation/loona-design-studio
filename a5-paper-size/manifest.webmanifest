@@ -1,0 +1,29 @@
+{
+  "name": "Loona A5 Paper Size",
+  "short_name": "A5 Paper Size",
+  "description": "A5 Paper dimensions: 148 × 210 mm (148 × 210 mm), 1748 × 2480 px at 300 DPI for print, 874 × 1240 px at 150 DPI. With bleed and usage guide.",
+  "id": "/loona-design-studio/a5-paper-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

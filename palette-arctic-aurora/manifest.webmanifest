@@ -1,0 +1,29 @@
+{
+  "name": "Loona Arctic Aurora Colour Palette",
+  "short_name": "Arctic Aurora Colour Palette",
+  "description": "The Arctic Aurora palette: 5 coordinated colours with HEX codes, roles and copy-ready CSS variables. Night sky spectacle — aurora greens over polar darks.",
+  "id": "/loona-design-studio/palette-arctic-aurora/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

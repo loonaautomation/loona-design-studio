@@ -1,0 +1,29 @@
+{
+  "name": "Loona Favicon Generator",
+  "short_name": "Favicon Generator",
+  "description": "Free favicon generator: from a letter, emoji or your own logo image — a real multi-size favicon.ico, the full PNG set, manifest and HTML snippet in one ZIP. No sign-up.",
+  "id": "/loona-design-studio/favicon-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

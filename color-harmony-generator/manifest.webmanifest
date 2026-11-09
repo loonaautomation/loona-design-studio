@@ -1,0 +1,29 @@
+{
+  "name": "Loona Colour Harmony Generator",
+  "short_name": "Colour Harmony Generator",
+  "description": "Free colour harmony generator: complementary, analogous, triadic, split-complementary, square and monochrome schemes from one base colour. Click to copy.",
+  "id": "/loona-design-studio/color-harmony-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

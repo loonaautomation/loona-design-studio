@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mind Map Maker",
+  "short_name": "Mind Map Maker",
+  "description": "Free online mind map maker: add child and sibling nodes, tidy automatic layout, colour themes, pan and zoom, PNG export and JSON save/load. No sign-up.",
+  "id": "/loona-design-studio/mind-map-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

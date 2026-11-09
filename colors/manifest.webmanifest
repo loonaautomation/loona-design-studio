@@ -1,0 +1,29 @@
+{
+  "name": "Loona All 141 CSS Named Colours",
+  "short_name": "All 141 CSS Named Colours",
+  "description": "Browse all 141 CSS named colours: HEX, RGB, HSL, CMYK, shades and harmonies for every colour, each on its own page.",
+  "id": "/loona-design-studio/colors/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

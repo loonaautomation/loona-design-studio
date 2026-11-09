@@ -1,0 +1,29 @@
+{
+  "name": "Loona Album Cover Maker",
+  "short_name": "Album Cover Maker",
+  "description": "Free album cover maker: square 1400 and 3000 px cover art for music and podcasts, with artist and title blocks. No sign-up.",
+  "id": "/loona-design-studio/album-cover-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
