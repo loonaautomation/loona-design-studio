@@ -20,7 +20,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
 <link rel="icon" href="favicon.ico">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
-<link rel="manifest" href="site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -117,6 +117,8 @@ table.data th{background:#faf8ef}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Loona Design Studio", "url": "https://loonaautomation.github.io/loona-design-studio/", "description": "Free online design tools that run 100% in your browser - charts, diagrams, templates, collages, logos, avatars and CSS generators.", "publisher": {"@type": "Organization", "name": "Loona Automation", "url": "https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Are Loona Design Studio tools really free?", "acceptedAnswer": {"@type": "Answer", "text": "Yes - every tool is 100% free, with no sign-up, no watermarks and no daily limits imposed by us."}}, {"@type": "Question", "name": "Are my photos and designs uploaded anywhere?", "acceptedAnswer": {"@type": "Answer", "text": "Never. Every tool runs 100% in your browser. Your photos, data and designs stay on your device from start to finish - that is the whole design."}}, {"@type": "Question", "name": "Which devices are supported?", "acceptedAnswer": {"@type": "Answer", "text": "Any modern browser on phone, tablet or computer - Chrome, Edge, Firefox and Safari all work. The drawing and editing tools support touch as well as mouse."}}, {"@type": "Question", "name": "Do the tools work offline?", "acceptedAnswer": {"@type": "Answer", "text": "Once a tool page has loaded, almost everything works even if your connection drops, because it all happens locally on your device."}}, {"@type": "Question", "name": "Where are the meme maker and colour palette tools?", "acceptedAnswer": {"@type": "Answer", "text": "They live in Loona Image Tools, our sister site - the Meme Generator and Color Palette Generator are linked from the footer, so nothing is ever duplicated across sites. This site\u2019s gradient tool is the CSS-developer-grade multi-stop version."}}]}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 <body>
 <header class="site"><div class="header-in">
@@ -176,5 +178,6 @@ table.data th{background:#faf8ef}
 <a href="terms.html">Terms of Use</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona Design Studio. Free online design tools that run 100% in your browser.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>

@@ -1,0 +1,28 @@
+{
+  "name": "Loona Design Studio",
+  "short_name": "Design Studio",
+  "description": "Free online design tools (80 tools): chart makers, diagram makers, template designers for posters, cards and covers, collage and splitters, logo and avatar makers, and CSS generators. No sign-up, everything runs on your device.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

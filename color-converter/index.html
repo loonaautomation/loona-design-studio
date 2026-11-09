@@ -20,7 +20,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
 <link rel="icon" href="../favicon.ico">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="manifest" href="../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -118,6 +118,8 @@ table.data th{background:#faf8ef}
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Colour Converter - Loona Design Studio", "url": "https://loonaautomation.github.io/loona-design-studio/color-converter/", "description": "Free extended colour converter: HEX \u2194 RGB \u2194 HSL \u2194 HSV \u2194 CMYK in one view, with luminance and contrast ratios. The developer-grade converter. No sign-up.", "applicationCategory": "DesignApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "Loona Automation", "url": "https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://loonaautomation.github.io/loona-design-studio/"}, {"@type": "ListItem", "position": 2, "name": "Design Studio", "item": "https://loonaautomation.github.io/loona-design-studio/"}, {"@type": "ListItem", "position": 3, "name": "Colour Converter", "item": "https://loonaautomation.github.io/loona-design-studio/color-converter/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Which format is \"correct\"?", "acceptedAnswer": {"@type": "Answer", "text": "All of them describe the same colour. HEX/RGB for screens, HSL for design adjustments, CMYK for print, HSV for pickers."}}, {"@type": "Question", "name": "What is a good contrast ratio?", "acceptedAnswer": {"@type": "Answer", "text": "WCAG asks for at least 4.5:1 for normal text against its background. Check your text colour against white and black in the grid."}}, {"@type": "Question", "name": "Does CMYK here match my printer exactly?", "acceptedAnswer": {"@type": "Answer", "text": "It is the standard mathematical conversion \u2014 a strong starting point. Professional print uses ICC profiles for final proofing."}}, {"@type": "Question", "name": "Can I enter RGB instead?", "acceptedAnswer": {"@type": "Answer", "text": "Use the colour picker, which covers the full RGB space, or the Shades tool\u2019s picker \u2014 the HEX updates everywhere."}}]}</script>
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 <body>
 <header class="site"><div class="header-in">
@@ -206,6 +208,7 @@ render();
 <a href="../terms.html">Terms of Use</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona Design Studio. Free online design tools that run 100% in your browser.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
 

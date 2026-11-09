@@ -20,7 +20,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
 <link rel="icon" href="../favicon.ico">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="manifest" href="../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -118,6 +118,8 @@ table.data th{background:#faf8ef}
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Org Chart Maker - Loona Design Studio", "url": "https://loonaautomation.github.io/loona-design-studio/org-chart-maker/", "description": "Free org chart maker: type your hierarchy as indented text and get a clean organisational chart instantly. PNG export at full size. No sign-up.", "applicationCategory": "DesignApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "Loona Automation", "url": "https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://loonaautomation.github.io/loona-design-studio/"}, {"@type": "ListItem", "position": 2, "name": "Design Studio", "item": "https://loonaautomation.github.io/loona-design-studio/"}, {"@type": "ListItem", "position": 3, "name": "Org Chart Maker", "item": "https://loonaautomation.github.io/loona-design-studio/org-chart-maker/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I show two people at the same level?", "acceptedAnswer": {"@type": "Answer", "text": "Give them the same indentation under the same manager line."}}, {"@type": "Question", "name": "What if my text indent is wrong?", "acceptedAnswer": {"@type": "Answer", "text": "The rule is simple: a line belongs to the nearest line above it with less indentation. Keep indents consistent (two spaces per level) and the tree builds itself."}}, {"@type": "Question", "name": "Can the chart be very wide?", "acceptedAnswer": {"@type": "Answer", "text": "Yes \u2014 wide trees export as wide PNGs at full resolution. The on-screen preview scales down to fit, the download never does."}}, {"@type": "Question", "name": "Is my staff data private?", "acceptedAnswer": {"@type": "Answer", "text": "Completely \u2014 the text is parsed only in your browser."}}]}</script>
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 <body>
 <header class="site"><div class="header-in">
@@ -277,6 +279,7 @@ draw();
 <a href="../terms.html">Terms of Use</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona Design Studio. Free online design tools that run 100% in your browser.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
 

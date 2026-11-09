@@ -20,7 +20,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
 <link rel="icon" href="../favicon.ico">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="manifest" href="../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -118,6 +118,8 @@ table.data th{background:#faf8ef}
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Screenshot Beautifier - Loona Design Studio", "url": "https://loonaautomation.github.io/loona-design-studio/screenshot-beautifier/", "description": "Free screenshot beautifier: paste or upload a screenshot and place it on a gradient backdrop with padding, rounded corners and shadow. Export a polished PNG.", "applicationCategory": "DesignApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "Loona Automation", "url": "https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://loonaautomation.github.io/loona-design-studio/"}, {"@type": "ListItem", "position": 2, "name": "Design Studio", "item": "https://loonaautomation.github.io/loona-design-studio/"}, {"@type": "ListItem", "position": 3, "name": "Screenshot Beautifier", "item": "https://loonaautomation.github.io/loona-design-studio/screenshot-beautifier/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I paste a screenshot?", "acceptedAnswer": {"@type": "Answer", "text": "Copy a screenshot to your clipboard (for example with the Snipping Tool or Print Screen), open this page and press Ctrl+V. The image appears instantly \u2014 no file needed."}}, {"@type": "Question", "name": "Is my screenshot uploaded?", "acceptedAnswer": {"@type": "Answer", "text": "No. Pasting and uploading both load the image only into your browser; the beautified PNG is created on your device."}}, {"@type": "Question", "name": "Will my screenshot be resized?", "acceptedAnswer": {"@type": "Answer", "text": "Only if it is very large: screenshots are fitted to a maximum of 1400 pixels on the long edge so exports stay quick. The proportions are never changed."}}, {"@type": "Question", "name": "Can I use a plain background instead of a gradient?", "acceptedAnswer": {"@type": "Answer", "text": "Pick the Sand gradient for a near-solid light backdrop, or the Slate option for a near-solid dark one."}}, {"@type": "Question", "name": "What can I use the result for?", "acceptedAnswer": {"@type": "Answer", "text": "Social posts, blog headers, app-store style previews, tutorials and presentations \u2014 anywhere a screenshot needs to look designed."}}]}</script>
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 <body>
 <header class="site"><div class="header-in">
@@ -248,6 +250,7 @@ draw();
 <a href="../terms.html">Terms of Use</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona Design Studio. Free online design tools that run 100% in your browser.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
 
