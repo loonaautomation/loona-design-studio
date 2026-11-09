@@ -42,7 +42,7 @@ function LoonaEditor(cfg){
           ctx.save();ctx.beginPath();ctx.rect(b.x,b.y,b.w,b.h);ctx.clip();ctx.drawImage(im,b.x+(b.w-w2)/2,b.y+(b.h-h2)/2,w2,h2);ctx.restore();}
         else{ctx.strokeStyle='#9aa79f';ctx.setLineDash([8,6]);ctx.strokeRect(b.x,b.y,b.w,b.h);ctx.setLineDash([]);
           ctx.fillStyle='#5a6d68';ctx.font='600 '+Math.max(14,Math.min(26,b.h/6))+'px Arial';ctx.textAlign='center';
-          ctx.fillText('Your photo — use "Add photo block" then upload',b.x+b.w/2,b.y+b.h/2);}}
+          ctx.fillText('Tu foto — usa "Añadir bloque de foto" y luego súbela',b.x+b.w/2,b.y+b.h/2);}}
       else{ctx.fillStyle=b.color;ctx.font=(b.bold?'700 ':'400 ')+(b.fontSize||40)+'px '+(b.font||'"Segoe UI", Arial, sans-serif');
         ctx.textAlign=b.align||'left';ctx.textBaseline='top';
         var lines=String(b.text||'').split('\n');var lh=(b.fontSize||40)*1.24;

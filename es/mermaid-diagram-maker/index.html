@@ -204,11 +204,11 @@ function parseMermaid(src){
       var a=parseNodeToken(em[1]),b=parseNodeToken(em[4]);
       if(a&&b){ensure(a.id,a.label,a.shape);ensure(b.id,b.label,b.shape);
         edges.push({from:a.id,to:b.id,label:(em[3]||'').trim(),style:em[2]==='---'?'line':'arrow'});return;}
-      errors.push('Line '+(ln+1)+': no se pudo analizar la conexión.');return;
+      errors.push('Línea '+(ln+1)+': no se pudo analizar la conexión.');return;
     }
     var single=parseNodeToken(line);
     if(single){ensure(single.id,single.label,single.shape);return;}
-    if(line)errors.push('Line '+(ln+1)+': fuera del subconjunto compatible.');
+    if(line)errors.push('Línea '+(ln+1)+': fuera del subconjunto compatible.');
   });
   return{dir:dir,nodes:nodes,order:order,edges:edges,errors:errors};
 }
@@ -274,8 +274,8 @@ function draw(){
     lines.forEach(function(ln,j){ctx.fillText(ln,p.x+p.w/2,y0+j*lh);});});
   ctx.restore();
   var st=$('#st');
-  if(parsed.errors.length){st.textContent=parsed.errors[0]+(parsed.errors.length>1?' (+'+(parsed.errors.length-1)+' more)':'');st.className='status err';}
-  else{st.textContent='Rendered '+parsed.order.length+' nodos y '+parsed.edges.length+' conexiones ('+parsed.dir+').';st.className='status ok';}
+  if(parsed.errors.length){st.textContent=parsed.errors[0]+(parsed.errors.length>1?' (+'+(parsed.errors.length-1)+' más)':'');st.className='status err';}
+  else{st.textContent='Renderizado '+parsed.order.length+' nodos y '+parsed.edges.length+' conexiones ('+parsed.dir+').';st.className='status ok';}
 }
 $('#mmIn').addEventListener('input',draw);
 $('#dlMm').addEventListener('click',function(){

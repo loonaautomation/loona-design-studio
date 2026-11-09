@@ -226,7 +226,7 @@ function draw(){
   var placed=layoutCloud(items,+$('#wcMax').value,cv.width,cv.height,measure);
   placed.forEach(function(p,i){ctx.font='700 '+p.size+'px "Segoe UI", Arial, sans-serif';
     ctx.fillStyle=WC_COLORS[i%WC_COLORS.length];ctx.textAlign='left';ctx.textBaseline='top';ctx.fillText(p.word,p.x,p.y);});
-  $('#wcInfo').textContent=items.length?('Placed '+placed.length+' de tus principales '+Math.min(items.length,+$('#wcMax').value)+' palabras (más frecuente: "'+items[0].word+'" × '+items[0].count+'). Las palabras que no caben se omiten.'):'Pega algo de texto para crear tu nube.';
+  $('#wcInfo').textContent=items.length?('Colocado '+placed.length+' de tus principales '+Math.min(items.length,+$('#wcMax').value)+' palabras (más frecuente: "'+items[0].word+'" × '+items[0].count+'). Las palabras que no caben se omiten.'):'Pega algo de texto para crear tu nube.';
 }
 ['wcText','wcMax','wcBg','wcStop'].forEach(function(id){$('#'+id).addEventListener('input',draw);$('#'+id).addEventListener('change',draw);});
 $('#dlWc').addEventListener('click',function(){$('#cv').toBlob(function(b){var u=URL.createObjectURL(b);var a=document.createElement('a');a.href=u;a.download='loona-word-cloud.png';a.click();setTimeout(function(){URL.revokeObjectURL(u);},3000);},'image/png');});

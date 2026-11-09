@@ -181,7 +181,7 @@ function render(){
   var steps=+$('#steps').value;var mix=mixColors($('#c1').value,$('#c2').value,steps);
   $('#mixOut').innerHTML=mix.map(function(hx){return '<div class="swbig" data-hex="'+hx+'" style="background:'+hx+';min-width:92px;color:#fff;text-shadow:0 1px 3px rgba(0,0,0,.5)"><span>'+hx+'</span></div>';}).join('');
   document.querySelectorAll('.swbig').forEach(function(el){el.addEventListener('click',function(){
-    if(navigator.clipboard)navigator.clipboard.writeText(el.dataset.hex);$('#st').textContent='Copied '+el.dataset.hex;$('#st').className='status ok';});});
+    if(navigator.clipboard)navigator.clipboard.writeText(el.dataset.hex);$('#st').textContent='Copiado '+el.dataset.hex;$('#st').className='status ok';});});
   $('#cssOut').value=mix.join('\n');
 }
 ['c1','c2','steps'].forEach(function(id){$('#'+id).addEventListener('input',render);});

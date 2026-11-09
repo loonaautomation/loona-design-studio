@@ -194,7 +194,7 @@ function parseChartCSV(text){
   var head=splitLine(lines[0]);
   var names=head.slice(1); if(!names.length)names=['Value'];
   var labels=[],cols=names.map(function(){return[];});
-  for(var i=1;i<lines.length;i++){var cells=splitLine(lines[i]);labels.push(cells[0]||('Item '+(i)));
+  for(var i=1;i<lines.length;i++){var cells=splitLine(lines[i]);labels.push(cells[0]||('Elemento '+(i)));
     for(var j=0;j<names.length;j++){var v=parseFloat(cells[j+1]);cols[j].push(isNaN(v)?0:v);}}
   return{labels:labels,series:names.map(function(n,j){return{name:n,values:cols[j],color:CHART_PALETTE[j%CHART_PALETTE.length]};})};
 }
@@ -219,7 +219,7 @@ function linePoints(values,x0,y0,w,h,maxV){var n=values.length;return values.map
 var chartColors={};
 function readTable(){
   var nameInputs=document.querySelectorAll('.ser-name');var series=[];
-  nameInputs.forEach(function(inp,j){series.push({name:inp.value||('Series '+(j+1)),values:[],color:(chartColors[j]||CHART_PALETTE[j%CHART_PALETTE.length])});});
+  nameInputs.forEach(function(inp,j){series.push({name:inp.value||('Serie '+(j+1)),values:[],color:(chartColors[j]||CHART_PALETTE[j%CHART_PALETTE.length])});});
   var labels=[];document.querySelectorAll('#dataTable tbody tr').forEach(function(tr){
     var inputs=tr.querySelectorAll('input');labels.push(inputs[0].value||'');
     series.forEach(function(s,j){var v=parseFloat(inputs[j+1].value);s.values.push(isNaN(v)?0:v);});});
@@ -229,7 +229,7 @@ function buildTable(data){
   var thead='<tr><th style="min-width:110px">Etiqueta</th>'+data.series.map(function(s,j){return '<th><input class="ser-name" value="'+String(s.name).replace(/"/g,'&quot;')+'"></th>';}).join('')+'</tr>';
   $('#dataTable thead').innerHTML=thead;
   $('#dataTable tbody').innerHTML=data.labels.map(function(lab,i){return '<tr><td><input value="'+String(lab).replace(/"/g,'&quot;')+'"></td>'+data.series.map(function(s){return '<td><input type="number" step="any" value="'+s.values[i]+'"></td>';}).join('')+'</tr>';}).join('');
-  var cc=$('#colours');cc.innerHTML=data.series.map(function(s,j){return '<label style="display:flex;align-items:center;gap:6px;font-size:.9rem"><input type="color" data-ser="'+j+'" value="'+(chartColors[j]||s.color||CHART_PALETTE[j%10])+'"> '+(s.name||('Series '+(j+1)))+'</label>';}).join('');
+  var cc=$('#colours');cc.innerHTML=data.series.map(function(s,j){return '<label style="display:flex;align-items:center;gap:6px;font-size:.9rem"><input type="color" data-ser="'+j+'" value="'+(chartColors[j]||s.color||CHART_PALETTE[j%10])+'"> '+(s.name||('Serie '+(j+1)))+'</label>';}).join('');
   cc.querySelectorAll('input[type=color]').forEach(function(inp){inp.addEventListener('input',function(){chartColors[+inp.dataset.ser]=inp.value;draw();});});
   document.querySelectorAll('#dataTable input').forEach(function(inp){inp.addEventListener('input',draw);});
   document.querySelectorAll('.ser-name').forEach(function(inp){inp.addEventListener('input',function(){buildColourLabels();draw();});});
@@ -283,8 +283,8 @@ function draw(){
 var DEFAULT_DATA={labels:['Jan','Feb','Mar','Apr'],series:[{name:'Sales',values:[120,190,150,220],color:CHART_PALETTE[0]},{name:'Expenses',values:[80,110,95,130],color:CHART_PALETTE[1]}]};
 buildTable(DEFAULT_DATA);draw();
 $('#chartType').addEventListener('change',draw);$('#chartTitle').addEventListener('input',draw);$('#showLegend').addEventListener('change',draw);
-$('#addRow').addEventListener('click',function(){var d=readTable();d.labels.push('Item '+(d.labels.length+1));d.series.forEach(function(s){s.values.push(0);});buildTable(d);draw();});
-$('#addCol').addEventListener('click',function(){var d=readTable();d.series.push({name:'Series '+(d.series.length+1),values:d.labels.map(function(){return 0;}),color:CHART_PALETTE[d.series.length%10]});buildTable(d);draw();});
+$('#addRow').addEventListener('click',function(){var d=readTable();d.labels.push('Elemento '+(d.labels.length+1));d.series.forEach(function(s){s.values.push(0);});buildTable(d);draw();});
+$('#addCol').addEventListener('click',function(){var d=readTable();d.series.push({name:'Serie '+(d.series.length+1),values:d.labels.map(function(){return 0;}),color:CHART_PALETTE[d.series.length%10]});buildTable(d);draw();});
 $('#delRow').addEventListener('click',function(){var d=readTable();if(d.labels.length>1){d.labels.pop();d.series.forEach(function(s){s.values.pop();});buildTable(d);draw();}});
 $('#delCol').addEventListener('click',function(){var d=readTable();if(d.series.length>1){d.series.pop();buildTable(d);draw();}});
 $('#applyCsv').addEventListener('click',function(){var d=parseChartCSV($('#csvIn').value);if(!d.labels.length){$('#st').textContent='Ese CSV parece vacío: revisa el formato e inténtalo de nuevo.';$('#st').className='status err';return;}chartColors={};buildTable(d);draw();$('#st').textContent='CSV aplicado: '+d.labels.length+' filas, '+d.series.length+' series.';$('#st').className='status ok';});

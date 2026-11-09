@@ -180,7 +180,7 @@ function render(){
   $('#randOut').innerHTML=list.map(function(hx){var rgb=hexToRgb(hx);var hsl=rgbToHsl(rgb.r,rgb.g,rgb.b);
     return '<div class="swbig" data-hex="'+hx+'" style="background:'+hx+';min-width:130px;color:#fff;text-shadow:0 1px 3px rgba(0,0,0,.55)"><b>'+hx+'</b><span>hsl('+hsl.h+', '+hsl.s+'%, '+hsl.l+'%)</span></div>';}).join('');
   document.querySelectorAll('.swbig').forEach(function(el){el.addEventListener('click',function(){
-    if(navigator.clipboard)navigator.clipboard.writeText(el.dataset.hex);$('#st').textContent='Copied '+el.dataset.hex;$('#st').className='status ok';});});
+    if(navigator.clipboard)navigator.clipboard.writeText(el.dataset.hex);$('#st').textContent='Copiado '+el.dataset.hex;$('#st').className='status ok';});});
   $('#cssOut').value=list.join('\n');
 }
 $('#again').addEventListener('click',render);

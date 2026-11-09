@@ -184,7 +184,7 @@ function render(){
   $('#shades').innerHTML=ts.shades.map(function(hx){return '<div class="swbig" data-hex="'+hx+'" style="background:'+hx+';color:#fff"><span>'+hx+'</span></div>';}).join('');
   document.querySelectorAll('.swbig').forEach(function(el){el.addEventListener('click',function(){
     if(navigator.clipboard)navigator.clipboard.writeText(el.dataset.hex);
-    $('#st').textContent='Copied '+el.dataset.hex;$('#st').className='status ok';});});
+    $('#st').textContent='Copiado '+el.dataset.hex;$('#st').className='status ok';});});
   $('#cssOut').value=':root{\n'+scale.map(function(s){return '  --color-'+s.step+': '+s.hex+';';}).join('\n')+'\n}';
 }
 $('#baseCol').addEventListener('input',render);

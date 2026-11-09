@@ -183,7 +183,7 @@ function render(){
   $('#out').innerHTML=row('Complementario (opuesto en la rueda)',h.complementary)+row('Análogos (vecinos)',h.analogous)
     +row('Triádico (cada 120°)',h.triadic)+row('Split-complementary',h.splitComplementary)+row('Cuadrado (cada 90°)',h.square)+row('Monocromo (un tono, muchas luces)',h.monochrome);
   document.querySelectorAll('.swbig').forEach(function(el){el.addEventListener('click',function(){
-    if(navigator.clipboard)navigator.clipboard.writeText(el.dataset.hex);$('#st').textContent='Copied '+el.dataset.hex;$('#st').className='status ok';});});
+    if(navigator.clipboard)navigator.clipboard.writeText(el.dataset.hex);$('#st').textContent='Copiado '+el.dataset.hex;$('#st').className='status ok';});});
   $('#cssOut').value=Object.keys(h).map(function(k){return '/* '+k+' */\n'+h[k].map(function(hx,i){return '--'+k+'-'+(i+1)+': '+hx+';';}).join('\n');}).join('\n');
 }
 $('#baseCol').addEventListener('input',render);
