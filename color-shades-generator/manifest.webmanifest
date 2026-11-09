@@ -1,6 +1,6 @@
 {
   "name": "Loona Colour Shades & Tints Generator",
-  "short_name": "Colour Shades & Tints Generator",
+  "short_name": "Colour Shades & Tints",
   "description": "Free colour shades generator: one colour becomes a full Tailwind-style 50–950 tonal scale plus tints and shades, with CSS variables export. No sign-up.",
   "id": "/loona-design-studio/color-shades-generator/",
   "start_url": ".",
