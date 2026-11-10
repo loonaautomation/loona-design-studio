@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ بطاقات الأعمال",
+  "short_name": "منشئ بطاقات الأعمال",
+  "description": "منشئ بطاقات أعمال مجاني عبر الإنترنت: اسمك ولقبك واتصالاتك وأيقونة شعارك على بطاقة حقيقية 3.5 × 2 بوصة بدقة 300 DPI (1050 × 600 px). PNG جاهز للطباعة، دون تسجيل.",
+  "id": "/loona-design-studio/ar/business-card-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

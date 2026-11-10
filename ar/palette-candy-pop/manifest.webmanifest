@@ -1,0 +1,29 @@
+{
+  "name": "Loona لوحة ألوان حلوى البوب",
+  "short_name": "لوحة ألوان حلوى البوب",
+  "description": "لوحة حلوى بوب: 5 ألوان منسقة برموز HEX وأدوار ومتغيرات CSS جاهزة للنسخ. سكر مرح — ألوان حلوة يمنعها من الفوضى مرساة برقوقية عميقة.",
+  "id": "/loona-design-studio/ar/palette-candy-pop/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

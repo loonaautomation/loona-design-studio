@@ -1,0 +1,29 @@
+{
+  "name": "Loona سبورة الرسم",
+  "short_name": "سبورة الرسم",
+  "description": "سبورة رسم مجانية عبر الإنترنت: أدوات قلم وممحاة وخط ومستطيل ودائرة، أحجام وألوان فرشاة، تراجع/إعادة وتصدير PNG. صديقة للمس، دون تسجيل.",
+  "id": "/loona-design-studio/ar/drawing-whiteboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

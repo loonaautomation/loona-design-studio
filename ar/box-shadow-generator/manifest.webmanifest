@@ -1,0 +1,29 @@
+{
+  "name": "Loona مولّد ظل الصندوق",
+  "short_name": "مولّد ظل الصندوق",
+  "description": "مولّد ظلال صندوق مجاني: صمّم ظلال CSS ناعمة وصلبة وعائمة بمنزلقات للإزاحة والتمويه والانتشار والعتامة والإدخال — معاينة مباشرة وكود.",
+  "id": "/loona-design-studio/ar/box-shadow-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

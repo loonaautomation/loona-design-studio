@@ -1,0 +1,29 @@
+{
+  "name": "Loona مولّد التدرجات الشبكية",
+  "short_name": "مولّد التدرجات الشبكية",
+  "description": "مولّد تدرجات شبكية مجاني: أربع فقاعات ألوان قابلة للنقل فوق لون أساسي، تُصدَّر كطبقات radial-gradient CSS خالصة. لا حاجة لصور.",
+  "id": "/loona-design-studio/ar/mesh-gradient-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona أفضل ألوان البناء والحرف",
+  "short_name": "أفضل ألوان البناء والحرف",
+  "description": "Colour palettes for construction & trades: two curated directions with HEX codes, typography guidance and do/don&#x27;t rules. Free design guide.",
+  "id": "/loona-design-studio/ar/palette-for-construction/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ المخططات الدائرية الحلقية",
+  "short_name": "منشئ المخططات الدائرية الحلقية",
+  "description": "منشئ مخططات حلقية مجاني: مخطط حلقي حديث مع المجموع في المركز وشرائح نسب مئوية ومفتاح. دون تسجيل، يعمل في متصفحك.",
+  "id": "/loona-design-studio/ar/doughnut-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

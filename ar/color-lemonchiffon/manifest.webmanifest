@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lemonchiffon",
+  "short_name": "Lemonchiffon",
+  "description": "لون Lemonchiffon: #FFFACD، RGB(255, 250, 205)، HSL(54, 100%, 90%)، CMYK وتباين WCAG، بالإضافة إلى الدرجات والظلال والتناغمات. قيم CSS جاهزة للنسخ.",
+  "id": "/loona-design-studio/ar/color-lemonchiffon/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

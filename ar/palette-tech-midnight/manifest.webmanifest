@@ -1,0 +1,29 @@
+{
+  "name": "Loona لوحة ألوان منتصف ليل التقنية",
+  "short_name": "لوحة ألوان منتصف ليل التقنية",
+  "description": "لوحة تقنية منتصف الليل: 5 ألوان منسقة برموز HEX وأدوار ومتغيرات CSS جاهزة للنسخ. تقنية وضع داكن — أسطح شبه سوداء بلمسات كهربائية.",
+  "id": "/loona-design-studio/ar/palette-tech-midnight/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

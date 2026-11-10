@@ -1,0 +1,29 @@
+{
+  "name": "Loona مولّد تناغم الألوان",
+  "short_name": "مولّد تناغم الألوان",
+  "description": "مولّد تناغم ألوان مجاني: مخططات مكملة ومتناظرة وثلاثية ومكملة منقسمة ومربعة وأحادية من لون أساسي واحد. انقر للنسخ.",
+  "id": "/loona-design-studio/ar/color-harmony-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

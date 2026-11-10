@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ الخرائط الذهنية",
+  "short_name": "منشئ الخرائط الذهنية",
+  "description": "منشئ خرائط ذهنية مجاني عبر الإنترنت: أضف عقدًا فرعية ومماثلة، تخطيط تلقائي مرتب، سمات ألوان، تحريك وتكبير، تصدير PNG وحفظ/تحميل JSON. دون تسجيل.",
+  "id": "/loona-design-studio/ar/mind-map-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

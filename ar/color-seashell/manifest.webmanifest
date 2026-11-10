@@ -1,0 +1,29 @@
+{
+  "name": "Loona Seashell",
+  "short_name": "Seashell",
+  "description": "لون Seashell: #FFF5EE، RGB(255, 245, 238)، HSL(25, 100%, 97%)، CMYK وتباين WCAG، بالإضافة إلى الدرجات والظلال والتناغمات. قيم CSS جاهزة للنسخ.",
+  "id": "/loona-design-studio/ar/color-seashell/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

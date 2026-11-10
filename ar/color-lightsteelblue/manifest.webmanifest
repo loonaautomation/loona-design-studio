@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lightsteelblue",
+  "short_name": "Lightsteelblue",
+  "description": "لون Lightsteelblue: #B0C4DE، RGB(176, 196, 222)، HSL(214, 41%, 78%)، CMYK وتباين WCAG، بالإضافة إلى الدرجات والظلال والتناغمات. قيم CSS جاهزة للنسخ.",
+  "id": "/loona-design-studio/ar/color-lightsteelblue/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

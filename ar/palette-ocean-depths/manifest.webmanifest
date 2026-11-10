@@ -1,0 +1,29 @@
+{
+  "name": "Loona لوحة ألوان أعماق المحيط",
+  "short_name": "لوحة ألوان أعماق المحيط",
+  "description": "لوحة أعماق المحيط: 5 ألوان منسقة برموز HEX وأدوار ومتغيرات CSS جاهزة للنسخ. ثقة وعمق وهدوء — البحر من ضوء السطح إلى الماء العميق.",
+  "id": "/loona-design-studio/ar/palette-ocean-depths/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

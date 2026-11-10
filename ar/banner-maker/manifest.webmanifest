@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ البنرات",
+  "short_name": "منشئ البنرات",
+  "description": "منشئ بنرات مجاني: أحجام لوحة المتصدرين والمستطيل وناطحة السحاب وغلاف Facebook وترويسة X مع قوالب وتصدير PNG. دون تسجيل.",
+  "id": "/loona-design-studio/ar/banner-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Papayawhip",
+  "short_name": "Papayawhip",
+  "description": "لون Papayawhip: #FFEFD5، RGB(255, 239, 213)، HSL(37, 100%, 92%)، CMYK وتباين WCAG، بالإضافة إلى الدرجات والظلال والتناغمات. قيم CSS جاهزة للنسخ.",
+  "id": "/loona-design-studio/ar/color-papayawhip/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

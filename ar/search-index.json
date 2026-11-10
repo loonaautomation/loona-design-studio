@@ -1,0 +1,722 @@
+[
+{
+"n": "منشئ المخططات",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/chart-maker/",
+"s": "Loona Design Studio",
+"d": "منشئ مخططات الكل في واحد: شريطي وخطي ودائري وحلقي وغيرها من جدول واحد.",
+"k": "chart maker chart maker all in one chart maker bar line pie doughnut and more from one table منشئ المخططات منشئ مخططات الكل في واحد: شريطي وخطي ودائري وحلقي وغيرها من جدول واحد.",
+"p": 0,
+"c": "Tool"
+},
+{
+"n": "منشئ الكولاج الصوري",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/photo-collage-maker/",
+"s": "Loona Design Studio",
+"d": "من 2 إلى 9 صور في كولاجات شبكية ورئيسية وفسيفسائية.",
+"k": "photo collage maker photo collage maker 2 9 photos into grid hero and mosaic collages منشئ الكولاج الصوري من 2 إلى 9 صور في كولاجات شبكية ورئيسية وفسيفسائية.",
+"p": 3,
+"c": "Tool"
+},
+{
+"n": "منشئ الشعارات",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/logo-maker/",
+"s": "Loona Design Studio",
+"d": "شعارات علامات بأيقونات وخطوط ومخططات وPNG شفاف.",
+"k": "logo maker logo maker brand logos with icons fonts schemes and transparent png منشئ الشعارات شعارات علامات بأيقونات وخطوط ومخططات وpng شفاف.",
+"p": 1,
+"c": "Tool"
+},
+{
+"n": "منشئ الملصقات والنشرات",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/poster-maker/",
+"s": "Loona Design Studio",
+"d": "ملصقات ونشرات بمقاسات A4 ومربع وقصة وغيرها.",
+"k": "poster flyer maker poster maker posters and flyers on a4 square story and more sizes منشئ الملصقات والنشرات ملصقات ونشرات بمقاسات a4 ومربع وقصة وغيرها.",
+"p": 2,
+"c": "Tool"
+},
+{
+"n": "منشئ الخرائط الذهنية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/mind-map-maker/",
+"s": "Loona Design Studio",
+"d": "خرائط ذهنية متفرعة بتخطيط تلقائي مرتب وحفظ JSON.",
+"k": "mind map maker mind map maker branching mind maps with tidy auto layout and json save منشئ الخرائط الذهنية خرائط ذهنية متفرعة بتخطيط تلقائي مرتب وحفظ json.",
+"p": 4,
+"c": "Tool"
+},
+{
+"n": "لوحة رسم بيضاء",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/drawing-whiteboard/",
+"s": "Loona Design Studio",
+"d": "لوحة رسم بقلم وأشكال وممحاة وتراجع/إعادة.",
+"k": "drawing whiteboard drawing whiteboard sketch pad with pen shapes eraser and undo redo لوحة رسم بيضاء لوحة رسم بقلم وأشكال وممحاة وتراجع/إعادة.",
+"p": 105,
+"c": "Tool"
+},
+{
+"n": "منشئ المخططات الانسيابية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/flowchart-maker/",
+"s": "Loona Design Studio",
+"d": "مخططات انسيابية بوصلات كوع ذكية.",
+"k": "flowchart maker flowchart maker flowcharts with smart elbow connectors منشئ المخططات الانسيابية مخططات انسيابية بوصلات كوع ذكية.",
+"p": 106,
+"c": "Tool"
+},
+{
+"n": "منشئ بطاقات الأعمال",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/business-card-maker/",
+"s": "Loona Design Studio",
+"d": "بطاقات جاهزة للطباعة 3.5 × 2 in بدقة 300 DPI.",
+"k": "business card maker business card maker print ready 3 5 2 in cards at 300 dpi منشئ بطاقات الأعمال بطاقات جاهزة للطباعة 3.5 × 2 in بدقة 300 dpi.",
+"p": 107,
+"c": "Tool"
+},
+{
+"n": "مُجمّل لقطات الشاشة",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/screenshot-beautifier/",
+"s": "Loona Design Studio",
+"d": "لقطات شاشة على خلفيات تدرج، جاهزة للمشاركة.",
+"k": "screenshot beautifier screenshot beautifier screenshots on gradient backdrops share ready مجمل لقطات الشاشة لقطات شاشة على خلفيات تدرج، جاهزة للمشاركة.",
+"p": 108,
+"c": "Tool"
+},
+{
+"n": "محرر تعليقات الصور",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/image-annotation-editor/",
+"s": "Loona Design Studio",
+"d": "أسهم وتسميات وتمويه خصوصية للقطات الشاشة.",
+"k": "image annotation editor image annotation editor arrows labels and privacy blur for screenshots محرر تعليقات الصور أسهم وتسميات وتمويه خصوصية للقطات الشاشة.",
+"p": 109,
+"c": "Tool"
+},
+{
+"n": "مولّد أيقونات Favicon",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/favicon-generator/",
+"s": "Loona Design Studio",
+"d": "حزمة أيقونات كاملة: ICO وPNG وبيان في ZIP.",
+"k": "favicon generator favicon generator full favicon pack ico pngs manifest in a zip مولد أيقونات favicon حزمة أيقونات كاملة: ico وpng وبيان في zip.",
+"p": 5,
+"c": "Tool"
+},
+{
+"n": "منشئ المخططات الشريطية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/bar-chart-maker/",
+"s": "Loona Design Studio",
+"d": "مخططات شريطية مجمعة من جدول أو CSV.",
+"k": "bar chart maker bar chart maker grouped bar charts from a table or csv منشئ المخططات الشريطية مخططات شريطية مجمعة من جدول أو csv.",
+"p": 111,
+"c": "Tool"
+},
+{
+"n": "منشئ مخططات الأعمدة",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/column-chart-maker/",
+"s": "Loona Design Studio",
+"d": "مخططات أعمدة عمودية للتقارير والشرائح.",
+"k": "column chart maker column chart maker vertical column charts for reports and slides منشئ مخططات الأعمدة مخططات أعمدة عمودية للتقارير والشرائح.",
+"p": 112,
+"c": "Tool"
+},
+{
+"n": "منشئ المخططات الخطية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/line-chart-maker/",
+"s": "Loona Design Studio",
+"d": "خطوط اتجاه سلاسل متعددة عبر الزمن.",
+"k": "line chart maker line chart maker multi series trend lines over time منشئ المخططات الخطية خطوط اتجاه سلاسل متعددة عبر الزمن.",
+"p": 113,
+"c": "Tool"
+},
+{
+"n": "منشئ المخططات المساحية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/area-chart-maker/",
+"s": "Loona Design Studio",
+"d": "مخططات مساحية مملوءة تعرض الحجم.",
+"k": "area chart maker area chart maker filled area charts that show volume منشئ المخططات المساحية مخططات مساحية مملوءة تعرض الحجم.",
+"p": 114,
+"c": "Tool"
+},
+{
+"n": "منشئ مخططات الفطائر",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/pie-chart-maker/",
+"s": "Loona Design Studio",
+"d": "فطائر بنسب دقيقة مع نسب مئوية.",
+"k": "pie chart maker pie chart maker exact proportion pies with percentages منشئ مخططات الفطائر فطائر بنسب دقيقة مع نسب مئوية.",
+"p": 115,
+"c": "Tool"
+},
+{
+"n": "منشئ مخططات الدونات",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/doughnut-chart-maker/",
+"s": "Loona Design Studio",
+"d": "مخططات حلقية مع المجموع في المركز.",
+"k": "doughnut chart maker doughnut chart maker ring charts with the total in the centre منشئ مخططات الدونات مخططات حلقية مع المجموع في المركز.",
+"p": 116,
+"c": "Tool"
+},
+{
+"n": "منشئ المخططات الشريطية الأفقية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/horizontal-bar-chart-maker/",
+"s": "Loona Design Studio",
+"d": "أشرطة جانبية مرتبة للتسميات الطويلة.",
+"k": "horizontal bar chart maker horizontal bar chart maker ranked sideways bars for long labels منشئ المخططات الشريطية الأفقية أشرطة جانبية مرتبة للتسميات الطويلة.",
+"p": 117,
+"c": "Tool"
+},
+{
+"n": "منشئ المخططات الشريطية المكدسة",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/stacked-bar-chart-maker/",
+"s": "Loona Design Studio",
+"d": "مجمعات مبنية من أجزاء ملونة.",
+"k": "stacked bar chart maker stacked bar chart maker totals built from coloured parts منشئ المخططات الشريطية المكدسة مجمعات مبنية من أجزاء ملونة.",
+"p": 118,
+"c": "Tool"
+},
+{
+"n": "منشئ مخططات الانتشار",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/scatter-plot-maker/",
+"s": "Loona Design Studio",
+"d": "نقاط X مقابل Y مع خط اتجاه بالمربعات الصغرى.",
+"k": "scatter plot maker scatter plot maker x vs y points with a least squares trend line منشئ مخططات الانتشار نقاط x مقابل y مع خط اتجاه بالمربعات الصغرى.",
+"p": 119,
+"c": "Tool"
+},
+{
+"n": "منشئ مخططات الفقاعات",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/bubble-chart-maker/",
+"s": "Loona Design Studio",
+"d": "نسخة فقاعية حية من مخطط الانتشار.",
+"k": "bubble chart maker bubble chart maker lively bubble version of the scatter plot منشئ مخططات الفقاعات نسخة فقاعية حية من مخطط الانتشار.",
+"p": 120,
+"c": "Tool"
+},
+{
+"n": "منشئ مخططات الرادار",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/radar-chart-maker/",
+"s": "Loona Design Studio",
+"d": "مخططات عنكبوت لمقارنة الملفات.",
+"k": "radar chart maker radar chart maker spider charts for profile comparison منشئ مخططات الرادار مخططات عنكبوت لمقارنة الملفات.",
+"p": 121,
+"c": "Tool"
+},
+{
+"n": "منشئ المخططات التكرارية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/histogram-maker/",
+"s": "Loona Design Studio",
+"d": "توزيعات من أرقام خام، مصنفة تلقائيًا.",
+"k": "histogram maker histogram maker distributions from raw numbers auto binned منشئ المخططات التكرارية توزيعات من أرقام خام، مصنفة تلقائيا.",
+"p": 122,
+"c": "Tool"
+},
+{
+"n": "منشئ مخططات الصناديق",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/box-plot-maker/",
+"s": "Loona Design Studio",
+"d": "مخططات صندوق وشوارب من رباعيات حقيقية.",
+"k": "box plot maker box plot maker box and whisker plots from real quartiles منشئ مخططات الصناديق مخططات صندوق وشوارب من رباعيات حقيقية.",
+"p": 123,
+"c": "Tool"
+},
+{
+"n": "منشئ مخططات الأقمعة",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/funnel-chart-maker/",
+"s": "Loona Design Studio",
+"d": "قمعات تحويل بنسب المراحل.",
+"k": "funnel chart maker funnel chart maker conversion funnels with stage percentages منشئ مخططات الأقمعة قمعات تحويل بنسب المراحل.",
+"p": 124,
+"c": "Tool"
+},
+{
+"n": "منشئ مخططات المقاييس",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/gauge-chart-maker/",
+"s": "Loona Design Studio",
+"d": "مقاييس عداد سرعة لمؤشرات الأداء والأهداف.",
+"k": "gauge chart maker gauge chart maker speedometer gauges for kpis and goals منشئ مخططات المقاييس مقاييس عداد سرعة لمؤشرات الأداء والأهداف.",
+"p": 125,
+"c": "Tool"
+},
+{
+"n": "منشئ مخططات الوافل",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/waffle-chart-maker/",
+"s": "Loona Design Studio",
+"d": "شبكات 10×10 حيث يساوي كل مربع 1%.",
+"k": "waffle chart maker waffle chart maker 10 10 grids where each square is 1 منشئ مخططات الوافل شبكات 10×10 حيث يساوي كل مربع 1%.",
+"p": 126,
+"c": "Tool"
+},
+{
+"n": "منشئ مخططات المناطق القطبية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/polar-area-chart-maker/",
+"s": "Loona Design Studio",
+"d": "مخططات نايتنجيل coxcomb للدورات.",
+"k": "polar area chart maker polar area chart maker nightingale coxcomb charts for cycles منشئ مخططات المناطق القطبية مخططات نايتنجيل coxcomb للدورات.",
+"p": 127,
+"c": "Tool"
+},
+{
+"n": "منشئ الرسوم الصورية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/pictogram-maker/",
+"s": "Loona Design Studio",
+"d": "مخططات نقاط Isotype يمكن لأي شخص عدّها.",
+"k": "pictogram maker pictogram maker isotype dot charts anyone can count منشئ الرسوم الصورية مخططات نقاط isotype يمكن لأي شخص عدها.",
+"p": 128,
+"c": "Tool"
+},
+{
+"n": "منشئ مخططات Venn",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/venn-diagram-maker/",
+"s": "Loona Design Studio",
+"d": "مخططات Venn بدائرتين وثلاث دوائر.",
+"k": "venn diagram maker venn diagram maker two and three circle venn diagrams منشئ مخططات venn مخططات venn بدائرتين وثلاث دوائر.",
+"p": 129,
+"c": "Tool"
+},
+{
+"n": "منشئ الخرائط الشجرية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/treemap-maker/",
+"s": "Loona Design Studio",
+"d": "خرائط شجرية مربّعة بمساحات دقيقة.",
+"k": "treemap maker treemap maker squarified treemaps with exact areas منشئ الخرائط الشجرية خرائط شجرية مربعة بمساحات دقيقة.",
+"p": 130,
+"c": "Tool"
+},
+{
+"n": "CSV إلى مخطط",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/csv-to-chart/",
+"s": "Loona Design Studio",
+"d": "الصق CSV، اختر من 16 نوع مخطط.",
+"k": "csv to chart csv to chart paste csv pick from 16 chart types csv إلى مخطط الصق csv، اختر من 16 نوع مخطط.",
+"p": 131,
+"c": "Tool"
+},
+{
+"n": "منشئ خرائط المفاهيم",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/concept-map-maker/",
+"s": "Loona Design Studio",
+"d": "مفاهيم تربطها روابط مسماة وذات معنى.",
+"k": "concept map maker concept map maker concepts joined by labelled meaningful links منشئ خرائط المفاهيم مفاهيم تربطها روابط مسماة وذات معنى.",
+"p": 132,
+"c": "Tool"
+},
+{
+"n": "منشئ المخططات التنظيمية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/org-chart-maker/",
+"s": "Loona Design Studio",
+"d": "هياكل تنظيمية من نص مائل بسيط.",
+"k": "org chart maker org chart maker org charts from simple indented text منشئ المخططات التنظيمية هياكل تنظيمية من نص مائل بسيط.",
+"p": 133,
+"c": "Tool"
+},
+{
+"n": "منشئ أشجار العائلة",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/family-tree-maker/",
+"s": "Loona Design Studio",
+"d": "أشجار عائلية نظيفة من ثلاثة أجيال.",
+"k": "family tree maker family tree maker clean three generation family trees منشئ أشجار العائلة أشجار عائلية نظيفة من ثلاثة أجيال.",
+"p": 134,
+"c": "Tool"
+},
+{
+"n": "منشئ الخطوط الزمنية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/timeline-maker/",
+"s": "Loona Design Studio",
+"d": "أحداث على محور، مرتبة حسب السنة.",
+"k": "timeline maker timeline maker events on an axis sorted by year منشئ الخطوط الزمنية أحداث على محور، مرتبة حسب السنة.",
+"p": 135,
+"c": "Tool"
+},
+{
+"n": "منشئ مخططات Mermaid",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/mermaid-diagram-maker/",
+"s": "Loona Design Studio",
+"d": "الصق كود Mermaid، احصل على PNG مخطط.",
+"k": "mermaid diagram maker mermaid diagram maker paste mermaid code get a diagram png منشئ مخططات mermaid الصق كود mermaid، احصل على png مخطط.",
+"p": 136,
+"c": "Tool"
+},
+{
+"n": "منشئ النشرات",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/flyer-maker/",
+"s": "Loona Design Studio",
+"d": "نشرات A4 وLetter جاهزة للطباعة.",
+"k": "flyer maker flyer maker print ready a4 and letter flyers منشئ النشرات نشرات a4 وletter جاهزة للطباعة.",
+"p": 137,
+"c": "Tool"
+},
+{
+"n": "منشئ اللافتات",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/banner-maker/",
+"s": "Loona Design Studio",
+"d": "لافتات ويب وأغلفة وترويسات بأحجام دقيقة.",
+"k": "banner maker banner maker web banners covers and headers at exact sizes منشئ اللافتات لافتات ويب وأغلفة وترويسات بأحجام دقيقة.",
+"p": 138,
+"c": "Tool"
+},
+{
+"n": "منشئ الرسوم البيانية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/infographic-maker/",
+"s": "Loona Design Studio",
+"d": "رسوم خطوة طويلة وإحصائية بيانية.",
+"k": "infographic maker infographic maker tall step and statistics infographics منشئ الرسوم البيانية رسوم خطوة طويلة وإحصائية بيانية.",
+"p": 139,
+"c": "Tool"
+},
+{
+"n": "منشئ ورق الترويسة",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/letterhead-maker/",
+"s": "Loona Design Studio",
+"d": "ترويسات أعمال A4، طباعة أو PDF.",
+"k": "letterhead maker letterhead maker a4 business letterheads print or pdf منشئ ورق الترويسة ترويسات أعمال a4، طباعة أو pdf.",
+"p": 140,
+"c": "Tool"
+},
+{
+"n": "منشئ القوائم",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/menu-maker/",
+"s": "Loona Design Studio",
+"d": "قوائم مقاهٍ ومطاعم بالأسعار.",
+"k": "menu maker menu maker cafe and restaurant menus with prices منشئ القوائم قوائم مقاه ومطاعم بالأسعار.",
+"p": 141,
+"c": "Tool"
+},
+{
+"n": "منشئ أغلفة الكتب",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/book-cover-maker/",
+"s": "Loona Design Studio",
+"d": "أغلفة كتب 6×9 وبنسبة Kindle.",
+"k": "book cover maker book cover maker 6 9 and kindle ratio book covers منشئ أغلفة الكتب أغلفة كتب 6×9 وبنسبة kindle.",
+"p": 142,
+"c": "Tool"
+},
+{
+"n": "منشئ أغلفة الألبومات",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/album-cover-maker/",
+"s": "Loona Design Studio",
+"d": "فن أغلفة موسيقى وبودكاست مربع.",
+"k": "album cover maker album cover maker square music and podcast cover art منشئ أغلفة الألبومات فن أغلفة موسيقى وبودكاست مربع.",
+"p": 143,
+"c": "Tool"
+},
+{
+"n": "منشئ مصغّرات يوتيوب",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/youtube-thumbnail-maker/",
+"s": "Loona Design Studio",
+"d": "صور مصغّرة دقيقة 1280 × 720 تكسب النقرات.",
+"k": "youtube thumbnail maker youtube thumbnail maker exact 1280 720 thumbnails that earn clicks منشئ مصغرات يوتيوب صور مصغرة دقيقة 1280 × 720 تكسب النقرات.",
+"p": 144,
+"c": "Tool"
+},
+{
+"n": "منشئ لافتات يوتيوب",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/youtube-banner-maker/",
+"s": "Loona Design Studio",
+"d": "فن القناة مع المنطقة الآمنة مبنية داخليًا.",
+"k": "youtube banner maker youtube banner maker channel art with the safe area built in منشئ لافتات يوتيوب فن القناة مع المنطقة الآمنة مبنية داخليا.",
+"p": 145,
+"c": "Tool"
+},
+{
+"n": "منشئ الاقتباسات",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/quote-maker/",
+"s": "Loona Design Studio",
+"d": "صور اقتباسات فوق صور أو ألوان.",
+"k": "quote maker quote maker quote images over photos or colours منشئ الاقتباسات صور اقتباسات فوق صور أو ألوان.",
+"p": 146,
+"c": "Tool"
+},
+{
+"n": "منشئ الدعوات",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/invitation-maker/",
+"s": "Loona Design Studio",
+"d": "دعوات أعياد الميلاد والزفاف والمناسبات.",
+"k": "invitation maker invitation maker birthday wedding and event invitations منشئ الدعوات دعوات أعياد الميلاد والزفاف والمناسبات.",
+"p": 147,
+"c": "Tool"
+},
+{
+"n": "منشئ بطاقات التهنئة",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/greeting-card-maker/",
+"s": "Loona Design Studio",
+"d": "بطاقات العيد وعيد الميلاد والشكر.",
+"k": "greeting card maker greeting card maker eid birthday and thank you cards منشئ بطاقات التهنئة بطاقات العيد وعيد الميلاد والشكر.",
+"p": 148,
+"c": "Tool"
+},
+{
+"n": "منشئ التذاكر",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/ticket-maker/",
+"s": "Loona Design Studio",
+"d": "تذاكر أحداث مع قصاصة قابلة للنزع.",
+"k": "ticket maker ticket maker event tickets with a tear off stub منشئ التذاكر تذاكر أحداث مع قصاصة قابلة للنزع.",
+"p": 149,
+"c": "Tool"
+},
+{
+"n": "منشئ بطاقات الهوية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/id-card-maker/",
+"s": "Loona Design Studio",
+"d": "بطاقات هوية CR80 للموظفين والطلاب.",
+"k": "id card maker id card maker cr80 staff and student id cards منشئ بطاقات الهوية بطاقات هوية cr80 للموظفين والطلاب.",
+"p": 150,
+"c": "Tool"
+},
+{
+"n": "منشئ التقاويم",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/calendar-maker/",
+"s": "Loona Design Studio",
+"d": "تقويمات شهرية مطبوعة صحيحة.",
+"k": "calendar maker calendar maker correct printable month calendars منشئ التقاويم تقويمات شهرية مطبوعة صحيحة.",
+"p": 151,
+"c": "Tool"
+},
+{
+"n": "منشئ الإعلانات / اللافتات",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/announcement-maker/",
+"s": "Loona Design Studio",
+"d": "لافتات مفتوح/مغلق وتخفيضات وإشعارات وترحيب.",
+"k": "announcement sign maker announcement maker open closed sale notice and welcome signs منشئ الإعلانات / اللافتات لافتات مفتوح/مغلق وتخفيضات وإشعارات وترحيب.",
+"p": 152,
+"c": "Tool"
+},
+{
+"n": "منشئ لوحات المزاج",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/moodboard-maker/",
+"s": "Loona Design Studio",
+"d": "رتّب الصور والعيّنات والملاحظات بحرية.",
+"k": "moodboard maker moodboard maker free arrange photos swatches and notes منشئ لوحات المزاج رتب الصور والعينات والملاحظات بحرية.",
+"p": 153,
+"c": "Tool"
+},
+{
+"n": "منشئ لوحات الرؤية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/vision-board-maker/",
+"s": "Loona Design Studio",
+"d": "صور أهداف + تأكيدات، أحجام ملصق وخلفية.",
+"k": "vision board maker vision board maker goal photos affirmations poster wallpaper sizes منشئ لوحات الرؤية صور أهداف + تأكيدات، أحجام ملصق وخلفية.",
+"p": 154,
+"c": "Tool"
+},
+{
+"n": "مقسّم شبكات إنستغرام",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/instagram-grid-splitter/",
+"s": "Loona Design Studio",
+"d": "صورة واحدة إلى شبكة ملف 3×N (ZIP).",
+"k": "instagram grid splitter instagram grid splitter one photo into a 3 n profile grid zip مقسم شبكات إنستغرام صورة واحدة إلى شبكة ملف 3×n (zip).",
+"p": 155,
+"c": "Tool"
+},
+{
+"n": "مقسّم الدوائر",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/carousel-splitter/",
+"s": "Loona Design Studio",
+"d": "صور واسعة إلى لوحات قابلة للتمرير (ZIP).",
+"k": "carousel splitter carousel splitter wide images into swipeable panels zip مقسم الدوائر صور واسعة إلى لوحات قابلة للتمرير (zip).",
+"p": 156,
+"c": "Tool"
+},
+{
+"n": "مقسّم شبكات الصور",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/image-grid-splitter/",
+"s": "Loona Design Studio",
+"d": "أي صورة إلى شبكة بلاطات N×M دقيقة (ZIP).",
+"k": "image grid splitter image grid splitter any image into an exact n m tile grid zip مقسم شبكات الصور أي صورة إلى شبكة بلاطات n×m دقيقة (zip).",
+"p": 157,
+"c": "Tool"
+},
+{
+"n": "منشئ صور الأحرف الأولى",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/initials-avatar-maker/",
+"s": "Loona Design Studio",
+"d": "صور أسماء رمزية بلون من الاسم.",
+"k": "initials avatar maker initials avatar maker name avatars with a colour from the name منشئ صور الأحرف الأولى صور أسماء رمزية بلون من الاسم.",
+"p": 158,
+"c": "Tool"
+},
+{
+"n": "منشئ صور البكسل الرمزية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/pixel-avatar-maker/",
+"s": "Loona Design Studio",
+"d": "صور identicon مبذورة + صور بكسل 5×5 مخصصة.",
+"k": "pixel avatar maker pixel avatar maker seeded identicons custom 5 5 pixel avatars منشئ صور البكسل الرمزية صور identicon مبذورة + صور بكسل 5×5 مخصصة.",
+"p": 159,
+"c": "Tool"
+},
+{
+"n": "مولّد سحب الكلمات",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/word-cloud-generator/",
+"s": "Loona Design Studio",
+"d": "سحب كلمات موزونة من أي نص.",
+"k": "word cloud generator word cloud generator weighted word clouds from any text مولد سحب الكلمات سحب كلمات موزونة من أي نص.",
+"p": 160,
+"c": "Tool"
+},
+{
+"n": "محرر فن البكسل",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/pixel-art-editor/",
+"s": "Loona Design Studio",
+"d": "شبكات سبرايتات بقلم وملء وتصدير حاد.",
+"k": "pixel art editor pixel art editor sprite grids with pen fill and crisp export محرر فن البكسل شبكات سبرايتات بقلم وملء وتصدير حاد.",
+"p": 161,
+"c": "Tool"
+},
+{
+"n": "مولّد درجات الألوان",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/color-shades-generator/",
+"s": "Loona Design Studio",
+"d": "مقياس درجي كامل 50–950 من لون واحد.",
+"k": "colour shades generator color shades generator full 50 950 tonal scale from one colour مولد درجات الألوان مقياس درجي كامل 50–950 من لون واحد.",
+"p": 162,
+"c": "Tool"
+},
+{
+"n": "مولّد تناغم الألوان",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/color-harmony-generator/",
+"s": "Loona Design Studio",
+"d": "ستة مخططات تناغم عجلة ألوان.",
+"k": "colour harmony generator color harmony generator six colour wheel harmony schemes مولد تناغم الألوان ستة مخططات تناغم عجلة ألوان.",
+"p": 163,
+"c": "Tool"
+},
+{
+"n": "محوّل الألوان",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/color-converter/",
+"s": "Loona Design Studio",
+"d": "HEX وRGB وHSL وHSV وCMYK في منظر واحد.",
+"k": "colour converter color converter hex rgb hsl hsv and cmyk in one view محول الألوان hex وrgb وhsl وhsv وcmyk في منظر واحد.",
+"p": 164,
+"c": "Tool"
+},
+{
+"n": "مخلّط الألوان",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/color-mixer/",
+"s": "Loona Design Studio",
+"d": "امزج لونين بخطوات متساوية.",
+"k": "colour mixer color mixer blend two colours in even steps مخلط الألوان امزج لونين بخطوات متساوية.",
+"p": 165,
+"c": "Tool"
+},
+{
+"n": "مولّد الألوان العشوائية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/random-color-generator/",
+"s": "Loona Design Studio",
+"d": "ستة ألوان عشوائية طازجة في كل رمية.",
+"k": "random colour generator random color generator six fresh random colours per roll مولد الألوان العشوائية ستة ألوان عشوائية طازجة في كل رمية.",
+"p": 166,
+"c": "Tool"
+},
+{
+"n": "مولّد تدرجات CSS",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/css-gradient-generator/",
+"s": "Loona Design Studio",
+"d": "CSS خطية وشعاعية ومخروطية متعددة التوقفات.",
+"k": "css gradient generator css gradient generator multi stop linear radial and conic css مولد تدرجات css css خطية وشعاعية ومخروطية متعددة التوقفات.",
+"p": 167,
+"c": "Tool"
+},
+{
+"n": "مولّد تدرج النصوص",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/text-gradient-generator/",
+"s": "Loona Design Studio",
+"d": "نص عناوين متدرج في CSS.",
+"k": "text gradient generator text gradient generator gradient headline text in css مولد تدرج النصوص نص عناوين متدرج في css.",
+"p": 168,
+"c": "Tool"
+},
+{
+"n": "مولّد تدرجات الشبكة",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/mesh-gradient-generator/",
+"s": "Loona Design Studio",
+"d": "تدرجات شبكية شفقية بـCSS خالصة.",
+"k": "mesh gradient generator mesh gradient generator aurora mesh gradients in pure css مولد تدرجات الشبكة تدرجات شبكية شفقية بcss خالصة.",
+"p": 169,
+"c": "Tool"
+},
+{
+"n": "مولّد ظلال الصناديق",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/box-shadow-generator/",
+"s": "Loona Design Studio",
+"d": "مصمم ظلال CSS بصري مع إعدادات مسبقة.",
+"k": "box shadow generator box shadow generator visual css shadow designer with presets مولد ظلال الصناديق مصمم ظلال css بصري مع إعدادات مسبقة.",
+"p": 170,
+"c": "Tool"
+},
+{
+"n": "مولّد ظلال النصوص",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/text-shadow-generator/",
+"s": "Loona Design Studio",
+"d": "ظلال نصوص CSS مع معاينة مباشرة.",
+"k": "text shadow generator text shadow generator css text shadows with live preview مولد ظلال النصوص ظلال نصوص css مع معاينة مباشرة.",
+"p": 171,
+"c": "Tool"
+},
+{
+"n": "مولّد نصف قطر الحدود / الفقاعات",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/border-radius-generator/",
+"s": "Loona Design Studio",
+"d": "أشكال فقاعية عضوية عبر border-radius.",
+"k": "border radius blob generator border radius generator organic blob shapes via border radius مولد نصف قطر الحدود / الفقاعات أشكال فقاعية عضوية عبر border-radius.",
+"p": 172,
+"c": "Tool"
+},
+{
+"n": "مولّد مسارات القص",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/clip-path-generator/",
+"s": "Loona Design Studio",
+"d": "أشكال ومضلعات CSS clip-path.",
+"k": "clip path generator clip path generator css clip path shapes and polygons مولد مسارات القص أشكال ومضلعات css clip-path.",
+"p": 173,
+"c": "Tool"
+},
+{
+"n": "مولّد أزرار CSS",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/css-button-generator/",
+"s": "Loona Design Studio",
+"d": "صمّم الأزرار واحصل على CSS للإنتاج.",
+"k": "css button generator css button generator design buttons get production css مولد أزرار css صمم الأزرار واحصل على css للإنتاج.",
+"p": 174,
+"c": "Tool"
+},
+{
+"n": "مولّد دوّارات CSS",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/css-spinner-generator/",
+"s": "Loona Design Studio",
+"d": "دوّارات تحميل CSS خالصة مع إطارات مفتاحية.",
+"k": "css spinner generator css spinner generator pure css loading spinners with keyframes مولد دوارات css دوارات تحميل css خالصة مع إطارات مفتاحية.",
+"p": 175,
+"c": "Tool"
+},
+{
+"n": "مولّد الزجاجية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/glassmorphism-generator/",
+"s": "Loona Design Studio",
+"d": "بطاقات زجاج بلوري في CSS.",
+"k": "glassmorphism generator glassmorphism generator frosted glass cards in css مولد الزجاجية بطاقات زجاج بلوري في css.",
+"p": 176,
+"c": "Tool"
+},
+{
+"n": "مولّد النيومورفية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/neumorphism-generator/",
+"s": "Loona Design Studio",
+"d": "ظلال Neumorphic واجهة ناعمة.",
+"k": "neumorphism generator neumorphism generator soft ui neumorphic shadows مولد النيومورفية ظلال neumorphic واجهة ناعمة.",
+"p": 177,
+"c": "Tool"
+},
+{
+"n": "مولّد بيزيه المكعب",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/cubic-bezier-generator/",
+"s": "Loona Design Studio",
+"d": "مصمم منحنيات تخفيف CSS بصري.",
+"k": "cubic bezier generator cubic bezier generator visual css easing curve designer مولد بيزيه المكعب مصمم منحنيات تخفيف css بصري.",
+"p": 178,
+"c": "Tool"
+},
+{
+"n": "مولّد مثلثات CSS",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/css-triangle-generator/",
+"s": "Loona Design Studio",
+"d": "مثلثات حيلة الحدود في أربعة اتجاهات.",
+"k": "css triangle generator css triangle generator border trick triangles in four directions مولد مثلثات css مثلثات حيلة الحدود في أربعة اتجاهات.",
+"p": 179,
+"c": "Tool"
+}
+]

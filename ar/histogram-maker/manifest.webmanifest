@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ المدرجات التكرارية",
+  "short_name": "منشئ المدرجات التكرارية",
+  "description": "منشئ مدرجات تكرارية مجاني: الصق أرقامًا خامًا واحصل على مدرج توزيع بفئات تلقائية. اعرف شكل بياناتك. دون تسجيل.",
+  "id": "/loona-design-studio/ar/histogram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lightskyblue",
+  "short_name": "Lightskyblue",
+  "description": "لون Lightskyblue: #87CEFA، RGB(135, 206, 250)، HSL(203, 92%, 75%)، CMYK وتباين WCAG، بالإضافة إلى الدرجات والظلال والتناغمات. قيم CSS جاهزة للنسخ.",
+  "id": "/loona-design-studio/ar/color-lightskyblue/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

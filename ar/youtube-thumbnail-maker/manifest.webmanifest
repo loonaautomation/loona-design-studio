@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ مصغّرات يوتيوب",
+  "short_name": "منشئ مصغّرات يوتيوب",
+  "description": "منشئ صور مصغّرة ليوتيوب مجاني: لوحة دقيقة 1280×720، نص ضخم مقروء، كتل وجه/صورة وتصدير PNG. دون تسجيل.",
+  "id": "/loona-design-studio/ar/youtube-thumbnail-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

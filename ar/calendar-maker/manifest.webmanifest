@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ التقويمات",
+  "short_name": "منشئ التقويمات",
+  "description": "منشئ تقويمات مجاني: تقويمات شهرية قابلة للطباعة لأي شهر وسنة، بداية الأحد أو الاثنين، عمودي أو أفقي. تصدير PNG. دون تسجيل.",
+  "id": "/loona-design-studio/ar/calendar-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

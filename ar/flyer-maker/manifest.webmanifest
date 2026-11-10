@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ النشرات",
+  "short_name": "منشئ النشرات",
+  "description": "منشئ نشرات مجاني: أحجام A4 وUS Letter مع قوالب بداية جريئة وكتل صور وتصدير PNG/PDF جاهز للطباعة. دون تسجيل.",
+  "id": "/loona-design-studio/ar/flyer-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

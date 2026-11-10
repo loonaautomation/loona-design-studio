@@ -1,0 +1,29 @@
+{
+  "name": "Loona مقاس بطاقة الأعمال (الأوروبي)",
+  "short_name": "مقاس بطاقة الأعمال (الأوروبي)",
+  "description": "أبعاد بطاقة الأعمال (الأوروبي): 85 × 55 mm (85 × 55 mm), 1004 × 650 px بدقة 300 DPI للطباعة، 502 × 325 px بدقة 150 DPI. مع الهوامش الإضافية ودليل الاستخدام.",
+  "id": "/loona-design-studio/ar/business-card-eu-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

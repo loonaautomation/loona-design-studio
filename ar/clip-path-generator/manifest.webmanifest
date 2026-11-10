@@ -1,0 +1,29 @@
+{
+  "name": "Loona مولّد مسار القص",
+  "short_name": "مولّد مسار القص",
+  "description": "مولّد clip-path CSS مجاني: إعدادات نجم وسداسي وسهم ومضلعات أكثر إضافة إلى أشكال الدائرة والقطع الناقص والإدخال — معاينة مباشرة وتصدير CSS.",
+  "id": "/loona-design-studio/ar/clip-path-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

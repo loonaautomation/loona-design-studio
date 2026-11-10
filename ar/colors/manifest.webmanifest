@@ -1,0 +1,29 @@
+{
+  "name": "Loona جميع ألوان CSS المسماة",
+  "short_name": "جميع ألوان CSS المسماة",
+  "description": "تصفح جميع ألوان CSS المسماة وعددها 141: HEX وRGB وHSL وCMYK ودرجات وتناغمات لكل لون، كل على صفحته الخاصة.",
+  "id": "/loona-design-studio/ar/colors/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

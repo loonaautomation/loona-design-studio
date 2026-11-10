@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ المخططات الخطية",
+  "short_name": "منشئ المخططات الخطية",
+  "description": "منشئ مخططات خطية مجاني: اتجاهات سلاسل متعددة عبر الزمن مع علامات وألوان مخصصة وتصدير PNG. اكتب جدولًا أو الصق CSV. دون تسجيل.",
+  "id": "/loona-design-studio/ar/line-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

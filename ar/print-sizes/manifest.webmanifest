@@ -1,0 +1,29 @@
+{
+  "name": "Loona مقاسات الطباعة والتصميم",
+  "short_name": "مقاسات الطباعة والتصميم",
+  "description": "جميع مقاسات الطباعة والتصميم القياسية في جدول واحد: سلسلة A، وUS Letter/Legal، وبطاقات الأعمال، والبطاقات البريدية وغيرها — مع أبعاد البكسل عند 300 و150 DPI.",
+  "id": "/loona-design-studio/ar/print-sizes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

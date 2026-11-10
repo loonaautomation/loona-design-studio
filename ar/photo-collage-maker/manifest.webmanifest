@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ الكولاج الصوري",
+  "short_name": "منشئ الكولاج الصوري",
+  "description": "منشئ كولاج صوري مجاني عبر الإنترنت: ادمج من 2 إلى 9 صور في تخطيطات شبكية ورئيسية وفسيفسائية مع تحكمات الفجوة والزاوية والخلفية. تصدير PNG/JPG، دون تسجيل.",
+  "id": "/loona-design-studio/ar/photo-collage-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
