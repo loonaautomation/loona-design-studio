@@ -1,0 +1,722 @@
+[
+ {
+  "n": "Grafik Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Hepsi bir arada grafik oluşturucu: tek tablodan çubuk, çizgi, pasta, halka ve daha fazlası.",
+  "k": "chart maker chart maker hepsi bir arada grafik olusturucu tek tablodan cubuk cizgi pasta halka ve daha fazlasi",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Fotoğraf Kolajı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/photo-collage-maker/",
+  "s": "Loona Design Studio",
+  "d": "2–9 fotoğraftan ızgara, kahraman ve mozaik kolajlar.",
+  "k": "photo collage maker photo collage maker 2 9 fotograftan izgara kahraman ve mozaik kolajlar",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Logo Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/logo-maker/",
+  "s": "Loona Design Studio",
+  "d": "Simgeler, yazı tipleri, şemalar ve saydam PNG ile marka logoları.",
+  "k": "logo maker logo maker simgeler yazi tipleri semalar ve saydam png ile marka logolari",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Poster / Broşür Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/poster-maker/",
+  "s": "Loona Design Studio",
+  "d": "A4, kare, hikâye ve daha fazla boyutta posterler ve broşürler.",
+  "k": "poster flyer maker poster maker a4 kare hikaye ve daha fazla boyutta posterler ve brosurler",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Zihin Haritası Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/mind-map-maker/",
+  "s": "Loona Design Studio",
+  "d": "Düzenli otomatik düzen ve JSON kaydıyla dallanan zihin haritaları.",
+  "k": "mind map maker mind map maker duzenli otomatik duzen ve json kaydiyla dallanan zihin haritalari",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Çizim Beyaz Tahtası",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/drawing-whiteboard/",
+  "s": "Loona Design Studio",
+  "d": "Kalem, şekiller, silgi ve geri alma/yineleme ile eskiz defteri.",
+  "k": "drawing whiteboard drawing whiteboard kalem sekiller silgi ve geri alma yineleme ile eskiz defteri",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Akış Şeması Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/flowchart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Akıllı dirsek bağlayıcılarıyla akış şemaları.",
+  "k": "flowchart maker flowchart maker akilli dirsek baglayicilariyla akis semalari",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Kartvizit Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/business-card-maker/",
+  "s": "Loona Design Studio",
+  "d": "300 DPI değerinde baskıya hazır 3.5 × 2 inç kartlar.",
+  "k": "business card maker business card maker 300 dpi degerinde baskiya hazir 3 5 2 inc kartlar",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Ekran Görüntüsü Güzelleştirici",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/screenshot-beautifier/",
+  "s": "Loona Design Studio",
+  "d": "Gradyan arka planlar üzerinde ekran görüntüleri, paylaşıma hazır.",
+  "k": "screenshot beautifier screenshot beautifier gradyan arka planlar uzerinde ekran goruntuleri paylasima hazir",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Görsel Açıklama Düzenleyici",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/image-annotation-editor/",
+  "s": "Loona Design Studio",
+  "d": "Ekran görüntüleri için oklar, etiketler ve gizlilik bulanıklaştırması.",
+  "k": "image annotation editor image annotation editor ekran goruntuleri icin oklar etiketler ve gizlilik bulaniklastirmasi",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Favicon Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/favicon-generator/",
+  "s": "Loona Design Studio",
+  "d": "Tam favicon paketi: bir ZIP içinde ICO + PNG'ler + manifest.",
+  "k": "favicon generator favicon generator tam favicon paketi bir zip icinde ico png ler manifest",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Çubuk Grafik Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/bar-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Bir tablodan veya CSV'den gruplanmış çubuk grafikler.",
+  "k": "bar chart maker bar chart maker bir tablodan veya csv den gruplanmis cubuk grafikler",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Sütun Grafik Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/column-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Raporlar ve slaytlar için dikey sütun grafikleri.",
+  "k": "column chart maker column chart maker raporlar ve slaytlar icin dikey sutun grafikleri",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Çizgi Grafik Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/line-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Zaman içinde çok serili eğilim çizgileri.",
+  "k": "line chart maker line chart maker zaman icinde cok serili egilim cizgileri",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Alan Grafiği Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/area-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Hacim gösteren dolgulu alan grafikleri.",
+  "k": "area chart maker area chart maker hacim gosteren dolgulu alan grafikleri",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Pasta Grafiği Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/pie-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Yüzdelerle tam oranlı pastalar.",
+  "k": "pie chart maker pie chart maker yuzdelerle tam oranli pastalar",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Halka Grafik Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/doughnut-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Toplamı merkezde halka grafikleri.",
+  "k": "doughnut chart maker doughnut chart maker toplami merkezde halka grafikleri",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Yatay Çubuk Grafik Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/horizontal-bar-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Uzun etiketler için yanlamasına sıralı çubuklar.",
+  "k": "horizontal bar chart maker horizontal bar chart maker uzun etiketler icin yanlamasina sirali cubuklar",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Yığılmış Çubuk Grafik Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/stacked-bar-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Renkli parçalardan yapılan toplamlar.",
+  "k": "stacked bar chart maker stacked bar chart maker renkli parcalardan yapilan toplamlar",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Dağılım Grafiği Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/scatter-plot-maker/",
+  "s": "Loona Design Studio",
+  "d": "En küçük kareler eğilim çizgisiyle X'e karşı Y noktaları.",
+  "k": "scatter plot maker scatter plot maker en kucuk kareler egilim cizgisiyle x e karsi y noktalari",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Kabarcık Grafiği Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/bubble-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Dağılım grafiğinin canlı kabarcık sürümü.",
+  "k": "bubble chart maker bubble chart maker dagilim grafiginin canli kabarcik surumu",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Radar Grafiği Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/radar-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Profil karşılaştırması için örümcek grafikleri.",
+  "k": "radar chart maker radar chart maker profil karsilastirmasi icin orumcek grafikleri",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Histogram Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/histogram-maker/",
+  "s": "Loona Design Studio",
+  "d": "Ham sayılardan dağılımlar, otomatik kutulanmış.",
+  "k": "histogram maker histogram maker ham sayilardan dagilimlar otomatik kutulanmis",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Kutu Grafiği Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/box-plot-maker/",
+  "s": "Loona Design Studio",
+  "d": "Gerçek çeyreklerden kutu ve bıyık grafikleri.",
+  "k": "box plot maker box plot maker gercek ceyreklerden kutu ve biyik grafikleri",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Huni Grafiği Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/funnel-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Aşama yüzdeleriyle dönüşüm hunileri.",
+  "k": "funnel chart maker funnel chart maker asama yuzdeleriyle donusum hunileri",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Gösterge Grafiği Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/gauge-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "KPI'lar ve hedefler için hız göstergesi göstergeleri.",
+  "k": "gauge chart maker gauge chart maker kpi lar ve hedefler icin hiz gostergesi gostergeleri",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Waffle Grafik Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/waffle-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Her karenin %1 olduğu 10×10 ızgaralar.",
+  "k": "waffle chart maker waffle chart maker her karenin 1 oldugu 10 10 izgaralar",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Kutupsal Alan Grafiği Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/polar-area-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Döngüler için Nightingale coxcomb grafikleri.",
+  "k": "polar area chart maker polar area chart maker donguler icin nightingale coxcomb grafikleri",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Piktogram Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/pictogram-maker/",
+  "s": "Loona Design Studio",
+  "d": "Herkesin sayabileceği izotip nokta grafikleri.",
+  "k": "pictogram maker pictogram maker herkesin sayabilecegi izotip nokta grafikleri",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Venn Diyagramı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/venn-diagram-maker/",
+  "s": "Loona Design Studio",
+  "d": "İki ve üç daireli Venn diyagramları.",
+  "k": "venn diagram maker venn diagram maker iki ve uc daireli venn diyagramlari",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Ağaç Haritası Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/treemap-maker/",
+  "s": "Loona Design Studio",
+  "d": "Tam alanlarla kareleştirilmiş ağaç haritaları.",
+  "k": "treemap maker treemap maker tam alanlarla karelestirilmis agac haritalari",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV'den Grafiğe",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/csv-to-chart/",
+  "s": "Loona Design Studio",
+  "d": "CSV yapıştırın, 16 grafik türünden seçin.",
+  "k": "csv to chart csv to chart csv yapistirin 16 grafik turunden secin",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Kavram Haritası Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/concept-map-maker/",
+  "s": "Loona Design Studio",
+  "d": "Etiketli, anlamlı bağlantılarla birleşen kavramlar.",
+  "k": "concept map maker concept map maker etiketli anlamli baglantilarla birlesen kavramlar",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Organizasyon Şeması Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/org-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Basit girintili metinden organizasyon şemaları.",
+  "k": "org chart maker org chart maker basit girintili metinden organizasyon semalari",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Soy Ağacı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/family-tree-maker/",
+  "s": "Loona Design Studio",
+  "d": "Temiz üç kuşak soy ağaçları.",
+  "k": "family tree maker family tree maker temiz uc kusak soy agaclari",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Zaman Çizelgesi Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/timeline-maker/",
+  "s": "Loona Design Studio",
+  "d": "Yıla göre sıralanmış, bir eksen üzerinde etkinlikler.",
+  "k": "timeline maker timeline maker yila gore siralanmis bir eksen uzerinde etkinlikler",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Mermaid Diyagram Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/mermaid-diagram-maker/",
+  "s": "Loona Design Studio",
+  "d": "Mermaid kodu yapıştırın, bir diyagram PNG'si alın.",
+  "k": "mermaid diagram maker mermaid diagram maker mermaid kodu yapistirin bir diyagram png si alin",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Broşür Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/flyer-maker/",
+  "s": "Loona Design Studio",
+  "d": "Baskıya hazır A4 ve Letter broşürleri.",
+  "k": "flyer maker flyer maker baskiya hazir a4 ve letter brosurleri",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Banner Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/banner-maker/",
+  "s": "Loona Design Studio",
+  "d": "Tam boyutlarda web afişleri, kapaklar ve başlıklar.",
+  "k": "banner maker banner maker tam boyutlarda web afisleri kapaklar ve basliklar",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "İnfografik Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/infographic-maker/",
+  "s": "Loona Design Studio",
+  "d": "Uzun adım ve istatistik infografikleri.",
+  "k": "infographic maker infographic maker uzun adim ve istatistik infografikleri",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Antetli Kağıt Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/letterhead-maker/",
+  "s": "Loona Design Studio",
+  "d": "A4 iş antetli kağıtları, baskı veya PDF.",
+  "k": "letterhead maker letterhead maker a4 is antetli kagitlari baski veya pdf",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Menü Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/menu-maker/",
+  "s": "Loona Design Studio",
+  "d": "Fiyatlı kafe ve restoran menüleri.",
+  "k": "menu maker menu maker fiyatli kafe ve restoran menuleri",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Kitap Kapağı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/book-cover-maker/",
+  "s": "Loona Design Studio",
+  "d": "6×9 ve Kindle oranlı kitap kapakları.",
+  "k": "book cover maker book cover maker 6 9 ve kindle oranli kitap kapaklari",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Albüm Kapağı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/album-cover-maker/",
+  "s": "Loona Design Studio",
+  "d": "Kare müzik ve podcast kapak tasarımı.",
+  "k": "album cover maker album cover maker kare muzik ve podcast kapak tasarimi",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "YouTube Küçük Resim Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/youtube-thumbnail-maker/",
+  "s": "Loona Design Studio",
+  "d": "Tıklama kazanan tam 1280 × 720 küçük resimler.",
+  "k": "youtube thumbnail maker youtube thumbnail maker tiklama kazanan tam 1280 720 kucuk resimler",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "YouTube Afiş Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/youtube-banner-maker/",
+  "s": "Loona Design Studio",
+  "d": "Güvenli alan içinde kanal tasarımı.",
+  "k": "youtube banner maker youtube banner maker guvenli alan icinde kanal tasarimi",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Alıntı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/quote-maker/",
+  "s": "Loona Design Studio",
+  "d": "Fotoğraflar veya renkler üzerinde alıntı görselleri.",
+  "k": "quote maker quote maker fotograflar veya renkler uzerinde alinti gorselleri",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Davetiye Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/invitation-maker/",
+  "s": "Loona Design Studio",
+  "d": "Doğum günü, düğün ve etkinlik davetiyeleri.",
+  "k": "invitation maker invitation maker dogum gunu dugun ve etkinlik davetiyeleri",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Tebrik Kartı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/greeting-card-maker/",
+  "s": "Loona Design Studio",
+  "d": "Bayram, doğum günü ve teşekkür kartları.",
+  "k": "greeting card maker greeting card maker bayram dogum gunu ve tesekkur kartlari",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Bilet Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/ticket-maker/",
+  "s": "Loona Design Studio",
+  "d": "Yırtılabilir koçanlı etkinlik biletleri.",
+  "k": "ticket maker ticket maker yirtilabilir kocanli etkinlik biletleri",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "Kimlik Kartı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/id-card-maker/",
+  "s": "Loona Design Studio",
+  "d": "CR80 personel ve öğrenci kimlik kartları.",
+  "k": "id card maker id card maker cr80 personel ve ogrenci kimlik kartlari",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Takvim Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/calendar-maker/",
+  "s": "Loona Design Studio",
+  "d": "Doğru basılabilir ay takvimleri.",
+  "k": "calendar maker calendar maker dogru basilabilir ay takvimleri",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Duyuru / Tabela Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/announcement-maker/",
+  "s": "Loona Design Studio",
+  "d": "Açık/Kapalı, indirim, duyuru ve hoş geldiniz tabelaları.",
+  "k": "announcement sign maker announcement maker acik kapali indirim duyuru ve hos geldiniz tabelalari",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "Moodboard Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/moodboard-maker/",
+  "s": "Loona Design Studio",
+  "d": "Fotoğrafları, renk örneklerini ve notları serbestçe düzenleyin.",
+  "k": "moodboard maker moodboard maker fotograflari renk orneklerini ve notlari serbestce duzenleyin",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "Vizyon Panosu Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/vision-board-maker/",
+  "s": "Loona Design Studio",
+  "d": "Hedef fotoğrafları + olumlamalar, poster ve duvar kağıdı boyutları.",
+  "k": "vision board maker vision board maker hedef fotograflari olumlamalar poster ve duvar kagidi boyutlari",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "Instagram Izgara Bölücü",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/instagram-grid-splitter/",
+  "s": "Loona Design Studio",
+  "d": "Bir fotoğraf, bir 3×N profil ızgarasına (ZIP).",
+  "k": "instagram grid splitter instagram grid splitter bir fotograf bir 3 n profil izgarasina zip",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "Carousel Bölücü",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/carousel-splitter/",
+  "s": "Loona Design Studio",
+  "d": "Geniş görselleri kaydırılabilir panellere (ZIP).",
+  "k": "carousel splitter carousel splitter genis gorselleri kaydirilabilir panellere zip",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "Görsel Izgara Bölücü",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/image-grid-splitter/",
+  "s": "Loona Design Studio",
+  "d": "Her görsel, tam bir N×M karo ızgarasına (ZIP).",
+  "k": "image grid splitter image grid splitter her gorsel tam bir n m karo izgarasina zip",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "Baş Harf Avatarı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/initials-avatar-maker/",
+  "s": "Loona Design Studio",
+  "d": "Addan bir renkle ad avatarları.",
+  "k": "initials avatar maker initials avatar maker addan bir renkle ad avatarlari",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Piksel Avatar Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/pixel-avatar-maker/",
+  "s": "Loona Design Studio",
+  "d": "Tohumlu identiconlar + özel 5×5 piksel avatarları.",
+  "k": "pixel avatar maker pixel avatar maker tohumlu identiconlar ozel 5 5 piksel avatarlari",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "Kelime Bulutu Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/word-cloud-generator/",
+  "s": "Loona Design Studio",
+  "d": "Herhangi bir metinden ağırlıklı kelime bulutları.",
+  "k": "word cloud generator word cloud generator herhangi bir metinden agirlikli kelime bulutlari",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "Piksel Art Düzenleyici",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/pixel-art-editor/",
+  "s": "Loona Design Studio",
+  "d": "Kalem, doldurma ve net çıktıyla sprite ızgaraları.",
+  "k": "pixel art editor pixel art editor kalem doldurma ve net ciktiyla sprite izgaralari",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "Renk Tonları Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/color-shades-generator/",
+  "s": "Loona Design Studio",
+  "d": "Tek bir renkten tam 50–950 ton skalası.",
+  "k": "colour shades generator color shades generator tek bir renkten tam 50 950 ton skalasi",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "Renk Uyumu Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/color-harmony-generator/",
+  "s": "Loona Design Studio",
+  "d": "Altı renk çarkı uyum şeması.",
+  "k": "colour harmony generator color harmony generator alti renk carki uyum semasi",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "Renk Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/color-converter/",
+  "s": "Loona Design Studio",
+  "d": "Tek görünümde HEX, RGB, HSL, HSV ve CMYK.",
+  "k": "colour converter color converter tek gorunumde hex rgb hsl hsv ve cmyk",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "Renk Karıştırıcı",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/color-mixer/",
+  "s": "Loona Design Studio",
+  "d": "İki rengi eşit adımlarda karıştırın.",
+  "k": "colour mixer color mixer iki rengi esit adimlarda karistirin",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Rastgele Renk Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/random-color-generator/",
+  "s": "Loona Design Studio",
+  "d": "Zar başına altı taze rastgele renk.",
+  "k": "random colour generator random color generator zar basina alti taze rastgele renk",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS Gradyan Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/css-gradient-generator/",
+  "s": "Loona Design Studio",
+  "d": "Çok duraklı doğrusal, radyal ve konik CSS.",
+  "k": "css gradient generator css gradient generator cok durakli dogrusal radyal ve konik css",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "Metin Gradyanı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/text-gradient-generator/",
+  "s": "Loona Design Studio",
+  "d": "CSS içinde gradyan başlık metni.",
+  "k": "text gradient generator text gradient generator css icinde gradyan baslik metni",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Mesh Gradyan Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/mesh-gradient-generator/",
+  "s": "Loona Design Studio",
+  "d": "Saf CSS içinde aurora mesh gradyanları.",
+  "k": "mesh gradient generator mesh gradient generator saf css icinde aurora mesh gradyanlari",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Kutu Gölgesi Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/box-shadow-generator/",
+  "s": "Loona Design Studio",
+  "d": "Hazır ayarlarla görsel CSS gölge tasarımcısı.",
+  "k": "box shadow generator box shadow generator hazir ayarlarla gorsel css golge tasarimcisi",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "Metin Gölgesi Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/text-shadow-generator/",
+  "s": "Loona Design Studio",
+  "d": "Canlı önizlemeli CSS metin gölgeleri.",
+  "k": "text shadow generator text shadow generator canli onizlemeli css metin golgeleri",
+  "p": 171,
+  "c": "Tool"
+ },
+ {
+  "n": "Border Radius / Blob Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/border-radius-generator/",
+  "s": "Loona Design Studio",
+  "d": "border-radius aracılığıyla organik blob şekilleri.",
+  "k": "border radius blob generator border radius generator border radius araciligiyla organik blob sekilleri",
+  "p": 172,
+  "c": "Tool"
+ },
+ {
+  "n": "Clip Path Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/clip-path-generator/",
+  "s": "Loona Design Studio",
+  "d": "CSS clip-path şekilleri ve çokgenleri.",
+  "k": "clip path generator clip path generator css clip path sekilleri ve cokgenleri",
+  "p": 173,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS Düğme Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/css-button-generator/",
+  "s": "Loona Design Studio",
+  "d": "Düğmeler tasarlayın, üretim CSS'i alın.",
+  "k": "css button generator css button generator dugmeler tasarlayin uretim css i alin",
+  "p": 174,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS Spinner Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/css-spinner-generator/",
+  "s": "Loona Design Studio",
+  "d": "Keyframes ile saf CSS yükleme spinnerları.",
+  "k": "css spinner generator css spinner generator keyframes ile saf css yukleme spinnerlari",
+  "p": 175,
+  "c": "Tool"
+ },
+ {
+  "n": "Glassmorphism Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/glassmorphism-generator/",
+  "s": "Loona Design Studio",
+  "d": "CSS içinde buzlu cam kartlar.",
+  "k": "glassmorphism generator glassmorphism generator css icinde buzlu cam kartlar",
+  "p": 176,
+  "c": "Tool"
+ },
+ {
+  "n": "Neumorphism Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/neumorphism-generator/",
+  "s": "Loona Design Studio",
+  "d": "Yumuşak arayüz neumorfik gölgeler.",
+  "k": "neumorphism generator neumorphism generator yumusak arayuz neumorfik golgeler",
+  "p": 177,
+  "c": "Tool"
+ },
+ {
+  "n": "Kübik Bezier Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/cubic-bezier-generator/",
+  "s": "Loona Design Studio",
+  "d": "Görsel CSS kolaylaştırma eğrisi tasarımcısı.",
+  "k": "cubic bezier generator cubic bezier generator gorsel css kolaylastirma egrisi tasarimcisi",
+  "p": 178,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS Üçgen Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-design-studio/tr/css-triangle-generator/",
+  "s": "Loona Design Studio",
+  "d": "Dört yönde kenarlık hilesi üçgenleri.",
+  "k": "css triangle generator css triangle generator dort yonde kenarlik hilesi ucgenleri",
+  "p": 179,
+  "c": "Tool"
+ }
+]
