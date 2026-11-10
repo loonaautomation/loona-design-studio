@@ -1,0 +1,722 @@
+[
+ {
+  "n": "Конструктор графиков",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Универсальный конструктор графиков: столбчатые, линейные, круговые, кольцевые и другие из одной таблицы.",
+  "k": "конструктор графиков chart maker chart maker all in one chart maker bar line pie doughnut and more from one table графиков другие и из кольцевые конструктор круговые линейные одной столбчатые таблицы универсальный",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор фотоколлажей",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/photo-collage-maker/",
+  "s": "Loona Design Studio",
+  "d": "От 2 до 9 фотографий в коллажах в виде сетки, главного изображения и мозаики.",
+  "k": "конструктор фотоколлажей photo collage maker photo collage maker 2 9 photos into grid hero and mosaic collages 2 9 в виде главного до и изображения коллажах конструктор мозаики от сетки фотографий фотоколлажей",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор логотипов",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/logo-maker/",
+  "s": "Loona Design Studio",
+  "d": "Логотипы брендов со значками, шрифтами, схемами и прозрачным PNG.",
+  "k": "конструктор логотипов logo maker logo maker brand logos with icons fonts schemes and transparent png png брендов значками и конструктор логотипов логотипы прозрачным со схемами шрифтами",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор постеров / флаеров",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/poster-maker/",
+  "s": "Loona Design Studio",
+  "d": "Постеры и флаеры размеров A4, квадрат, сторис и других.",
+  "k": "конструктор постеров / флаеров poster flyer maker poster maker posters and flyers on a4 square story and more sizes a4 других и квадрат конструктор постеров постеры размеров сторис флаеров флаеры",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор ментальных карт",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/mind-map-maker/",
+  "s": "Loona Design Studio",
+  "d": "Ветвящиеся интеллект-карты с аккуратной автоматической компоновкой и сохранением в JSON.",
+  "k": "конструктор ментальных карт mind map maker mind map maker branching mind maps with tidy auto layout and json save json автоматической аккуратной в ветвящиеся и интеллект-карты карт компоновкой конструктор ментальных с сохранением",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Доска для рисования",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/drawing-whiteboard/",
+  "s": "Loona Design Studio",
+  "d": "Блокнот для набросков с пером, фигурами, ластиком и отменой/повтором.",
+  "k": "доска для рисования drawing whiteboard drawing whiteboard sketch pad with pen shapes eraser and undo redo блокнот для доска и ластиком набросков отменой пером повтором рисования с фигурами",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор блок-схем",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/flowchart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Блок-схемы с умными угловыми соединителями.",
+  "k": "конструктор блок-схем flowchart maker flowchart maker flowcharts with smart elbow connectors блок-схем блок-схемы конструктор с соединителями угловыми умными",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор визиток",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/business-card-maker/",
+  "s": "Loona Design Studio",
+  "d": "Готовые к печати карточки 3.5 × 2 дюйма при 300 DPI.",
+  "k": "конструктор визиток business card maker business card maker print ready 3 5 2 in cards at 300 dpi 2 3 300 5 dpi визиток готовые дюйма к карточки конструктор печати при",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Украшатель скриншотов",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/screenshot-beautifier/",
+  "s": "Loona Design Studio",
+  "d": "Скриншоты на градиентных фонах, готовые к публикации.",
+  "k": "украшатель скриншотов screenshot beautifier screenshot beautifier screenshots on gradient backdrops share ready готовые градиентных к на публикации скриншотов скриншоты украшатель фонах",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Редактор аннотаций изображений",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/image-annotation-editor/",
+  "s": "Loona Design Studio",
+  "d": "Стрелки, подписи и размытие конфиденциальности для скриншотов.",
+  "k": "редактор аннотаций изображений image annotation editor image annotation editor arrows labels and privacy blur for screenshots аннотаций для и изображений конфиденциальности подписи размытие редактор скриншотов стрелки",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор фавиконов",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/favicon-generator/",
+  "s": "Loona Design Studio",
+  "d": "Полный пакет фавиконов: ICO + PNG + манифест в ZIP.",
+  "k": "генератор фавиконов favicon generator favicon generator full favicon pack ico pngs manifest in a zip ico png zip в генератор манифест пакет полный фавиконов",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор столбчатых диаграмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/bar-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Сгруппированные столбчатые диаграммы из таблицы или CSV.",
+  "k": "конструктор столбчатых диаграмм bar chart maker bar chart maker grouped bar charts from a table or csv csv диаграмм диаграммы из или конструктор сгруппированные столбчатые столбчатых таблицы",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор колончатых диаграмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/column-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Вертикальные столбчатые диаграммы для отчётов и слайдов.",
+  "k": "конструктор колончатых диаграмм column chart maker column chart maker vertical column charts for reports and slides вертикальные диаграмм диаграммы для и колончатых конструктор отчётов слайдов столбчатые",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор линейных диаграмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/line-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Линии тенденций нескольких серий во времени.",
+  "k": "конструктор линейных диаграмм line chart maker line chart maker multi series trend lines over time во времени диаграмм конструктор линейных линии нескольких серий тенденций",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор диаграмм с областями",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/area-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Заполненные диаграммы с областями, показывающие объём.",
+  "k": "конструктор диаграмм с областями area chart maker area chart maker filled area charts that show volume диаграмм диаграммы заполненные конструктор областями объём показывающие с",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор круговых диаграмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/pie-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Круговые диаграммы точных пропорций с процентами.",
+  "k": "конструктор круговых диаграмм pie chart maker pie chart maker exact proportion pies with percentages диаграмм диаграммы конструктор круговые круговых пропорций процентами с точных",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор кольцевых диаграмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/doughnut-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Кольцевые диаграммы с итогом в центре.",
+  "k": "конструктор кольцевых диаграмм doughnut chart maker doughnut chart maker ring charts with the total in the centre в диаграмм диаграммы итогом кольцевые кольцевых конструктор с центре",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор горизонтальных столбчатых диаграмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/horizontal-bar-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Ранжированные боковые столбцы для длинных подписей.",
+  "k": "конструктор горизонтальных столбчатых диаграмм horizontal bar chart maker horizontal bar chart maker ranked sideways bars for long labels боковые горизонтальных диаграмм длинных для конструктор подписей ранжированные столбцы столбчатых",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор столбчатых диаграмм с накоплением",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/stacked-bar-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Итоги, построенные из цветных частей.",
+  "k": "конструктор столбчатых диаграмм с накоплением stacked bar chart maker stacked bar chart maker totals built from coloured parts диаграмм из итоги конструктор накоплением построенные с столбчатых цветных частей",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор диаграмм рассеяния",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/scatter-plot-maker/",
+  "s": "Loona Design Studio",
+  "d": "Точки X и Y с линией тренда, построенной методом наименьших квадратов.",
+  "k": "конструктор диаграмм рассеяния scatter plot maker scatter plot maker x vs y points with a least squares trend line x y диаграмм и квадратов конструктор линией методом наименьших построенной рассеяния с точки тренда",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор пузырьковых диаграмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/bubble-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Живая пузырьковая версия точечной диаграммы.",
+  "k": "конструктор пузырьковых диаграмм bubble chart maker bubble chart maker lively bubble version of the scatter plot версия диаграмм диаграммы живая конструктор пузырьковая пузырьковых точечной",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор радарных диаграмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/radar-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Паутинные диаграммы для сравнения профилей.",
+  "k": "конструктор радарных диаграмм radar chart maker radar chart maker spider charts for profile comparison диаграмм диаграммы для конструктор паутинные профилей радарных сравнения",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор гистограмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/histogram-maker/",
+  "s": "Loona Design Studio",
+  "d": "Распределения из исходных чисел, с автоматическими интервалами.",
+  "k": "конструктор гистограмм histogram maker histogram maker distributions from raw numbers auto binned автоматическими гистограмм из интервалами исходных конструктор распределения с чисел",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор ящичных диаграмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/box-plot-maker/",
+  "s": "Loona Design Studio",
+  "d": "Диаграммы «ящик с усами» на основе реальных квартилей.",
+  "k": "конструктор ящичных диаграмм box plot maker box plot maker box and whisker plots from real quartiles диаграмм диаграммы квартилей конструктор на основе реальных с усами ящик ящичных",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор воронкообразных диаграмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/funnel-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Воронки конверсии с процентами по этапам.",
+  "k": "конструктор воронкообразных диаграмм funnel chart maker funnel chart maker conversion funnels with stage percentages воронки воронкообразных диаграмм конверсии конструктор по процентами с этапам",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор шкальных диаграмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/gauge-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Спидометры-шкалы для KPI и целей.",
+  "k": "конструктор шкальных диаграмм gauge chart maker gauge chart maker speedometer gauges for kpis and goals kpi диаграмм для и конструктор спидометры-шкалы целей шкальных",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор вафельных диаграмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/waffle-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Сетки 10×10, где каждый квадрат составляет 1%.",
+  "k": "конструктор вафельных диаграмм waffle chart maker waffle chart maker 10 10 grids where each square is 1 1 10 вафельных где диаграмм каждый квадрат конструктор сетки составляет",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор полярных диаграмм площади",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/polar-area-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Диаграммы «coxcomb» Найтингейл для циклов.",
+  "k": "конструктор полярных диаграмм площади polar area chart maker polar area chart maker nightingale coxcomb charts for cycles coxcomb диаграмм диаграммы для конструктор найтингейл площади полярных циклов",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор пиктограмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/pictogram-maker/",
+  "s": "Loona Design Studio",
+  "d": "Точечные диаграммы-изотипы, которые может сосчитать каждый.",
+  "k": "конструктор пиктограмм pictogram maker pictogram maker isotype dot charts anyone can count диаграммы-изотипы каждый конструктор которые может пиктограмм сосчитать точечные",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор диаграмм Венна",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/venn-diagram-maker/",
+  "s": "Loona Design Studio",
+  "d": "Диаграммы Венна из двух и трёх кругов.",
+  "k": "конструктор диаграмм венна venn diagram maker venn diagram maker two and three circle venn diagrams венна двух диаграмм диаграммы и из конструктор кругов трёх",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор древовидных карт",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/treemap-maker/",
+  "s": "Loona Design Studio",
+  "d": "Квадрифицированные древовидные карты с точными площадями.",
+  "k": "конструктор древовидных карт treemap maker treemap maker squarified treemaps with exact areas древовидные древовидных карт карты квадрифицированные конструктор площадями с точными",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV в график",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/csv-to-chart/",
+  "s": "Loona Design Studio",
+  "d": "Вставьте CSV, выберите из 16 типов диаграмм.",
+  "k": "csv в график csv to chart csv to chart paste csv pick from 16 chart types 16 csv в вставьте выберите график диаграмм из типов",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор карт понятий",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/concept-map-maker/",
+  "s": "Loona Design Studio",
+  "d": "Понятия, соединённые подписанными, осмысленными связями.",
+  "k": "конструктор карт понятий concept map maker concept map maker concepts joined by labelled meaningful links карт конструктор осмысленными подписанными понятий понятия связями соединённые",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор организационных диаграмм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/org-chart-maker/",
+  "s": "Loona Design Studio",
+  "d": "Организационные диаграммы из простого текста с отступами.",
+  "k": "конструктор организационных диаграмм org chart maker org chart maker org charts from simple indented text диаграмм диаграммы из конструктор организационные организационных отступами простого с текста",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор генеалогических деревьев",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/family-tree-maker/",
+  "s": "Loona Design Studio",
+  "d": "Чистые семейные древа из трёх поколений.",
+  "k": "конструктор генеалогических деревьев family tree maker family tree maker clean three generation family trees генеалогических деревьев древа из конструктор поколений семейные трёх чистые",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор временных шкал",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/timeline-maker/",
+  "s": "Loona Design Studio",
+  "d": "События на оси, отсортированные по году.",
+  "k": "конструктор временных шкал timeline maker timeline maker events on an axis sorted by year временных году конструктор на оси отсортированные по события шкал",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор диаграмм Mermaid",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/mermaid-diagram-maker/",
+  "s": "Loona Design Studio",
+  "d": "Вставьте код Mermaid — получите PNG диаграммы.",
+  "k": "конструктор диаграмм mermaid mermaid diagram maker mermaid diagram maker paste mermaid code get a diagram png mermaid png вставьте диаграмм диаграммы код конструктор получите",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор флаеров",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/flyer-maker/",
+  "s": "Loona Design Studio",
+  "d": "Готовые к печати флаеры A4 и Letter.",
+  "k": "конструктор флаеров flyer maker flyer maker print ready a4 and letter flyers a4 letter готовые и к конструктор печати флаеров флаеры",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор баннеров",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/banner-maker/",
+  "s": "Loona Design Studio",
+  "d": "Веб-баннеры, обложки и шапки точных размеров.",
+  "k": "конструктор баннеров banner maker banner maker web banners covers and headers at exact sizes баннеров веб-баннеры и конструктор обложки размеров точных шапки",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор инфографики",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/infographic-maker/",
+  "s": "Loona Design Studio",
+  "d": "Высокая инфографика шагов и статистики.",
+  "k": "конструктор инфографики infographic maker infographic maker tall step and statistics infographics высокая и инфографика инфографики конструктор статистики шагов",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор фирменных бланков",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/letterhead-maker/",
+  "s": "Loona Design Studio",
+  "d": "Фирменные бланки A4 для деловых писем, для печати или PDF.",
+  "k": "конструктор фирменных бланков letterhead maker letterhead maker a4 business letterheads print or pdf a4 pdf бланки бланков деловых для или конструктор печати писем фирменные фирменных",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор меню",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/menu-maker/",
+  "s": "Loona Design Studio",
+  "d": "Меню кафе и ресторанов с ценами.",
+  "k": "конструктор меню menu maker menu maker cafe and restaurant menus with prices и кафе конструктор меню ресторанов с ценами",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор обложек книг",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/book-cover-maker/",
+  "s": "Loona Design Studio",
+  "d": "Обложки книг 6×9 и в соотношении Kindle.",
+  "k": "конструктор обложек книг book cover maker book cover maker 6 9 and kindle ratio book covers 6 9 kindle в и книг конструктор обложек обложки соотношении",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор обложек альбомов",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/album-cover-maker/",
+  "s": "Loona Design Studio",
+  "d": "Квадратные обложки для музыки и подкастов.",
+  "k": "конструктор обложек альбомов album cover maker album cover maker square music and podcast cover art альбомов для и квадратные конструктор музыки обложек обложки подкастов",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор миниатюр YouTube",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/youtube-thumbnail-maker/",
+  "s": "Loona Design Studio",
+  "d": "Точные миниатюры 1280 × 720, которые приносят клики.",
+  "k": "конструктор миниатюр youtube youtube thumbnail maker youtube thumbnail maker exact 1280 720 thumbnails that earn clicks 1280 720 youtube клики конструктор которые миниатюр миниатюры приносят точные",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор баннеров YouTube",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/youtube-banner-maker/",
+  "s": "Loona Design Studio",
+  "d": "Оформление канала со встроенной безопасной зоной.",
+  "k": "конструктор баннеров youtube youtube banner maker youtube banner maker channel art with the safe area built in youtube баннеров безопасной встроенной зоной канала конструктор оформление со",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор цитат",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/quote-maker/",
+  "s": "Loona Design Studio",
+  "d": "Изображения цитат поверх фотографий или цветов.",
+  "k": "конструктор цитат quote maker quote maker quote images over photos or colours изображения или конструктор поверх фотографий цветов цитат",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор приглашений",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/invitation-maker/",
+  "s": "Loona Design Studio",
+  "d": "Приглашения на дни рождения, свадьбы и мероприятия.",
+  "k": "конструктор приглашений invitation maker invitation maker birthday wedding and event invitations дни и конструктор мероприятия на приглашений приглашения рождения свадьбы",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор поздравительных открыток",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/greeting-card-maker/",
+  "s": "Loona Design Studio",
+  "d": "Открытки на Ид, день рождения и с благодарностью.",
+  "k": "конструктор поздравительных открыток greeting card maker greeting card maker eid birthday and thank you cards благодарностью день и ид конструктор на открытки открыток поздравительных рождения с",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор билетов",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/ticket-maker/",
+  "s": "Loona Design Studio",
+  "d": "Билеты на мероприятия с отрывным корешком.",
+  "k": "конструктор билетов ticket maker ticket maker event tickets with a tear off stub билетов билеты конструктор корешком мероприятия на отрывным с",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор ID-карт",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/id-card-maker/",
+  "s": "Loona Design Studio",
+  "d": "Удостоверения CR80 для сотрудников и студентов.",
+  "k": "конструктор id-карт id card maker id card maker cr80 staff and student id cards cr80 id-карт для и конструктор сотрудников студентов удостоверения",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор календарей",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/calendar-maker/",
+  "s": "Loona Design Studio",
+  "d": "Правильные печатаемые месячные календари.",
+  "k": "конструктор календарей calendar maker calendar maker correct printable month calendars календарей календари конструктор месячные печатаемые правильные",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор объявлений / табличек",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/announcement-maker/",
+  "s": "Loona Design Studio",
+  "d": "Вывески «открыто/закрыто», «распродажа», «уведомление» и «добро пожаловать».",
+  "k": "конструктор объявлений / табличек announcement sign maker announcement maker open closed sale notice and welcome signs вывески добро закрыто и конструктор объявлений открыто пожаловать распродажа табличек уведомление",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор мудбордов",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/moodboard-maker/",
+  "s": "Loona Design Studio",
+  "d": "Свободно располагайте фотографии, образцы и заметки.",
+  "k": "конструктор мудбордов moodboard maker moodboard maker free arrange photos swatches and notes заметки и конструктор мудбордов образцы располагайте свободно фотографии",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор досок визуализации",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/vision-board-maker/",
+  "s": "Loona Design Studio",
+  "d": "Фотографии целей и аффирмации, размеры плаката и обоев.",
+  "k": "конструктор досок визуализации vision board maker vision board maker goal photos affirmations poster wallpaper sizes аффирмации визуализации досок и конструктор обоев плаката размеры фотографии целей",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "Разделитель сетки Instagram",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/instagram-grid-splitter/",
+  "s": "Loona Design Studio",
+  "d": "Одна фотография в сетку профиля 3×N (ZIP).",
+  "k": "разделитель сетки instagram instagram grid splitter instagram grid splitter one photo into a 3 n profile grid zip 3 instagram n zip в одна профиля разделитель сетки сетку фотография",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "Разделитель каруселей",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/carousel-splitter/",
+  "s": "Loona Design Studio",
+  "d": "Широкие изображения — в пролистываемые панели (ZIP).",
+  "k": "разделитель каруселей carousel splitter carousel splitter wide images into swipeable panels zip zip в изображения каруселей панели пролистываемые разделитель широкие",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "Разделитель изображений по сетке",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/image-grid-splitter/",
+  "s": "Loona Design Studio",
+  "d": "Любое изображение в точную сетку плиток N×M (ZIP).",
+  "k": "разделитель изображений по сетке image grid splitter image grid splitter any image into an exact n m tile grid zip m n zip в изображение изображений любое плиток по разделитель сетке сетку точную",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор аватаров с инициалами",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/initials-avatar-maker/",
+  "s": "Loona Design Studio",
+  "d": "Аватары с именами и цветом из имени.",
+  "k": "конструктор аватаров с инициалами initials avatar maker initials avatar maker name avatars with a colour from the name аватаров аватары и из именами имени инициалами конструктор с цветом",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор пиксельных аватаров",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/pixel-avatar-maker/",
+  "s": "Loona Design Studio",
+  "d": "Зерновые идентиконы + пользовательские пиксельные аватары 5×5.",
+  "k": "конструктор пиксельных аватаров pixel avatar maker pixel avatar maker seeded identicons custom 5 5 pixel avatars 5 аватаров аватары зерновые идентиконы конструктор пиксельные пиксельных пользовательские",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор облаков слов",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/word-cloud-generator/",
+  "s": "Loona Design Studio",
+  "d": "Взвешенные облака слов из любого текста.",
+  "k": "генератор облаков слов word cloud generator word cloud generator weighted word clouds from any text взвешенные генератор из любого облака облаков слов текста",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "Редактор пиксель-арта",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/pixel-art-editor/",
+  "s": "Loona Design Studio",
+  "d": "Сетки спрайтов с пером, заливкой и чётким экспортом.",
+  "k": "редактор пиксель-арта pixel art editor pixel art editor sprite grids with pen fill and crisp export заливкой и пером пиксель-арта редактор с сетки спрайтов чётким экспортом",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор оттенков цвета",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/color-shades-generator/",
+  "s": "Loona Design Studio",
+  "d": "Полная тональная шкала 50–950 из одного цвета.",
+  "k": "генератор оттенков цвета colour shades generator color shades generator full 50 950 tonal scale from one colour 50 950 генератор из одного оттенков полная тональная цвета шкала",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор гармоний цветов",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/color-harmony-generator/",
+  "s": "Loona Design Studio",
+  "d": "Шесть схем гармонии цветового круга.",
+  "k": "генератор гармоний цветов colour harmony generator color harmony generator six colour wheel harmony schemes гармонии гармоний генератор круга схем цветов цветового шесть",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертер цветов",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/color-converter/",
+  "s": "Loona Design Studio",
+  "d": "HEX, RGB, HSL, HSV и CMYK в одном виде.",
+  "k": "конвертер цветов colour converter color converter hex rgb hsl hsv and cmyk in one view cmyk hex hsl hsv rgb в виде и конвертер одном цветов",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "Смеситель цветов",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/color-mixer/",
+  "s": "Loona Design Studio",
+  "d": "Смешивайте два цвета равными шагами.",
+  "k": "смеситель цветов colour mixer color mixer blend two colours in even steps два равными смеситель смешивайте цвета цветов шагами",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор случайных цветов",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/random-color-generator/",
+  "s": "Loona Design Studio",
+  "d": "Шесть свежих случайных цветов за бросок.",
+  "k": "генератор случайных цветов random colour generator random color generator six fresh random colours per roll бросок генератор за свежих случайных цветов шесть",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор градиентов CSS",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/css-gradient-generator/",
+  "s": "Loona Design Studio",
+  "d": "Многоостановочный линейный, радиальный и конический CSS.",
+  "k": "генератор градиентов css css gradient generator css gradient generator multi stop linear radial and conic css css генератор градиентов и конический линейный многоостановочный радиальный",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор градиентного текста",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/text-gradient-generator/",
+  "s": "Loona Design Studio",
+  "d": "Градиентный текст заголовков в CSS.",
+  "k": "генератор градиентного текста text gradient generator text gradient generator gradient headline text in css css в генератор градиентного градиентный заголовков текст текста",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор меш-градиентов",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/mesh-gradient-generator/",
+  "s": "Loona Design Studio",
+  "d": "Сетчатые градиенты сияния на чистом CSS.",
+  "k": "генератор меш-градиентов mesh gradient generator mesh gradient generator aurora mesh gradients in pure css css генератор градиенты меш-градиентов на сетчатые сияния чистом",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор тени блока",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/box-shadow-generator/",
+  "s": "Loona Design Studio",
+  "d": "Визуальный дизайнер теней CSS с пресетами.",
+  "k": "генератор тени блока box shadow generator box shadow generator visual css shadow designer with presets css блока визуальный генератор дизайнер пресетами с теней тени",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор теней текста",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/text-shadow-generator/",
+  "s": "Loona Design Studio",
+  "d": "Тени текста CSS с предварительным просмотром в реальном времени.",
+  "k": "генератор теней текста text shadow generator text shadow generator css text shadows with live preview css в времени генератор предварительным просмотром реальном с текста теней тени",
+  "p": 171,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор border-radius / органических форм",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/border-radius-generator/",
+  "s": "Loona Design Studio",
+  "d": "Органические формы пятен через border-radius.",
+  "k": "генератор border-radius / органических форм border radius blob generator border radius generator organic blob shapes via border radius border-radius генератор органические органических пятен форм формы через",
+  "p": 172,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор clip-path",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/clip-path-generator/",
+  "s": "Loona Design Studio",
+  "d": "Фигуры и многоугольники clip-path в CSS.",
+  "k": "генератор clip-path clip path generator clip path generator css clip path shapes and polygons clip-path css в генератор и многоугольники фигуры",
+  "p": 173,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор кнопок CSS",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/css-button-generator/",
+  "s": "Loona Design Studio",
+  "d": "Проектируйте кнопки, получайте производственный CSS.",
+  "k": "генератор кнопок css css button generator css button generator design buttons get production css css генератор кнопки кнопок получайте проектируйте производственный",
+  "p": 174,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор спиннеров CSS",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/css-spinner-generator/",
+  "s": "Loona Design Studio",
+  "d": "Спиннеры загрузки на чистом CSS с keyframes.",
+  "k": "генератор спиннеров css css spinner generator css spinner generator pure css loading spinners with keyframes css keyframes генератор загрузки на с спиннеров спиннеры чистом",
+  "p": 175,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор глассморфизма",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/glassmorphism-generator/",
+  "s": "Loona Design Studio",
+  "d": "Карточки из матового стекла в CSS.",
+  "k": "генератор глассморфизма glassmorphism generator glassmorphism generator frosted glass cards in css css в генератор глассморфизма из карточки матового стекла",
+  "p": 176,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор нейморфизма",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/neumorphism-generator/",
+  "s": "Loona Design Studio",
+  "d": "Неоморфные тени мягкого интерфейса.",
+  "k": "генератор нейморфизма neumorphism generator neumorphism generator soft ui neumorphic shadows генератор интерфейса мягкого нейморфизма неоморфные тени",
+  "p": 177,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор кубических кривых Безье",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/cubic-bezier-generator/",
+  "s": "Loona Design Studio",
+  "d": "Визуальный дизайнер кривых плавности CSS.",
+  "k": "генератор кубических кривых безье cubic bezier generator cubic bezier generator visual css easing curve designer css безье визуальный генератор дизайнер кривых кубических плавности",
+  "p": 178,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор треугольников CSS",
+  "u": "https://loonaautomation.github.io/loona-design-studio/ru/css-triangle-generator/",
+  "s": "Loona Design Studio",
+  "d": "Треугольники приёмом рамки в четырёх направлениях.",
+  "k": "генератор треугольников css css triangle generator css triangle generator border trick triangles in four directions css в генератор направлениях приёмом рамки треугольники треугольников четырёх",
+  "p": 179,
+  "c": "Tool"
+ }
+]
