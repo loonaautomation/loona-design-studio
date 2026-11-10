@@ -1,0 +1,29 @@
+{
+  "name": "Loona سائن میکر",
+  "short_name": "سائن میکر",
+  "description": "مفت سائن میکر: Open/Closed, Welcome, Sale, Warning اور اپنی مرضی اعلان سائن — A4 لینڈ اسکیپ اور چوڑے سائز، پرنٹ کے لیے تیار۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/announcement-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

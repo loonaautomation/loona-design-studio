@@ -1,0 +1,29 @@
+{
+  "name": "Loona Whitesmoke (#F5F5F5)",
+  "short_name": "Whitesmoke (#F5F5F5)",
+  "description": "Whitesmoke رنگ: #F5F5F5, RGB(245, 245, 245), HSL(0, 0%, 96%), CMYK اور WCAG کنٹراسٹ، نیز شیڈز، ٹنٹس اور ہم آہنگی۔ کاپی کے لیے تیار CSS قدریں۔",
+  "id": "/loona-design-studio/ur/color-whitesmoke/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

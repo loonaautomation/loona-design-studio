@@ -1,0 +1,29 @@
+{
+  "name": "Loona گیج چارٹ میکر",
+  "short_name": "گیج چارٹ میکر",
+  "description": "مفت گیج چارٹ میکر: سرخ–عنبر–سبز اسکیل کے ساتھ صاف اسپیڈومیٹر ڈائل پر ایک سرخی عدد۔ KPI اور اہداف کے لیے بہترین۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/gauge-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona کیلنڈر میکر",
+  "short_name": "کیلنڈر میکر",
+  "description": "مفت کیلنڈر میکر: کسی بھی مہینے اور سال کے لیے پرنٹ کے قابل ماہانہ کیلنڈر، اتوار یا پیر آغاز، پورٹریٹ یا لینڈ اسکیپ۔ PNG برآمد۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/calendar-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

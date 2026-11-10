@@ -1,0 +1,29 @@
+{
+  "name": "Loona فارسٹ اینڈ کیمپ فائر رنگ پیلیٹ",
+  "short_name": "فارسٹ اینڈ کیمپ فائر رنگ",
+  "description": "فارسٹ اینڈ کیمپ فائر پیلیٹ: HEX کوڈز، کرداروں اور کاپی کے لیے تیار CSS متغیرات کے ساتھ 5 ہم آہنگ رنگ۔ جنگل کی گرمجوشی — پائن کا سایہ انگارے نارنجی سے روشن۔",
+  "id": "/loona-design-studio/ur/palette-forest-campfire/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

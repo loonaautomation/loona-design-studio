@@ -1,0 +1,29 @@
+{
+  "name": "Loona انسٹاگرام گرڈ اسپلٹر",
+  "short_name": "انسٹاگرام گرڈ اسپلٹر",
+  "description": "مفت انسٹاگرام گرڈ اسپلٹر: ایک تصویر ZIP میں 3×1 سے 3×4 مربع ٹائلیں بن جاتی ہے، پروفائل گرڈ کے طور پر پوسٹ کے لیے تیار۔ کوئی اپ لوڈ نہیں، کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/instagram-grid-splitter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona البم کور میکر",
+  "short_name": "البم کور میکر",
+  "description": "مفت البم کور میکر: میوزک اور پوڈکاسٹ کے لیے مربع 1400 اور 3000 px کور آرٹ، فنکار اور عنوان بلاکس کے ساتھ۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/album-cover-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

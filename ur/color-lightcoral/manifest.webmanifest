@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lightcoral (#F08080)",
+  "short_name": "Lightcoral (#F08080)",
+  "description": "Lightcoral رنگ: #F08080, RGB(240, 128, 128), HSL(0, 79%, 72%), CMYK اور WCAG کنٹراسٹ، نیز شیڈز، ٹنٹس اور ہم آہنگی۔ کاپی کے لیے تیار CSS قدریں۔",
+  "id": "/loona-design-studio/ur/color-lightcoral/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

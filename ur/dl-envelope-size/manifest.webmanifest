@@ -1,0 +1,29 @@
+{
+  "name": "Loona DL لفافہ سائز",
+  "short_name": "DL لفافہ سائز",
+  "description": "DL لفافہ کی پیمائشیں: 110 × 220 mm (110 × 220 mm)، پرنٹ کے لیے 300 DPI پر 1299 × 2598 px، 150 DPI پر 650 × 1299 px۔ بلیڈ اور استعمال رہنمائی کے ساتھ۔",
+  "id": "/loona-design-studio/ur/dl-envelope-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

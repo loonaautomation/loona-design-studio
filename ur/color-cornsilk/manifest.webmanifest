@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cornsilk (#FFF8DC)",
+  "short_name": "Cornsilk (#FFF8DC)",
+  "description": "Cornsilk رنگ: #FFF8DC, RGB(255, 248, 220), HSL(48, 100%, 93%), CMYK اور WCAG کنٹراسٹ، نیز شیڈز، ٹنٹس اور ہم آہنگی۔ کاپی کے لیے تیار CSS قدریں۔",
+  "id": "/loona-design-studio/ur/color-cornsilk/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

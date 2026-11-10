@@ -1,0 +1,29 @@
+{
+  "name": "Loona رنگ شیڈز اور ٹنٹس",
+  "short_name": "رنگ شیڈز اور ٹنٹس",
+  "description": "مفت رنگ شیڈز جنریٹر: ایک رنگ مکمل Tailwind طرز 50–950 ٹونل اسکیل نیز ٹنٹس اور شیڈز بن جاتا ہے، CSS متغیرات برآمد کے ساتھ۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/color-shades-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

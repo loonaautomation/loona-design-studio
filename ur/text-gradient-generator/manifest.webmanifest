@@ -1,0 +1,29 @@
+{
+  "name": "Loona ٹیکسٹ گریڈیئنٹ جنریٹر",
+  "short_name": "ٹیکسٹ گریڈیئنٹ جنریٹر",
+  "description": "مفت ٹیکسٹ گریڈینٹ جنریٹر: پس منظر کلپ CSS تکنیک کے ساتھ دو رنگ گریڈینٹ سرخیاں، براہ راست پیش نظارہ اور کاپی کے لیے تیار کوڈ۔",
+  "id": "/loona-design-studio/ur/text-gradient-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

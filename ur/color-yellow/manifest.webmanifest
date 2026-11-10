@@ -1,0 +1,29 @@
+{
+  "name": "Loona Yellow (#FFFF00)",
+  "short_name": "Yellow (#FFFF00)",
+  "description": "Yellow رنگ: #FFFF00, RGB(255, 255, 0), HSL(60, 100%, 50%), CMYK اور WCAG کنٹراسٹ، نیز شیڈز، ٹنٹس اور ہم آہنگی۔ کاپی کے لیے تیار CSS قدریں۔",
+  "id": "/loona-design-studio/ur/color-yellow/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

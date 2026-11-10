@@ -1,0 +1,29 @@
+{
+  "name": "Loona ٹیک اسٹارٹ اپس اور SaaS کے لیے بہترین رنگ",
+  "short_name": "ٹیک اسٹارٹ اپس اور SaaS کے لیے بہترین رنگ",
+  "description": "ٹیک اسٹارٹ اپس اور SaaS کے لیے رنگ پیلیٹ: دو منتخب سمتیں HEX کوڈز، ٹائپوگرافی رہنمائی اور کرنے اور نہ کرنے کے اصولوں کے ساتھ۔ مفت ڈیزائن گائیڈ۔",
+  "id": "/loona-design-studio/ur/palette-for-tech-startups/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

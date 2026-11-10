@@ -1,0 +1,29 @@
+{
+  "name": "Loona رینڈم کلر جنریٹر",
+  "short_name": "رینڈم کلر جنریٹر",
+  "description": "مفت بے ترتیب رنگ جنریٹر: فی کوشش چھ بے ترتیب رنگ HEX اور HSL کے ساتھ، کاپی کے لیے کلک کریں۔ چارٹ، زمروں اور الہام کے لیے۔",
+  "id": "/loona-design-studio/ur/random-color-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

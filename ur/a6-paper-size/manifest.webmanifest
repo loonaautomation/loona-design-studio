@@ -1,0 +1,29 @@
+{
+  "name": "Loona A6 کاغذ کا سائز",
+  "short_name": "A6 کاغذ کا سائز",
+  "description": "A6 کاغذ کی پیمائشیں: 105 × 148 mm (105 × 148 mm)، پرنٹ کے لیے 300 DPI پر 1240 × 1748 px، 150 DPI پر 620 × 874 px۔ بلیڈ اور استعمال رہنمائی کے ساتھ۔",
+  "id": "/loona-design-studio/ur/a6-paper-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

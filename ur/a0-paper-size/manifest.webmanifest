@@ -1,0 +1,29 @@
+{
+  "name": "Loona A0 کاغذ کا سائز",
+  "short_name": "A0 کاغذ کا سائز",
+  "description": "A0 کاغذ کی پیمائشیں: 841 × 1189 mm (841 × 1189 mm)، پرنٹ کے لیے 300 DPI پر 9933 × 14043 px، 150 DPI پر 4967 × 7022 px۔ بلیڈ اور استعمال رہنمائی کے ساتھ۔",
+  "id": "/loona-design-studio/ur/a0-paper-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

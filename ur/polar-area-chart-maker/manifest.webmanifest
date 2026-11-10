@@ -1,0 +1,29 @@
+{
+  "name": "Loona پولر ایریا چارٹ میکر",
+  "short_name": "پولر ایریا چارٹ میکر",
+  "description": "مفت پولر ایریا چارٹ میکر: برابر زاویہ حصے جن کا رداس قدر کے ساتھ بڑھتا ہے — Florence Nightingale کوکس کومب طرز۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/polar-area-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

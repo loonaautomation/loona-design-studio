@@ -1,0 +1,29 @@
+{
+  "name": "Loona بزنس کارڈ میکر",
+  "short_name": "بزنس کارڈ میکر",
+  "description": "مفت آن لائن بزنس کارڈ میکر: اصل 3.5 × 2 انچ کارڈ پر 300 DPI (1050 × 600 px) پر آپ کا نام، عنوان، رابطے اور لوگو شبیہ۔ پرنٹ کے لیے تیار PNG، کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/business-card-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

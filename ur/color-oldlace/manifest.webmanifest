@@ -1,0 +1,29 @@
+{
+  "name": "Loona Oldlace (#FDF5E6)",
+  "short_name": "Oldlace (#FDF5E6)",
+  "description": "Oldlace رنگ: #FDF5E6, RGB(253, 245, 230), HSL(39, 85%, 95%), CMYK اور WCAG کنٹراسٹ، نیز شیڈز، ٹنٹس اور ہم آہنگی۔ کاپی کے لیے تیار CSS قدریں۔",
+  "id": "/loona-design-studio/ur/color-oldlace/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

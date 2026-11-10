@@ -1,0 +1,29 @@
+{
+  "name": "Loona مرمیڈ ڈایاگرام میکر",
+  "short_name": "مرمیڈ ڈایاگرام میکر",
+  "description": "مفت Mermaid فلو چارٹ رینڈرر: Mermaid کوڈ چسپاں کریں اور صاف ڈایاگرام PNG حاصل کریں۔ فلو چارٹ ذیلی سیٹ کے لیے ہاتھ سے بنا تجزیہ کار — ایماندار دائرہ، کوئی اپ لوڈ نہیں۔",
+  "id": "/loona-design-studio/ur/mermaid-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

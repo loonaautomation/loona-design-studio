@@ -1,0 +1,29 @@
+{
+  "name": "Loona بک کور میکر",
+  "short_name": "بک کور میکر",
+  "description": "مفت بک کور میکر: عنوان، مصنف اور تصویری بلاکس کے ساتھ 6×9 اور Kindle تناسب کور۔ پرنٹ کے لیے تیار PNG برآمد کریں۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/book-cover-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

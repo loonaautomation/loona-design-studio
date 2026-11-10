@@ -1,0 +1,29 @@
+{
+  "name": "Loona پوسٹ کارڈ 4×6 سائز",
+  "short_name": "پوسٹ کارڈ 4×6 سائز",
+  "description": "پوسٹ کارڈ 4×6 ابعاد: 102 × 152 mm (4 × 6 in)، پرنٹ کے لیے 300 DPI پر 1205 × 1795 px، 150 DPI پر 602 × 898 px۔ بلیڈ اور استعمال گائیڈ کے ساتھ۔",
+  "id": "/loona-design-studio/ur/postcard-4x6-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

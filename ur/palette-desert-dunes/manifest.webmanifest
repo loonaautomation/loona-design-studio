@@ -1,0 +1,29 @@
+{
+  "name": "Loona ڈیزرٹ ڈیونز رنگ پیلیٹ",
+  "short_name": "ڈیزرٹ ڈیونز رنگ پیلیٹ",
+  "description": "ڈیزرٹ ڈیونز پیلیٹ: HEX کوڈز، کرداروں اور کاپی کے لیے تیار CSS متغیرات کے ساتھ 5 ہم آہنگ رنگ۔ سورج سے پکے غیر جانبدار — ریت، مٹی اور ایک نخلستانی فیروزی۔",
+  "id": "/loona-design-studio/ur/palette-desert-dunes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

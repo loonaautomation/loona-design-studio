@@ -1,0 +1,29 @@
+{
+  "name": "Loona دعوت نامہ میکر",
+  "short_name": "دعوت نامہ میکر",
+  "description": "مفت دعوت نامہ میکر: سالگرہ، شادیوں اور تقریبات کے لیے خوبصورت دعوت کارڈ — پورٹریٹ اور پرنٹ سائز، PNG/PDF برآمد۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/invitation-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

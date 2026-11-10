@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS بٹن جنریٹر",
+  "short_name": "CSS بٹن جنریٹر",
+  "description": "مفت CSS بٹن جنریٹر: رنگ، پیڈنگ، رداس، سرحد اور ہوور حالت بصری طور پر ڈیزائن شدہ — .my-button کلاس سمیت پراڈکشن CSS۔",
+  "id": "/loona-design-studio/ur/css-button-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

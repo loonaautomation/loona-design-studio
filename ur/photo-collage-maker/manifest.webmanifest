@@ -1,0 +1,29 @@
+{
+  "name": "Loona فوٹو کولاج میکر",
+  "short_name": "فوٹو کولاج میکر",
+  "description": "مفت آن لائن فوٹو کولاج میکر: 2–9 تصاویر کو خلا، کونہ اور پس منظر کنٹرول کے ساتھ گرڈ، ہیرو اور موزیک لے آؤٹ میں ملائیں۔ PNG/JPG برآمد، کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/photo-collage-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

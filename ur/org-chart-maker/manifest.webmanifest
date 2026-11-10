@@ -1,0 +1,29 @@
+{
+  "name": "Loona تنظیمی چارٹ میکر",
+  "short_name": "تنظیمی چارٹ میکر",
+  "description": "مفت تنظیمی چارٹ میکر: اپنی درجہ بندی انڈینٹ شدہ متن کے طور پر لکھیں اور فوراً صاف تنظیمی چارٹ حاصل کریں۔ مکمل سائز پر PNG برآمد۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/org-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

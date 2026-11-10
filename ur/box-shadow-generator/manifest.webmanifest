@@ -1,0 +1,29 @@
+{
+  "name": "Loona باکس شیڈو جنریٹر",
+  "short_name": "باکس شیڈو جنریٹر",
+  "description": "مفت باکس شیڈو جنریٹر: آف سیٹ، بلر، اسپریڈ، دھندلاپن اور اِن سیٹ کے سلائیڈرز کے ساتھ نرم، سخت اور تیرتے CSS سائے ڈیزائن کریں — براہ راست پیش نظارہ اور کوڈ۔",
+  "id": "/loona-design-studio/ur/box-shadow-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

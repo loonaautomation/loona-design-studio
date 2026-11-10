@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV سے چارٹ",
+  "short_name": "CSV سے چارٹ",
+  "description": "مفت CSV سے چارٹ کنورٹر: CSV چسپاں یا لکھیں اور فوراً چارٹ بنائیں — بار، لائن، پائی، ریڈار، اسکیٹر، ہسٹوگرام اور مزید۔ 100% آپ کے براؤزر میں چلتا ہے، آپ کا ڈیٹا کبھی اپ لوڈ نہیں ہوتا۔",
+  "id": "/loona-design-studio/ur/csv-to-chart/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

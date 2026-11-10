@@ -1,0 +1,29 @@
+{
+  "name": "Loona مائنڈ میپ میکر",
+  "short_name": "مائنڈ میپ میکر",
+  "description": "مفت آن لائن مائنڈ میپ میکر: ذیلی اور ساتھی نوڈ شامل کریں، صاف خودکار لے آؤٹ، رنگ تھیم، پین اور زوم، PNG برآمد اور JSON محفوظ/لوڈ۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/mind-map-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona رئیل اسٹیٹ کے لیے بہترین رنگ",
+  "short_name": "رئیل اسٹیٹ کے لیے بہترین رنگ",
+  "description": "رئیل اسٹیٹ کے لیے رنگ پیلیٹس: دو منتخب سمتیں HEX کوڈز، ٹائپوگرافی رہنمائی اور کریں/نہ کریں اصولوں کے ساتھ۔ مفت ڈیزائن رہنمائی۔",
+  "id": "/loona-design-studio/ur/palette-for-real-estate/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

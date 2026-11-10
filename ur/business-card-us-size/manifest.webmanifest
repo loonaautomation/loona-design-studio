@@ -1,0 +1,29 @@
+{
+  "name": "Loona بزنس کارڈ (US) سائز",
+  "short_name": "بزنس کارڈ (US) سائز",
+  "description": "بزنس کارڈ (US) کی پیمائشیں: 89 × 51 mm (3.5 × 2 in)، پرنٹ کے لیے 300 DPI پر 1051 × 602 px، 150 DPI پر 526 × 301 px۔ بلیڈ اور استعمال رہنمائی کے ساتھ۔",
+  "id": "/loona-design-studio/ur/business-card-us-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

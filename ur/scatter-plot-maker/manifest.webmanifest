@@ -1,0 +1,29 @@
+{
+  "name": "Loona اسکیٹر پلاٹ میکر",
+  "short_name": "اسکیٹر پلاٹ میکر",
+  "description": "مفت اسکیٹر پلاٹ میکر: دو سیریز سے X بمقابلہ Y گراف بنائیں، اختیاری کم از کم مربع رجحان لائن کے ساتھ۔ جدول لکھیں یا CSV چسپاں کریں۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/scatter-plot-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

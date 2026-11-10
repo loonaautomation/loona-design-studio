@@ -1,0 +1,29 @@
+{
+  "name": "Loona ٹیک مڈنائٹ رنگ پیلیٹ",
+  "short_name": "ٹیک مڈنائٹ رنگ پیلیٹ",
+  "description": "ٹیک مڈنائٹ پیلیٹ: HEX کوڈز، کرداروں اور کاپی کے لیے تیار CSS متغیرات کے ساتھ 5 ہم آہنگ رنگ۔ ڈارک موڈ ٹیکنالوجی — برقی لہجوں کے ساتھ قریب سیاہ سطحیں۔",
+  "id": "/loona-design-studio/ur/palette-tech-midnight/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

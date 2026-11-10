@@ -1,0 +1,29 @@
+{
+  "name": "Loona ہسٹوگرام میکر",
+  "short_name": "ہسٹوگرام میکر",
+  "description": "مفت ہسٹوگرام میکر: خام اعداد چسپاں کریں اور خودکار بنز کے ساتھ تقسیم ہسٹوگرام حاصل کریں۔ اپنے ڈیٹا کی شکل دیکھیں۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/histogram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

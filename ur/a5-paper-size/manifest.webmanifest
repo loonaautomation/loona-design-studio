@@ -1,0 +1,29 @@
+{
+  "name": "Loona A5 کاغذ کا سائز",
+  "short_name": "A5 کاغذ کا سائز",
+  "description": "A5 کاغذ کی پیمائشیں: 148 × 210 mm (148 × 210 mm)، پرنٹ کے لیے 300 DPI پر 1748 × 2480 px، 150 DPI پر 874 × 1240 px۔ بلیڈ اور استعمال رہنمائی کے ساتھ۔",
+  "id": "/loona-design-studio/ur/a5-paper-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

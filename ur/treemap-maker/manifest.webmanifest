@@ -1,0 +1,29 @@
+{
+  "name": "Loona ٹری میپ میکر",
+  "short_name": "ٹری میپ میکر",
+  "description": "مفت ٹری میپ میکر: squarified لے آؤٹ سے قدر کے عین مطابق سائز کے آشیانہ مستطیل۔ بجٹ اور اسٹوریج کے لیے بہترین۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/treemap-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

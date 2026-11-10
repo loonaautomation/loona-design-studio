@@ -1,0 +1,29 @@
+{
+  "name": "Loona اقتباس میکر",
+  "short_name": "اقتباس میکر",
+  "description": "مفت اقتباس میکر: تصویر یا گریڈینٹ پس منظر پر خوبصورت اقتباس تصاویر — مربع، پورٹریٹ اور اسٹوری سائز۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/quote-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona A3 کاغذ کا سائز",
+  "short_name": "A3 کاغذ کا سائز",
+  "description": "A3 کاغذ کی پیمائشیں: 297 × 420 mm (297 × 420 mm)، پرنٹ کے لیے 300 DPI پر 3508 × 4961 px، 150 DPI پر 1754 × 2480 px۔ بلیڈ اور استعمال رہنمائی کے ساتھ۔",
+  "id": "/loona-design-studio/ur/a3-paper-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
