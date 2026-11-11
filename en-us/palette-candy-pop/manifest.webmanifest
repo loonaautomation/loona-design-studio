@@ -1,0 +1,29 @@
+{
+  "name": "Loona Candy Pop Color Palette",
+  "short_name": "Candy Pop Color Palette",
+  "description": "The Candy Pop palette: 5 coordinated colors with HEX codes, roles and copy-ready CSS variables. Playful sugar — sweet colors kept from chaos by a deep plum anchor.",
+  "id": "/loona-design-studio/en-us/palette-candy-pop/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

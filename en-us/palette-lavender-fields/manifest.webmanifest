@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lavender Fields Color Palette",
+  "short_name": "Lavender Fields Color Palette",
+  "description": "The Lavender Fields palette: 5 coordinated colors with HEX codes, roles and copy-ready CSS variables. Calm violet haze — sleep, skincare and gentle tech.",
+  "id": "/loona-design-studio/en-us/palette-lavender-fields/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

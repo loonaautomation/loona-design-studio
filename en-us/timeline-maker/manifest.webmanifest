@@ -1,0 +1,29 @@
+{
+  "name": "Loona Timeline Maker — Free Timelines for History, Projects & Stories",
+  "short_name": "Timeline Maker — Free Timelines for History, Projects & Stories",
+  "description": "Free timeline maker: events on a clean axis, alternating cards, automatic year sorting and PNG export. Perfect for lessons and project plans. No sign-up.",
+  "id": "/loona-design-studio/en-us/timeline-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

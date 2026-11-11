@@ -1,0 +1,29 @@
+{
+  "name": "Loona Postcard 4×6 Size — mm, Inches & Pixels",
+  "short_name": "Postcard 4×6 Size — mm, Inches & Pixels",
+  "description": "Postcard 4×6 dimensions: 102 × 152 mm (4 × 6 in), 1205 × 1795 px at 300 DPI for print, 602 × 898 px at 150 DPI. With bleed and usage guide.",
+  "id": "/loona-design-studio/en-us/postcard-4x6-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

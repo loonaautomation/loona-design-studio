@@ -1,0 +1,29 @@
+{
+  "name": "Loona Initials Avatar Maker — Free Name Avatars in Your Colors",
+  "short_name": "Initials Avatar Maker — Free Name Avatars in Your Colors",
+  "description": "Free initials avatar maker: your name becomes a clean two-letter avatar with a color chosen from the name itself. 256–1024 px PNG. No sign-up.",
+  "id": "/loona-design-studio/en-us/initials-avatar-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Drawing Whiteboard — Free Online Sketch Pad with Shapes & Undo",
+  "short_name": "Drawing Whiteboard — Free Online Sketch Pad with Shapes & Undo",
+  "description": "Free online drawing whiteboard: pen, eraser, line, rectangle and circle tools, brush sizes and colors, undo/redo and PNG export. Touch friendly, no sign-up.",
+  "id": "/loona-design-studio/en-us/drawing-whiteboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

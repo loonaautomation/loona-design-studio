@@ -1,0 +1,29 @@
+{
+  "name": "Loona Border Radius & Blob Generator — Organic Shapes in CSS",
+  "short_name": "Border Radius & Blob Generator — Organic Shapes in CSS",
+  "description": "Free border radius and blob generator: eight sliders shape organic blob corners (the full border-radius slash syntax) with CSS export.",
+  "id": "/loona-design-studio/en-us/border-radius-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mediumslateblue — #7B68EE",
+  "short_name": "Mediumslateblue — #7B68EE",
+  "description": "Mediumslateblue color: #7B68EE, RGB(123, 104, 238), HSL(249, 80%, 67%), CMYK and WCAG contrast, plus shades, tints and harmonies. Copy-ready CSS values.",
+  "id": "/loona-design-studio/en-us/color-mediumslateblue/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

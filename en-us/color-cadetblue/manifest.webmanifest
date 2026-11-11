@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cadetblue — #5F9EA0",
+  "short_name": "Cadetblue — #5F9EA0",
+  "description": "Cadetblue color: #5F9EA0, RGB(95, 158, 160), HSL(182, 25%, 50%), CMYK and WCAG contrast, plus shades, tints and harmonies. Copy-ready CSS values.",
+  "id": "/loona-design-studio/en-us/color-cadetblue/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

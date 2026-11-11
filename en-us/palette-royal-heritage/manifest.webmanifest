@@ -1,0 +1,29 @@
+{
+  "name": "Loona Royal Heritage Color Palette",
+  "short_name": "Royal Heritage Color Palette",
+  "description": "The Royal Heritage palette: 5 coordinated colors with HEX codes, roles and copy-ready CSS variables. Ceremony and confidence — navy, gold and burgundy.",
+  "id": "/loona-design-studio/en-us/palette-royal-heritage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

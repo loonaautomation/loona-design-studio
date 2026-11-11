@@ -1,0 +1,29 @@
+{
+  "name": "Loona Business Card Maker — Free Print-Ready Cards at 300 DPI",
+  "short_name": "Business Card Maker — Free Print-Ready Cards at 300 DPI",
+  "description": "Free online business card maker: your name, title, contacts and logo icon on a true 3.5 × 2 inch card at 300 DPI (1050 × 600 px). Print-ready PNG, no sign-up.",
+  "id": "/loona-design-studio/en-us/business-card-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

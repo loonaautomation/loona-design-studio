@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lightsalmon — #FFA07A",
+  "short_name": "Lightsalmon — #FFA07A",
+  "description": "Lightsalmon color: #FFA07A, RGB(255, 160, 122), HSL(17, 100%, 74%), CMYK and WCAG contrast, plus shades, tints and harmonies. Copy-ready CSS values.",
+  "id": "/loona-design-studio/en-us/color-lightsalmon/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

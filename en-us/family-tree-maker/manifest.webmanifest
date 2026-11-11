@@ -1,0 +1,29 @@
+{
+  "name": "Loona Family Tree Maker — Free Three-Generation Family Trees",
+  "short_name": "Family Tree Maker — Free Three-Generation Family Trees",
+  "description": "Free family tree maker: parents, main person, partner and children in a clean three-generation chart. Type names and download the PNG. No sign-up.",
+  "id": "/loona-design-studio/en-us/family-tree-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

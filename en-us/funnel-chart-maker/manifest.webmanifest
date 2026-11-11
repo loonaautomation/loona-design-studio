@@ -1,0 +1,29 @@
+{
+  "name": "Loona Funnel Chart Maker — Free Conversion Funnel Charts",
+  "short_name": "Funnel Chart Maker — Free Conversion Funnel Charts",
+  "description": "Free funnel chart maker: stage-by-stage conversion with widths proportional to value and percentage of the first stage. No sign-up.",
+  "id": "/loona-design-studio/en-us/funnel-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

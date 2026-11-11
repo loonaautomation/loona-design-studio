@@ -1,0 +1,29 @@
+{
+  "name": "Loona Column Chart Maker — Free Vertical Column Charts",
+  "short_name": "Column Chart Maker — Free Vertical Column Charts",
+  "description": "Free column chart maker: tall vertical columns for category comparisons, custom colors and PNG export. No sign-up, works on your device.",
+  "id": "/loona-design-studio/en-us/column-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

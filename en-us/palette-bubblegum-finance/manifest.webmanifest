@@ -1,0 +1,29 @@
+{
+  "name": "Loona Friendly Finance (Mint & Ink) Color Palette",
+  "short_name": "Friendly Finance (Mint & Ink) Color Palette",
+  "description": "The Friendly Finance (Mint & Ink) palette: 5 coordinated colors with HEX codes, roles and copy-ready CSS variables. Money without the fear — mint freshness anchored by serious ink.",
+  "id": "/loona-design-studio/en-us/palette-bubblegum-finance/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

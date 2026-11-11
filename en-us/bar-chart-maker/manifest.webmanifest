@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bar Chart Maker — Free Online Bar Charts",
+  "short_name": "Bar Chart Maker — Free Online Bar Charts",
+  "description": "Free bar chart maker: grouped bars with custom colors, titles and PNG export. Type a table or paste CSV. No sign-up, runs in your browser.",
+  "id": "/loona-design-studio/en-us/bar-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Letterhead Maker — Free Business Letterheads (A4)",
+  "short_name": "Letterhead Maker — Free Business Letterheads (A4)",
+  "description": "Free letterhead maker: A4 letterheads with your logo block, contact line and footer — print or save as PDF for letters and invoices. No sign-up.",
+  "id": "/loona-design-studio/en-us/letterhead-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lightgreen — #90EE90",
+  "short_name": "Lightgreen — #90EE90",
+  "description": "Lightgreen color: #90EE90, RGB(144, 238, 144), HSL(120, 73%, 75%), CMYK and WCAG contrast, plus shades, tints and harmonies. Copy-ready CSS values.",
+  "id": "/loona-design-studio/en-us/color-lightgreen/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

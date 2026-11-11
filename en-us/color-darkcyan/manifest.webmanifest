@@ -1,0 +1,29 @@
+{
+  "name": "Loona Darkcyan — #008B8B",
+  "short_name": "Darkcyan — #008B8B",
+  "description": "Darkcyan color: #008B8B, RGB(0, 139, 139), HSL(180, 100%, 27%), CMYK and WCAG contrast, plus shades, tints and harmonies. Copy-ready CSS values.",
+  "id": "/loona-design-studio/en-us/color-darkcyan/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

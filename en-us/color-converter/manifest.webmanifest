@@ -1,0 +1,29 @@
+{
+  "name": "Loona Color Converter — HEX, RGB, HSL, HSV & CMYK (Extended)",
+  "short_name": "Color Converter — HEX, RGB, HSL, HSV & CMYK (Extended)",
+  "description": "Free extended color converter: HEX ↔ RGB ↔ HSL ↔ HSV ↔ CMYK in one view, with luminance and contrast ratios. The developer-grade converter. No sign-up.",
+  "id": "/loona-design-studio/en-us/color-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

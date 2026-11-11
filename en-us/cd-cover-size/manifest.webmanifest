@@ -1,0 +1,29 @@
+{
+  "name": "Loona CD / Album Cover Size — mm, Inches & Pixels",
+  "short_name": "CD / Album Cover Size — mm, Inches & Pixels",
+  "description": "CD / Album Cover dimensions: 120 × 120 mm (120 × 120 mm (12 cm disc case)), 1417 × 1417 px at 300 DPI for print, 709 × 709 px at 150 DPI. With bleed and usage guide.",
+  "id": "/loona-design-studio/en-us/cd-cover-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

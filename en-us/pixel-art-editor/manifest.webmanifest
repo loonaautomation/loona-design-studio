@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pixel Art Editor — Free Sprite & Pixel Drawing Grid",
+  "short_name": "Pixel Art Editor — Free Sprite & Pixel Drawing Grid",
+  "description": "Free pixel art editor: 12–32 grids, pen, flood fill and eraser, palette plus custom colors, crisp transparent PNG sprite export. No sign-up.",
+  "id": "/loona-design-studio/en-us/pixel-art-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

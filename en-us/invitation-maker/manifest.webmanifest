@@ -1,0 +1,29 @@
+{
+  "name": "Loona Invitation Maker — Free Invitations (Birthday, Wedding, Events)",
+  "short_name": "Invitation Maker — Free Invitations (Birthday, Wedding, Events)",
+  "description": "Free invitation maker: elegant invitation cards for birthdays, weddings and events — portrait and print sizes, PNG/PDF export. No sign-up.",
+  "id": "/loona-design-studio/en-us/invitation-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

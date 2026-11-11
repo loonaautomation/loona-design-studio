@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ticket Maker — Free Event Tickets with Stub",
+  "short_name": "Ticket Maker — Free Event Tickets with Stub",
+  "description": "Free ticket maker: event tickets with a perforated-look stub — event name, date, seat and admit-one. Print-ready PNG/PDF. No sign-up.",
+  "id": "/loona-design-studio/en-us/ticket-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Moodboard Maker — Free Mood Boards with Photos, Swatches & Notes",
+  "short_name": "Moodboard Maker — Free Mood Boards with Photos, Swatches & Notes",
+  "description": "Free moodboard maker: arrange photos freely, add color swatches and notes on one board. Brand, room and project boards with PNG export. No sign-up.",
+  "id": "/loona-design-studio/en-us/moodboard-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

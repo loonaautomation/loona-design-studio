@@ -1,0 +1,29 @@
+{
+  "name": "Loona Box Plot Maker — Free Box & Whisker Charts",
+  "short_name": "Box Plot Maker — Free Box & Whisker Charts",
+  "description": "Free box plot maker: quartiles, median and whiskers computed from your raw values per group. Compare distributions honestly. No sign-up.",
+  "id": "/loona-design-studio/en-us/box-plot-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Flowchart Maker — Free Flowcharts with Smart Connectors",
+  "short_name": "Flowchart Maker — Free Flowcharts with Smart Connectors",
+  "description": "Free online flowchart maker: process, decision, start/end, input and document shapes with automatic elbow connectors, labels and PNG export. No sign-up.",
+  "id": "/loona-design-studio/en-us/flowchart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tech Midnight Color Palette",
+  "short_name": "Tech Midnight Color Palette",
+  "description": "The Tech Midnight palette: 5 coordinated colors with HEX codes, roles and copy-ready CSS variables. Dark-mode technology — near-black surfaces with electric accents.",
+  "id": "/loona-design-studio/en-us/palette-tech-midnight/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
