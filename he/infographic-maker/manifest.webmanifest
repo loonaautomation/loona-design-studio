@@ -1,0 +1,29 @@
+{
+  "name": "Loona Infographic Maker",
+  "short_name": "יוצר אינפוגרפיקה",
+  "description": "יוצר אינפוגרפיקה חינמי: פריסות גבוהות של שלב אחר שלב וסטטיסטיקה עם סמלים־כצורות, מספרים וייצוא PNG. ללא הרשמה.",
+  "id": "/loona-design-studio/he/infographic-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Business Card (US) Size",
+  "short_name": "Business Card (US) Size",
+  "description": "מידות כרטיס ביקור (US): 89 × 51 mm (3.5 × 2 in), 1051 × 602 px ב־300 DPI להדפסה, 526 × 301 px ב־150 DPI. עם שוליים ומדריך שימוש.",
+  "id": "/loona-design-studio/he/business-card-us-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

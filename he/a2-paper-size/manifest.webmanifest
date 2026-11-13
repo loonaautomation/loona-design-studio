@@ -1,0 +1,29 @@
+{
+  "name": "Loona A2 Paper Size",
+  "short_name": "A2 Paper Size",
+  "description": "מידות נייר A2: 420 × 594 mm (420 × 594 mm), 4961 × 7016 px ב־300 DPI להדפסה, 2480 × 3508 px ב־150 DPI. עם שוליים ומדריך שימוש.",
+  "id": "/loona-design-studio/he/a2-paper-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

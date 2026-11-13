@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mind Map Maker",
+  "short_name": "יוצר מפות חשיבה",
+  "description": "יוצר מפות חשיבה מקוון חינמי: הוסיפו צומתי ילדים ואחים, פריסה אוטומטית מסודרת, נושאי צבע, הזזת תצוגה וזום, ייצוא PNG ושמירה/טעינה ב־JSON. ללא הרשמה.",
+  "id": "/loona-design-studio/he/mind-map-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

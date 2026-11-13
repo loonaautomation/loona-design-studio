@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pixel Art Editor",
+  "short_name": "עורך אמנות פיקסלים",
+  "description": "עורך אמנות פיקסלים חינמי: רשתות 12–32, עט, מילוי הצפה ומחק, פלטה בתוספת צבעים מותאמים אישית, ייצוא ספרייט PNG שקוף חד. ללא הרשמה.",
+  "id": "/loona-design-studio/he/pixel-art-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

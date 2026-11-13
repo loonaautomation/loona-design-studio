@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS Gradient Generator",
+  "short_name": "מחולל מעברי CSS",
+  "description": "מחולל מעברי CSS חינמי: עצירות צבע ללא הגבלה, ליניארי/רדיאלי/חרוטי, בקרת זווית וייצוא CSS נקי. כלי המעברים בדרגת מפתח.",
+  "id": "/loona-design-studio/he/css-gradient-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sunset Boulevard Colour Palette",
+  "short_name": "Sunset Boulevard Colour",
+  "description": "פלטת Sunset Boulevard: 5 צבעים מתואמים עם קודי HEX, תפקידים ומשתני CSS מוכנים להעתקה. חמימות ותאבון — שעת הזהב בחמישה צבעים.",
+  "id": "/loona-design-studio/he/palette-sunset-boulevard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

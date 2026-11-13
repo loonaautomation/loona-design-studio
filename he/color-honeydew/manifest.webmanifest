@@ -1,0 +1,29 @@
+{
+  "name": "Loona Honeydew (#F0FFF0)",
+  "short_name": "Honeydew (#F0FFF0)",
+  "description": "צבע Honeydew: #F0FFF0, RGB(240, 255, 240), HSL(120, 100%, 97%), CMYK וניגודיות WCAG, וכן גוונים, בהירים והרמוניות. ערכי CSS מוכנים להעתקה.",
+  "id": "/loona-design-studio/he/color-honeydew/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

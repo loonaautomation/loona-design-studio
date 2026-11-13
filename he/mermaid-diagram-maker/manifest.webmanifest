@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mermaid Diagram Maker",
+  "short_name": "יוצר דיאגרמות Mermaid",
+  "description": "מציג תרשימי זרימה של Mermaid חינמי: הדביקו קוד Mermaid וקבלו PNG נקי של דיאגרמה. מפענח ידני לתת־הקבוצה של תרשימי זרימה — היקף כנה, ללא העלאות.",
+  "id": "/loona-design-studio/he/mermaid-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Scatter Plot Maker",
+  "short_name": "יוצר תרשימי פיזור",
+  "description": "יוצר תרשימי פיזור חינמי: שרטטו X מול Y משתי סדרות, עם קו מגמה אופציונלי של ריבועים פחותים. הקלידו טבלה או הדביקו CSV. ללא הרשמה.",
+  "id": "/loona-design-studio/he/scatter-plot-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

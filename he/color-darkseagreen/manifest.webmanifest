@@ -1,0 +1,29 @@
+{
+  "name": "Loona Darkseagreen (#8FBC8F)",
+  "short_name": "Darkseagreen (#8FBC8F)",
+  "description": "צבע Darkseagreen: #8FBC8F, RGB(143, 188, 143), HSL(120, 25%, 65%), CMYK וניגודיות WCAG, וכן גוונים, בהירים והרמוניות. ערכי CSS מוכנים להעתקה.",
+  "id": "/loona-design-studio/he/color-darkseagreen/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

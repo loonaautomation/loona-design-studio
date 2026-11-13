@@ -1,0 +1,29 @@
+{
+  "name": "Loona A3 Paper Size",
+  "short_name": "A3 Paper Size",
+  "description": "מידות נייר A3: 297 × 420 mm (297 × 420 mm), 3508 × 4961 px ב־300 DPI להדפסה, 1754 × 2480 px ב־150 DPI. עם שוליים ומדריך שימוש.",
+  "id": "/loona-design-studio/he/a3-paper-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

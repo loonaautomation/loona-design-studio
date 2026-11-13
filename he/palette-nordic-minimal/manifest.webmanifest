@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nordic Minimal Colour Palette",
+  "short_name": "פלטת צבעי Nordic Minimal",
+  "description": "פלטת Nordic Minimal: 5 צבעים מתואמים עם קודי HEX, תפקידים ומשתני CSS מוכנים להעתקה. איפוק סקנדינבי — עצים בהירים, אבן וגוון כחול שקט אחד.",
+  "id": "/loona-design-studio/he/palette-nordic-minimal/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

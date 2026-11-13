@@ -1,0 +1,29 @@
+{
+  "name": "Loona Colour Shades & Tints Generator",
+  "short_name": "Colour Shades & Tints",
+  "description": "מחולל גווני צבע חינמי: צבע אחד הופך לסולם גוונים מלא בסגנון Tailwind של 50–950 בתוספת גווני ביניים וגוונים, עם ייצוא משתני CSS. ללא הרשמה.",
+  "id": "/loona-design-studio/he/color-shades-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

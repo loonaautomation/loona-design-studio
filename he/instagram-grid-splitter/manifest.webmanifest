@@ -1,0 +1,29 @@
+{
+  "name": "Loona Instagram Grid Splitter",
+  "short_name": "מפצל רשת אינסטגרם",
+  "description": "מפצל רשת אינסטגרם חינמי: תמונה אחת הופכת לאריחים מרובעים של 3×1 עד 3×4 ב־ZIP, מוכנים לפרסום כרשת פרופיל. ללא העלאה, ללא הרשמה.",
+  "id": "/loona-design-studio/he/instagram-grid-splitter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

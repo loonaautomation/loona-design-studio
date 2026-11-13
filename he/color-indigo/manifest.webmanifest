@@ -1,0 +1,29 @@
+{
+  "name": "Loona Indigo (#4B0082)",
+  "short_name": "Indigo (#4B0082)",
+  "description": "צבע Indigo: #4B0082, RGB(75, 0, 130), HSL(275, 100%, 25%), CMYK וניגודיות WCAG, וכן גוונים, בהירים והרמוניות. ערכי CSS מוכנים להעתקה.",
+  "id": "/loona-design-studio/he/color-indigo/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

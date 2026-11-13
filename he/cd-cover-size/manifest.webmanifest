@@ -1,0 +1,29 @@
+{
+  "name": "Loona CD / Album Cover Size",
+  "short_name": "CD / Album Cover Size",
+  "description": "מידות עטיפת CD / אלבום: 120 × 120 mm (120 × 120 mm (מארז דיסק 12 cm)), 1417 × 1417 px ב־300 DPI להדפסה, 709 × 709 px ב־150 DPI. עם שוליים ומדריך שימוש.",
+  "id": "/loona-design-studio/he/cd-cover-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

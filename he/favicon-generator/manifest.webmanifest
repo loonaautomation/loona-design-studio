@@ -1,0 +1,29 @@
+{
+  "name": "Loona Favicon Generator",
+  "short_name": "מחולל Favicon",
+  "description": "מחולל favicon חינמי: מאות, אמוג׳י או תמונת הלוגו שלכם — favicon.ico אמיתי רב־גדלים, ערכת ה־PNG המלאה, מניפסט וקטע HTML ב־ZIP אחד. ללא הרשמה.",
+  "id": "/loona-design-studio/he/favicon-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Book Cover Maker",
+  "short_name": "יוצר כריכות ספרים",
+  "description": "יוצר כריכות ספרים חינמי: כריכות ביחס 6×9 ו־Kindle עם בלוקי כותרת, מחבר ודימויים. ייצוא PNG מוכן להדפסה. ללא הרשמה.",
+  "id": "/loona-design-studio/he/book-cover-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

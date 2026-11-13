@@ -1,0 +1,29 @@
+{
+  "name": "Loona Salmon (#FA8072)",
+  "short_name": "Salmon (#FA8072)",
+  "description": "צבע Salmon: #FA8072, RGB(250, 128, 114), HSL(6, 93%, 71%), CMYK וניגודיות WCAG, וכן גוונים, בהירים והרמוניות. ערכי CSS מוכנים להעתקה.",
+  "id": "/loona-design-studio/he/color-salmon/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

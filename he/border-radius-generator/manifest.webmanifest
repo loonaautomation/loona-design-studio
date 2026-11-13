@@ -1,0 +1,29 @@
+{
+  "name": "Loona Border Radius & Blob Generator",
+  "short_name": "Border Radius & Blob Generator",
+  "description": "מחולל רדיוס גבול וכתם חינמי: שמונה מחוונים מעצבים פינות כתם אורגניות (תחביר הלוכסן המלא של border-radius) עם ייצוא CSS.",
+  "id": "/loona-design-studio/he/border-radius-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

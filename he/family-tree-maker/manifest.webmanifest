@@ -1,0 +1,29 @@
+{
+  "name": "Loona Family Tree Maker",
+  "short_name": "יוצר עצי משפחה",
+  "description": "יוצר עצי משפחה חינמי: הורים, אדם ראשי, בן/בת זוג וילדים בתרשים נקי של שלושה דורות. הקלידו שמות והורידו את ה־PNG. ללא הרשמה.",
+  "id": "/loona-design-studio/he/family-tree-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

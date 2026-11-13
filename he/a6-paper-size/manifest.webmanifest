@@ -1,0 +1,29 @@
+{
+  "name": "Loona A6 Paper Size",
+  "short_name": "A6 Paper Size",
+  "description": "מידות נייר A6: 105 × 148 mm (105 × 148 mm), 1240 × 1748 px ב־300 DPI להדפסה, 620 × 874 px ב־150 DPI. עם שוליים ומדריך שימוש.",
+  "id": "/loona-design-studio/he/a6-paper-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

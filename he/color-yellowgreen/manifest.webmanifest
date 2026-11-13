@@ -1,0 +1,29 @@
+{
+  "name": "Loona Yellowgreen (#9ACD32)",
+  "short_name": "Yellowgreen (#9ACD32)",
+  "description": "צבע Yellowgreen: #9ACD32, RGB(154, 205, 50), HSL(80, 61%, 50%), CMYK וניגודיות WCAG, וכן גוונים, בהירים והרמוניות. ערכי CSS מוכנים להעתקה.",
+  "id": "/loona-design-studio/he/color-yellowgreen/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

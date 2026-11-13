@@ -1,0 +1,29 @@
+{
+  "name": "Loona Clip Path Generator",
+  "short_name": "מחולל Clip Path",
+  "description": "מחולל clip-path של CSS חינמי: כוכב, משושה, חץ ועוד הגדרות מצולעים מראש בתוספת צורות עיגול, אליפסה ו־inset — תצוגה מקדימה חיה וייצוא CSS.",
+  "id": "/loona-design-studio/he/clip-path-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

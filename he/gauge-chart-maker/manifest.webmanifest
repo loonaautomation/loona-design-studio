@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gauge Chart Maker",
+  "short_name": "יוצר תרשימי מד",
+  "description": "יוצר תרשימי מד חינמי: מספר כותרת אחד על חוגת מד־מהירות נקייה עם סולם אדום–צהוב–ירוק. מושלם למדדי KPI וליעדים. ללא הרשמה.",
+  "id": "/loona-design-studio/he/gauge-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

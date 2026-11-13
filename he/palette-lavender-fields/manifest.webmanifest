@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lavender Fields Colour Palette",
+  "short_name": "פלטת צבעי Lavender Fields",
+  "description": "פלטת Lavender Fields: 5 צבעים מתואמים עם קודי HEX, תפקידים ומשתני CSS מוכנים להעתקה. ערפל סגול רגוע — שינה, טיפוח עור וטכנולוגיה עדינה.",
+  "id": "/loona-design-studio/he/palette-lavender-fields/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text Shadow Generator",
+  "short_name": "מחולל צל טקסט",
+  "description": "מחולל צל טקסט חינמי: היסט, טשטוש וצבע ל־text-shadow של CSS, עם תצוגה מקדימה חיה גדולה וקוד מוכן להעתקה. ללא הרשמה.",
+  "id": "/loona-design-studio/he/text-shadow-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
