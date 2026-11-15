@@ -59,6 +59,7 @@
 - [Album Cover Maker](https://loonaautomation.github.io/loona-design-studio/album-cover-maker/): Square music and podcast cover art.
 - [YouTube Thumbnail Maker](https://loonaautomation.github.io/loona-design-studio/youtube-thumbnail-maker/): Exact 1280 × 720 thumbnails that earn clicks.
 - [YouTube Banner Maker](https://loonaautomation.github.io/loona-design-studio/youtube-banner-maker/): Channel art with the safe area built in.
+- [Hashtag Generator](https://loonaautomation.github.io/loona-design-studio/hashtag-generator/): Balanced popular, medium and niche hashtags for every platform.
 - [Quote Maker](https://loonaautomation.github.io/loona-design-studio/quote-maker/): Quote images over photos or colours.
 - [Invitation Maker](https://loonaautomation.github.io/loona-design-studio/invitation-maker/): Birthday, wedding and event invitations.
 - [Greeting Card Maker](https://loonaautomation.github.io/loona-design-studio/greeting-card-maker/): Eid, birthday and thank-you cards.
