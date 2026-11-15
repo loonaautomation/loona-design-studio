@@ -1,0 +1,29 @@
+{
+  "name": "Loona سرٹیفکیٹ میکر",
+  "short_name": "سرٹیفکیٹ میکر",
+  "description": "مفت سرٹیفکیٹ میکر: خوبصورت ٹیمپلیٹس میں کارکردگی، کورس تکمیل، قدردانی اور شرکت کے سرٹیفکیٹ۔ ایک بنائیں، یا CSV فہرست سے سینکڑوں ایک ساتھ۔ پرنٹ کریں یا PNG ڈاؤن لوڈ کریں۔ سائن اپ نہیں۔",
+  "id": "/loona-design-studio/ur/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
