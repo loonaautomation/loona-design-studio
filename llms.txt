@@ -65,6 +65,7 @@
 - [Greeting Card Maker](https://loonaautomation.github.io/loona-design-studio/greeting-card-maker/): Eid, birthday and thank-you cards.
 - [Ticket Maker](https://loonaautomation.github.io/loona-design-studio/ticket-maker/): Event tickets with a tear-off stub.
 - [ID Card Maker](https://loonaautomation.github.io/loona-design-studio/id-card-maker/): CR80 staff and student ID cards.
+- [Certificate Maker](https://loonaautomation.github.io/loona-design-studio/certificate-maker/): Printable certificates, single or bulk from CSV.
 - [Calendar Maker](https://loonaautomation.github.io/loona-design-studio/calendar-maker/): Correct printable month calendars.
 - [Announcement / Sign Maker](https://loonaautomation.github.io/loona-design-studio/announcement-maker/): Open/Closed, sale, notice and welcome signs.
 
