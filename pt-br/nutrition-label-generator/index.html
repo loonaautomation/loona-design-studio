@@ -385,12 +385,12 @@ function download(){
  var out=document.createElement("canvas");out.width=W;out.height=H;var octx=out.getContext("2d");
  octx.fillStyle="#fff";octx.fillRect(0,0,W,H);
  if(fda)drawFDA(octx,S,v,H);else drawEU(octx,S,v);
- var a=document.createElement("a");a.download="loona-nutrition-label-"+(fda?"fda":"eu")+".png";a.href=out.toDataURL("image/png");a.click();
+ out.toBlob(function(b){var a=document.createElement("a");a.download="loona-nutrition-label-"+(fda?"fda":"eu")+".png";a.href=URL.createObjectURL(b);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);},4000);});
 }
 var PRESETS={
  snack:{name:L.ex_snack,servings:"6",serSize:"",w:40,cal:187,fat:7.6,sat:1.2,trans:0.1,chol:3,sod:96,carb:26.4,fiber:2.6,sug:11.8,added:9.6,prot:3.4,salt:"",vitd:1.2,calc:42,iron:1.1,pot:148},
  drink:{name:L.ex_drink,servings:"1",serSize:"",w:355,cal:149,fat:0,sat:0,trans:0,chol:0,sod:46,carb:39.2,fiber:0,sug:39.2,added:39.2,prot:0.3,salt:"",vitd:0,calc:0,iron:0,pot:0},
- noodles:{name:L.ex_noodles,servings:"1",serSize:"",w:85,cal:385,fat:13.8,sat:6.4,trans:0,chol:4,sod:1825,carb:52.6,fiber:2.1,sug:1.7,added:0.8,prot:7.9,salt:"",vitd:0,calc:18,iron:1.9,pot:120}};
+ noodles:{name:L.ex_noodles,servings:"1",serSize:"",w:85,cal:385,fat:13.8,sat:6.4,trans:0,chol:4,sod:1825,carb:52.6,fiber:2.3,sug:1.9,added:0.8,prot:7.9,salt:"",vitd:0,calc:18,iron:1.9,pot:120}};
 function applyPreset(p){
  $("inName").value=p.name;$("inServings").value=p.servings;$("inSerSize").value=p.serSize;$("inSerWeight").value=p.w;
  $("inCal").value=p.cal;$("inFat").value=p.fat;$("inSatFat").value=p.sat;$("inTransFat").value=p.trans;$("inChol").value=p.chol;
