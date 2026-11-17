@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kontrola bezpečné zóny",
+  "short_name": "Kontrola bezpečné zóny",
+  "description": "Bezplatná kontrola bezpečné zóny pro TikTok, Instagram Reels a YouTube Shorts: prohlédněte si snímek 9:16, podívejte se, co zakryje rozhraní každé aplikace, a stáhněte si průhlednou překryvnou vrstvu PNG 1080×1920. Bez nahrávání, bez registrace.",
+  "id": "/loona-design-studio/safe-zone-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

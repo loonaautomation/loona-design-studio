@@ -1,0 +1,29 @@
+{
+  "name": "Loona 安全區檢查工具",
+  "short_name": "安全區檢查工具",
+  "description": "免費安全區檢查工具，適用於 TikTok、Instagram Reels 和 YouTube Shorts：預覽您的 9:16 畫面，查看每個應用的介面會遮擋什麼，並下載透明的 1080×1920 疊加 PNG。不上傳，無需註冊。",
+  "id": "/loona-design-studio/safe-zone-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Έλεγχος Ασφαλούς Ζώνης",
+  "short_name": "Έλεγχος Ασφαλούς Ζώνης",
+  "description": "Δωρεάν έλεγχος ασφαλούς ζώνης για TikTok, Instagram Reels και YouTube Shorts: προεπισκοπήστε το καρέ 9:16, δείτε τι καλύπτει η διεπαφή κάθε εφαρμογής και κατεβάστε μια διαφανή επικάλυψη PNG 1080×1920. Χωρίς μεταφόρτωση, χωρίς εγγραφή.",
+  "id": "/loona-design-studio/safe-zone-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

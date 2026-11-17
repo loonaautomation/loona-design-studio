@@ -1,0 +1,29 @@
+{
+  "name": "Loona Проверка на безопасната зона",
+  "short_name": "Проверка на безопасната зона",
+  "description": "Безплатна проверка на безопасната зона за TikTok, Instagram Reels и YouTube Shorts: прегледайте кадъра си 9:16, вижте какво покрива интерфейсът на всяко приложение и изтеглете прозрачно наслагване PNG 1080×1920. Без качване, без регистрация.",
+  "id": "/loona-design-studio/safe-zone-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

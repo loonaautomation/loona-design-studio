@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veiligezonecontrole",
+  "short_name": "Veiligezonecontrole",
+  "description": "Gratis veiligezonecontrole voor TikTok, Instagram Reels en YouTube Shorts: bekijk je 9:16-frame, zie wat de interface van elke app bedekt en download een transparante overlay-PNG van 1080×1920. Geen upload, geen aanmelding.",
+  "id": "/loona-design-studio/safe-zone-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

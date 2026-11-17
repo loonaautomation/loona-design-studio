@@ -1,0 +1,29 @@
+{
+  "name": "Loona Säkerzonskontroll",
+  "short_name": "Säkerzonskontroll",
+  "description": "Gratis kontroll av säker zon för TikTok, Instagram Reels och YouTube Shorts: förhandsgranska din 9:16-bildruta, se vad varje apps gränssnitt täcker och ladda ner en transparent overlay-PNG i 1080×1920. Ingen uppladdning, ingen registrering.",
+  "id": "/loona-design-studio/safe-zone-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
