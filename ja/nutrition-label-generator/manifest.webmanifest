@@ -1,0 +1,29 @@
+{
+  "name": "Loona 栄養ラベル作成ツール",
+  "short_name": "栄養ラベル",
+  "description": "無料の栄養ラベル作成ツール：製品の数値を入力するだけで、正しく丸められた FDA Nutrition Facts パネルと EU 栄養表示を作成。印刷用 PNG/PDF。登録不要。",
+  "id": "/loona-design-studio/ja/nutrition-label-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

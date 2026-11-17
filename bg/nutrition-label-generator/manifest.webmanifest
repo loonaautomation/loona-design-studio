@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nutrition Label Generator",
+  "short_name": "Хранителен етикет",
+  "description": "Безплатен генератор на хранителни етикети: въведете стойностите на продукта си и получете правилно закръглен панел FDA Nutrition Facts и обявяване на хранителната стойност на ЕС — PNG/PDF, готови за печат. Без регистрация.",
+  "id": "/loona-design-studio/bg/nutrition-label-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -719,4 +719,22 @@
 "p": 179,
 "c": "Tool"
 },
-{"n":"مولّد الهاشتاغ","u":"https://loonaautomation.github.io/loona-design-studio/ar/hashtag-generator/","s":"Loona Design Studio","d":"مزيج متوازن من الهاشتاغات الشائعة والمتوسطة والمتخصصة لكل منصة.","k":"hashtag generator hashtag generator مزيج متوازن من الهاشتاغات الشايعة والمتوسطة والمتخصصة لكل منصة","p":181,"c":"Tool"}]
+{
+"n": "مولّد الهاشتاغ",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/hashtag-generator/",
+"s": "Loona Design Studio",
+"d": "مزيج متوازن من الهاشتاغات الشائعة والمتوسطة والمتخصصة لكل منصة.",
+"k": "hashtag generator hashtag generator مزيج متوازن من الهاشتاغات الشايعة والمتوسطة والمتخصصة لكل منصة",
+"p": 181,
+"c": "Tool"
+},
+{
+"n": "منشئ بطاقة الحقائق الغذائية",
+"u": "https://loonaautomation.github.io/loona-design-studio/ar/nutrition-label-generator/",
+"s": "Loona Design Studio",
+"d": "بطاقات حقائق غذائية وفق FDA والاتحاد الأوروبي من قيمك، جاهزة للطباعة.",
+"k": "nutrition label generator nutrition label generator fda eu nutrition labels from your values print ready منشئ بطاقة الحقائق الغذائية بطاقات حقائق غذائية وفق fda والاتحاد الأوروبي من قيمك، جاهزة للطباعة",
+"p": 182,
+"c": "Tool"
+}
+]

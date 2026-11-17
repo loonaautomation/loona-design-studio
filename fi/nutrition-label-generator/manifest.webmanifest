@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ravintoarvomerkintägeneraattori",
+  "short_name": "Ravintoarvomerkintä",
+  "description": "Ilmainen ravintoarvomerkintägeneraattori: syötä tuotteesi arvot ja saat oikein pyöristetyn FDA Nutrition Facts -paneelin ja EU-ravintoarvoilmoituksen — tulostusvalmis PNG/PDF. Ei rekisteröitymistä.",
+  "id": "/loona-design-studio/fi/nutrition-label-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

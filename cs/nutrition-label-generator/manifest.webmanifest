@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nutrition Label Generator",
+  "short_name": "Výživový štítek",
+  "description": "Bezplatný generátor výživových štítků: zadejte hodnoty svého výrobku a získejte správně zaokrouhlený panel FDA Nutrition Facts a výživové údaje EU — PNG/PDF připravené k tisku. Bez registrace.",
+  "id": "/loona-design-studio/cs/nutrition-label-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nutrition Label Generator",
+  "short_name": "Nutrition Label",
+  "description": "Free nutrition label generator: type your product's values and get a correctly rounded FDA Nutrition Facts panel and an EU nutrition declaration — print-ready PNG/PDF. No sign-up.",
+  "id": "/loona-design-studio/nutrition-label-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

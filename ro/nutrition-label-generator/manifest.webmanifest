@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nutrition Label Generator",
+  "short_name": "Etichetă nutrițională",
+  "description": "Generator gratuit de etichete nutriționale: introdu valorile produsului tău și obține un panou FDA Nutrition Facts rotunjit corect și o declarație nutrițională UE — PNG/PDF gata de tipărire. Fără înregistrare.",
+  "id": "/loona-design-studio/ro/nutrition-label-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

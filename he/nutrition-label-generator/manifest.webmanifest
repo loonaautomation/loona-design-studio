@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nutrition Label Generator",
+  "short_name": "Nutrition Label",
+  "description": "מחולל תוויות תזונה חינמי: הקלידו את ערכי המוצר שלכם וקבלו לוח FDA Nutrition Facts מעוגל כראוי והצהרת תזונה של האיחוד האירופי — מוכנים להדפסה PNG/PDF. ללא הרשמה.",
+  "id": "/loona-design-studio/he/nutrition-label-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

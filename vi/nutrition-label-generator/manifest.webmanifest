@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nutrition Label Generator",
+  "short_name": "Nutrition Label",
+  "description": "Trình tạo nhãn dinh dưỡng miễn phí: nhập số liệu sản phẩm của bạn và nhận bảng FDA Nutrition Facts được làm tròn đúng chuẩn cùng bảng công bố dinh dưỡng EU — PNG/PDF sẵn sàng để in. Không cần đăng ký.",
+  "id": "/loona-design-studio/vi/nutrition-label-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-design-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-design-studio/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
