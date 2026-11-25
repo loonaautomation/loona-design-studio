@@ -2,7 +2,7 @@
   "name": "Loona Vérificateur de zone de sécurité",
   "short_name": "Vérificateur de zone de sécurité",
   "description": "Vérificateur de zone de sécurité gratuit pour TikTok, Instagram Reels et YouTube Shorts : prévisualisez votre image 9:16, voyez ce que l’interface de chaque application recouvre et téléchargez un calque PNG transparent de 1080×1920. Aucun téléversement, aucune inscription.",
-  "id": "/loona-design-studio/safe-zone-checker/",
+  "id": "/safe-zone-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

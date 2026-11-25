@@ -2,7 +2,7 @@
   "name": "Loona Nutrition Label Generator",
   "short_name": "Nutrition Label",
   "description": "Gerador gratuito de rótulos nutricionais: digite os valores do seu produto e obtenha um painel Nutrition Facts da FDA corretamente arredondado e uma declaração nutricional da EU — PNG/PDF prontos para imprimir. Sem cadastro.",
-  "id": "/loona-design-studio/pt/nutrition-label-generator/",
+  "id": "/pt/nutrition-label-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

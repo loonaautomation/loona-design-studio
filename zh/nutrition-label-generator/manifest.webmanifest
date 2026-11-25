@@ -2,7 +2,7 @@
   "name": "Loona 营养标签生成器",
   "short_name": "营养标签",
   "description": "免费营养标签生成器：输入产品数值，即可获得按规则正确修约的 FDA Nutrition Facts 标签和 EU 营养声明——可打印的 PNG/PDF。无需注册。",
-  "id": "/loona-design-studio/zh/nutrition-label-generator/",
+  "id": "/zh/nutrition-label-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

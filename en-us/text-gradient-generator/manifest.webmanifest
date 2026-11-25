@@ -2,7 +2,7 @@
   "name": "Loona Text Gradient Generator — Gradient Headline Text in CSS",
   "short_name": "Text Gradient Generator — Gradient Headline Text in CSS",
   "description": "Free text gradient generator: two-color gradient headlines with the background-clip CSS technique, live preview and copy-ready code.",
-  "id": "/loona-design-studio/en-us/text-gradient-generator/",
+  "id": "/en-us/text-gradient-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

@@ -1,4 +1,4 @@
-const CACHE='loona-design-studio-v2';
+const CACHE='loona-design-studio-v3';
 const PREFIX='loona-design-studio-';
 const CORE=['./','./index.html','./manifest.webmanifest','./icon-192.png','./apple-touch-icon.png'];
 self.addEventListener('install',function(e){{e.waitUntil(caches.open(CACHE).then(function(c){{return Promise.all(CORE.map(function(u){{return c.add(u).catch(function(){{}});}}));}}).then(function(){{return self.skipWaiting();}}));}});

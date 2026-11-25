@@ -2,7 +2,7 @@
   "name": "Loona مدقّق المنطقة الآمنة",
   "short_name": "مدقّق المنطقة الآمنة",
   "description": "مدقّق منطقة آمنة مجاني لـTikTok وInstagram Reels وYouTube Shorts: عاين إطارك 9:16، شاهد ما تغطّيه واجهة كل تطبيق، ونزّل تراكب PNG شفافًا 1080×1920. دون رفع، دون تسجيل.",
-  "id": "/loona-design-studio/ar/safe-zone-checker/",
+  "id": "/ar/safe-zone-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

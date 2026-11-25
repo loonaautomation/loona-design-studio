@@ -2,7 +2,7 @@
   "name": "Loona Lavenderblush — #FFF0F5",
   "short_name": "Lavenderblush — #FFF0F5",
   "description": "Lavenderblush color: #FFF0F5, RGB(255, 240, 245), HSL(340, 100%, 97%), CMYK and WCAG contrast, plus shades, tints and harmonies. Copy-ready CSS values.",
-  "id": "/loona-design-studio/en-us/color-lavenderblush/",
+  "id": "/en-us/color-lavenderblush/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

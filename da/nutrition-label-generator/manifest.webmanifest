@@ -2,7 +2,7 @@
   "name": "Loona Generator til næringsdeklaration",
   "short_name": "Næringsdeklaration",
   "description": "Gratis generator til næringsdeklaration: indtast produktets værdier og få et korrekt afrundet FDA Nutrition Facts-panel og en EU-næringsdeklaration — trykklar PNG/PDF. Ingen tilmelding.",
-  "id": "/loona-design-studio/da/nutrition-label-generator/",
+  "id": "/da/nutrition-label-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

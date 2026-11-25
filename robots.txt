@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://loonaautomation.github.io/loona-design-studio/sitemap.xml
+Sitemap: https://design.loonaautomation.com/sitemap.xml

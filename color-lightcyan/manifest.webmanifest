@@ -2,7 +2,7 @@
   "name": "Loona Lightcyan (#E0FFFF)",
   "short_name": "Lightcyan (#E0FFFF)",
   "description": "Lightcyan colour: #E0FFFF, RGB(224, 255, 255), HSL(180, 100%, 94%), CMYK and WCAG contrast, plus shades, tints and harmonies. Copy-ready CSS values.",
-  "id": "/loona-design-studio/color-lightcyan/",
+  "id": "/color-lightcyan/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

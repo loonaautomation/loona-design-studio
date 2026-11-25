@@ -2,7 +2,7 @@
   "name": "Loona Best Colours for Weddings & Events",
   "short_name": "Best Colours for Weddings &",
   "description": "Colour palettes for weddings & events: two curated directions with HEX codes, typography guidance and do/don&#x27;t rules. Free design guide.",
-  "id": "/loona-design-studio/he/palette-for-weddings/",
+  "id": "/he/palette-for-weddings/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

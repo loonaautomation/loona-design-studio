@@ -2,7 +2,7 @@
   "name": "Loona Safe Zone Checker",
   "short_name": "Safe Zone Checker",
   "description": "Free safe zone checker for TikTok, Instagram Reels and YouTube Shorts: preview your 9:16 frame, see what each app's UI covers, and download a transparent 1080×1920 overlay PNG. No upload, no sign-up.",
-  "id": "/loona-design-studio/safe-zone-checker/",
+  "id": "/safe-zone-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

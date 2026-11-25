@@ -2,7 +2,7 @@
   "name": "Loona Provjera sigurne zone",
   "short_name": "Provjera sigurne zone",
   "description": "Besplatna provjera sigurne zone za TikTok, Instagram Reels i YouTube Shorts: pregledajte svoj okvir 9:16, pogledajte što pokriva sučelje svake aplikacije i preuzmite prozirnu PNG prekrivku 1080×1920. Bez prijenosa, bez registracije.",
-  "id": "/loona-design-studio/safe-zone-checker/",
+  "id": "/safe-zone-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

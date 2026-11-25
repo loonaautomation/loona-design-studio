@@ -2,7 +2,7 @@
   "name": "Loona Darkolivegreen — #556B2F",
   "short_name": "Darkolivegreen — #556B2F",
   "description": "Darkolivegreen color: #556B2F, RGB(85, 107, 47), HSL(82, 39%, 30%), CMYK and WCAG contrast, plus shades, tints and harmonies. Copy-ready CSS values.",
-  "id": "/loona-design-studio/en-us/color-darkolivegreen/",
+  "id": "/en-us/color-darkolivegreen/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

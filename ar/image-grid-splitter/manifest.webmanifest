@@ -2,7 +2,7 @@
   "name": "Loona مقسّم شبكة الصور",
   "short_name": "مقسّم شبكة الصور",
   "description": "مقسّم شبكة صور مجاني: اقطع أي صورة إلى شبكة بلاطات أعمدة × صفوف مخصصة، تُسلَّم كـZIP. تغطية دقيقة، دون فجوات. دون تسجيل.",
-  "id": "/loona-design-studio/ar/image-grid-splitter/",
+  "id": "/ar/image-grid-splitter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

@@ -2,7 +2,7 @@
   "name": "Loona کیروسل اسپلٹر",
   "short_name": "کیروسل اسپلٹر",
   "description": "مفت کیروسل اسپلٹر: چوڑی تصویر کو ZIP میں 2–10 ہموار سوائپ ایبل پینلز (4:5 یا مربع) میں کاٹیں۔ کوئی اپ لوڈ نہیں، کوئی سائن اپ نہیں۔",
-  "id": "/loona-design-studio/ur/carousel-splitter/",
+  "id": "/ur/carousel-splitter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

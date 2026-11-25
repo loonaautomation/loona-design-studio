@@ -2,7 +2,7 @@
   "name": "Loona Nutrition Label Generator",
   "short_name": "Nutrition Label",
   "description": "বিনামূল্যে পুষ্টি লেবেল জেনারেটর: আপনার পণ্যের মান লিখুন এবং সঠিকভাবে রাউন্ড করা FDA Nutrition Facts প্যানেল ও EU পুষ্টি ঘোষণা পান — ছাপার জন্য প্রস্তুত PNG/PDF। সাইন-আপ নেই।",
-  "id": "/loona-design-studio/bn/nutrition-label-generator/",
+  "id": "/bn/nutrition-label-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

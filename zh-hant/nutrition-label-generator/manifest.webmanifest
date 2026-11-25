@@ -2,7 +2,7 @@
   "name": "Loona 營養標籤產生器",
   "short_name": "營養標籤",
   "description": "免費營養標籤產生器：輸入產品數值，即可獲得按規則正確修約的 FDA Nutrition Facts 標籤和 EU 營養聲明——可列印的 PNG/PDF。無需註冊。",
-  "id": "/loona-design-studio/zh-hant/nutrition-label-generator/",
+  "id": "/zh-hant/nutrition-label-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

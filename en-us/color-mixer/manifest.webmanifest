@@ -2,7 +2,7 @@
   "name": "Loona Color Mixer — Blend Two Colors in Even Steps",
   "short_name": "Color Mixer — Blend Two Colors in Even Steps",
   "description": "Free color mixer: blend any two colors into 3–12 even steps — perfect gradient stops and in-between brand tones. Click to copy HEX.",
-  "id": "/loona-design-studio/en-us/color-mixer/",
+  "id": "/en-us/color-mixer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

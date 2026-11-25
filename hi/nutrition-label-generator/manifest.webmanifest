@@ -2,7 +2,7 @@
   "name": "Loona Nutrition Label Generator",
   "short_name": "Nutrition Label",
   "description": "मुफ़्त पोषण लेबल जनरेटर: अपने उत्पाद के मूल्य लिखें और सही ढंग से राउंड किया गया FDA Nutrition Facts पैनल तथा EU पोषण घोषणा पाएँ — छपाई के लिए तैयार PNG/PDF। कोई साइन-अप नहीं।",
-  "id": "/loona-design-studio/hi/nutrition-label-generator/",
+  "id": "/hi/nutrition-label-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

@@ -2,7 +2,7 @@
   "name": "Loona เครื่องมือตรวจสอบโซนปลอดภัย",
   "short_name": "เครื่องมือตรวจสอบโซนปลอดภัย",
   "description": "เครื่องมือตรวจสอบโซนปลอดภัยฟรีสำหรับ TikTok, Instagram Reels และ YouTube Shorts: ดูตัวอย่างเฟรม 9:16 ของคุณ ดูว่า UI ของแต่ละแอปบังอะไรบ้าง และดาวน์โหลด PNG โอเวอร์เลย์โปร่งใสขนาด 1080×1920 ไม่มีการอัปโหลด ไม่ต้องสมัครใช้งาน",
-  "id": "/loona-design-studio/safe-zone-checker/",
+  "id": "/safe-zone-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

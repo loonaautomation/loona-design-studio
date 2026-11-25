@@ -2,7 +2,7 @@
   "name": "Loona নিরাপদ অঞ্চল পরীক্ষক",
   "short_name": "নিরাপদ অঞ্চল পরীক্ষক",
   "description": "TikTok, Instagram Reels ও YouTube Shorts-এর জন্য বিনামূল্যে নিরাপদ অঞ্চল পরীক্ষক: আপনার 9:16 ফ্রেমের পূর্বরূপ দেখুন, প্রতিটি অ্যাপের ইন্টারফেস কী ঢাকে তা দেখুন, এবং স্বচ্ছ 1080×1920 ওভারলে PNG ডাউনলোড করুন। কোনো আপলোড নেই, কোনো সাইন-আপ নেই।",
-  "id": "/loona-design-studio/bn/safe-zone-checker/",
+  "id": "/bn/safe-zone-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

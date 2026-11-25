@@ -2,7 +2,7 @@
   "name": "Loona YouTube Thumbnail Downloader",
   "short_name": "YouTube Thumbnail Downloader",
   "description": "Download any YouTube video's thumbnail free in HD 1280×720 and every size YouTube offers — paste a link, preview each size, save the JPG. No sign-up.",
-  "id": "/loona-design-studio/youtube-thumbnail-downloader/",
+  "id": "/youtube-thumbnail-downloader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

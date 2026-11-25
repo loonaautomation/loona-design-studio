@@ -2,7 +2,7 @@
   "name": "Loona سیف زون چیکر",
   "short_name": "سیف زون چیکر",
   "description": "TikTok، Instagram Reels اور YouTube Shorts کے لیے مفت سیف زون چیکر: اپنے 9:16 فریم کا پیش نظارہ کریں، دیکھیں ہر ایپ کا انٹرفیس کیا چھپاتا ہے، اور شفاف 1080×1920 اوورلے PNG ڈاؤن لوڈ کریں۔ کوئی اپ لوڈ نہیں، کوئی سائن اپ نہیں۔",
-  "id": "/loona-design-studio/ur/safe-zone-checker/",
+  "id": "/ur/safe-zone-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

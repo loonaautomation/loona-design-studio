@@ -2,7 +2,7 @@
   "name": "Loona منشئ مخططات الرادار",
   "short_name": "منشئ مخططات الرادار",
   "description": "منشئ مخططات رادار (عنكبوت) مجاني: قارن الملفات عبر صفات كثيرة على مخطط ويب واحد، سلاسل متعددة مع تصدير PNG. دون تسجيل.",
-  "id": "/loona-design-studio/ar/radar-chart-maker/",
+  "id": "/ar/radar-chart-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

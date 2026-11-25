@@ -2,7 +2,7 @@
   "name": "Loona Nutrition Label Generator",
   "short_name": "Διατροφική ετικέτα",
   "description": "Δωρεάν δημιουργός διατροφικής ετικέτας: πληκτρολογήστε τις τιμές του προϊόντος σας και λάβετε έναν σωστά στρογγυλοποιημένο πίνακα FDA Nutrition Facts και μια διατροφική δήλωση ΕΕ — PNG/PDF έτοιμα για εκτύπωση. Χωρίς εγγραφή.",
-  "id": "/loona-design-studio/el/nutrition-label-generator/",
+  "id": "/el/nutrition-label-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

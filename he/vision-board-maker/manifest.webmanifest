@@ -2,7 +2,7 @@
   "name": "Loona Vision Board Maker",
   "short_name": "יוצר לוחות חזון",
   "description": "יוצר לוחות חזון חינמי: תמונות יעדים בתוספת כרטיסי טקסט של הצהרות חיוביות בגדלי פוסטר וטפט. צרו את הלוח שבאמת תסתכלו עליו. ללא הרשמה.",
-  "id": "/loona-design-studio/he/vision-board-maker/",
+  "id": "/he/vision-board-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

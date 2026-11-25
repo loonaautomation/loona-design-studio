@@ -2,7 +2,7 @@
   "name": "Loona Photo Collage Maker",
   "short_name": "יוצר קולאז׳ תמונות",
   "description": "יוצר קולאז׳ תמונות מקוון חינמי: שלבו 2–9 תמונות לפריסות רשת, הירו ופסיפס עם בקרות מרווח, פינה ורקע. ייצוא PNG/JPG, ללא הרשמה.",
-  "id": "/loona-design-studio/he/photo-collage-maker/",
+  "id": "/he/photo-collage-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

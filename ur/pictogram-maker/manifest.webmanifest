@@ -2,7 +2,7 @@
   "name": "Loona پکٹوگرام میکر",
   "short_name": "پکٹوگرام میکر",
   "description": "مفت پکٹوگرام (آئسوٹائپ) چارٹ میکر: نقطوں کی قطاریں جہاں ہر علامت اکائیوں کی مقررہ تعداد کی نمائندگی کرتی ہے۔ نوجوان سامعین کے لیے بہترین۔ کوئی سائن اپ نہیں۔",
-  "id": "/loona-design-studio/ur/pictogram-maker/",
+  "id": "/ur/pictogram-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

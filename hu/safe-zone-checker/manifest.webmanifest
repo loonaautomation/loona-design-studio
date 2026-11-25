@@ -2,7 +2,7 @@
   "name": "Loona Biztonsági zóna ellenőrző",
   "short_name": "Biztonsági zóna ellenőrző",
   "description": "Ingyenes biztonsági zóna ellenőrző TikTokhoz, Instagram Reelshez és YouTube Shortshoz: tekintse meg a 9:16-os képkockáját, nézze meg, mit takar az egyes alkalmazások felülete, és töltsön le egy átlátszó 1080×1920-as fedő PNG-t. Feltöltés nélkül, regisztráció nélkül.",
-  "id": "/loona-design-studio/safe-zone-checker/",
+  "id": "/safe-zone-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

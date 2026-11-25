@@ -2,7 +2,7 @@
   "name": "Loona Seagreen (#2E8B57)",
   "short_name": "Seagreen (#2E8B57)",
   "description": "צבע Seagreen: #2E8B57, RGB(46, 139, 87), HSL(146, 50%, 36%), CMYK וניגודיות WCAG, וכן גוונים, בהירים והרמוניות. ערכי CSS מוכנים להעתקה.",
-  "id": "/loona-design-studio/he/color-seagreen/",
+  "id": "/he/color-seagreen/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

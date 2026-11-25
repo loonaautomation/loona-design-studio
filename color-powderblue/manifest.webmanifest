@@ -2,7 +2,7 @@
   "name": "Loona Powderblue (#B0E0E6)",
   "short_name": "Powderblue (#B0E0E6)",
   "description": "Powderblue colour: #B0E0E6, RGB(176, 224, 230), HSL(187, 52%, 80%), CMYK and WCAG contrast, plus shades, tints and harmonies. Copy-ready CSS values.",
-  "id": "/loona-design-studio/color-powderblue/",
+  "id": "/color-powderblue/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

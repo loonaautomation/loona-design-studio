@@ -2,7 +2,7 @@
   "name": "Loona सुरक्षित क्षेत्र जांचकर्ता",
   "short_name": "सुरक्षित क्षेत्र जांचकर्ता",
   "description": "TikTok, Instagram Reels और YouTube Shorts के लिए मुफ़्त सुरक्षित क्षेत्र जांचकर्ता: अपने 9:16 फ़्रेम का पूर्वावलोकन करें, देखें कि प्रत्येक ऐप का इंटरफ़ेस क्या ढकता है, और पारदर्शी 1080×1920 ओवरले PNG डाउनलोड करें। कोई अपलोड नहीं, कोई साइन-अप नहीं।",
-  "id": "/loona-design-studio/hi/safe-zone-checker/",
+  "id": "/hi/safe-zone-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

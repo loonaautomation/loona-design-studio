@@ -2,7 +2,7 @@
   "name": "Loona Công cụ kiểm tra vùng an toàn",
   "short_name": "Công cụ kiểm tra vùng an toàn",
   "description": "Công cụ kiểm tra vùng an toàn miễn phí cho TikTok, Instagram Reels và YouTube Shorts: xem trước khung hình 9:16 của bạn, xem giao diện của mỗi ứng dụng che mất những gì và tải xuống PNG lớp phủ trong suốt 1080×1920. Không tải lên, không đăng ký.",
-  "id": "/loona-design-studio/safe-zone-checker/",
+  "id": "/safe-zone-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-design-studio/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-design-studio/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
