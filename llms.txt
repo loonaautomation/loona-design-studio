@@ -113,4 +113,4 @@
 - [Contact](https://design.loonaautomation.com/contact.html)
 - [Privacy Policy](https://design.loonaautomation.com/privacy.html)
 - [Terms of Use](https://design.loonaautomation.com/terms.html)
-- [All Loona Automation tools](https://loonaautomation.github.io/)
+- [All Loona Automation tools](https://loonaautomation.com/)
